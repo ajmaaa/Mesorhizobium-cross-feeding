@@ -1,0 +1,2486 @@
+"source","target","weight","correlation","cor"
+"[Eubacterium] brachy group","Aeromonas",0.888973822544164,0.888973822544164,1
+"[Eubacterium] brachy group","BD1-7 clade",0.888191363521266,0.888191363521266,1
+"[Eubacterium] brachy group","Elusimicrobium",0.913050408441024,0.913050408441024,1
+"[Eubacterium] brachy group","Ferruginibacter",0.935079660989736,0.935079660989736,1
+"[Eubacterium] brachy group","Hansschlegelia",0.948928753969357,0.948928753969357,1
+"[Eubacterium] brachy group","Lentimicrobium",0.891010337532067,0.891010337532067,1
+"[Eubacterium] brachy group","OLB12",0.901005988167691,0.901005988167691,1
+"[Eubacterium] eligens group","[Ruminococcus] torques group",0.911389750263582,0.911389750263582,1
+"[Eubacterium] eligens group","Agathobacter",0.923031323595616,0.923031323595616,1
+"[Eubacterium] eligens group","Akkermansia",0.914073883334902,0.914073883334902,1
+"[Eubacterium] eligens group","Anaerostipes",0.902101280669584,0.902101280669584,1
+"[Eubacterium] eligens group","Blautia",0.92348910174183,0.92348910174183,1
+"[Eubacterium] eligens group","Butyricicoccus",0.933659723705678,0.933659723705678,1
+"[Eubacterium] eligens group","CAG-56",0.919882452507505,0.919882452507505,1
+"[Eubacterium] eligens group","Clostridium sensu stricto 1",0.898976793240942,0.898976793240942,1
+"[Eubacterium] eligens group","Faecalibacterium",0.908077460574309,0.908077460574309,1
+"[Eubacterium] eligens group","Fusicatenibacter",0.939882716279541,0.939882716279541,1
+"[Eubacterium] eligens group","Lachnoclostridium",0.911361393615977,0.911361393615977,1
+"[Eubacterium] eligens group","Lachnospira",0.907958769537359,0.907958769537359,1
+"[Eubacterium] eligens group","Lachnospiraceae ND3007 group",0.908432209129881,0.908432209129881,1
+"[Eubacterium] eligens group","Lachnospiraceae UCG-001",0.91131668373799,0.91131668373799,1
+"[Eubacterium] eligens group","Lachnospiraceae UCG-003",0.925481721916183,0.925481721916183,1
+"[Eubacterium] eligens group","Lachnospiraceae UCG-004",0.9570701313068,0.9570701313068,1
+"[Eubacterium] eligens group","Lachnospiraceae UCG-010",0.89867853984775,0.89867853984775,1
+"[Eubacterium] eligens group","Parasutterella",0.959969713251243,0.959969713251243,1
+"[Eubacterium] eligens group","Roseburia",0.917261786155269,0.917261786155269,1
+"[Eubacterium] eligens group","Subdoligranulum",0.895198513482852,0.895198513482852,1
+"[Eubacterium] eligens group","Terrisporobacter",0.904740398678594,0.904740398678594,1
+"[Eubacterium] fissicatena group","Aeromicrobium",0.964035377407601,0.964035377407601,1
+"[Eubacterium] fissicatena group","Alloactinosynnema",0.978408293314223,0.978408293314223,1
+"[Eubacterium] fissicatena group","Butyricimonas",0.932086012482373,0.932086012482373,1
+"[Eubacterium] fissicatena group","Christensenellaceae R-7 group",0.924889563828597,0.924889563828597,1
+"[Eubacterium] fissicatena group","Devosia",0.92304096861244,0.92304096861244,1
+"[Eubacterium] fissicatena group","Intestinimonas",0.977520475109763,0.977520475109763,1
+"[Eubacterium] fissicatena group","Lachnospiraceae NK4B4 group",0.99709721565138,0.99709721565138,1
+"[Eubacterium] fissicatena group","Monoglobus",0.904418607250778,0.904418607250778,1
+"[Eubacterium] fissicatena group","NK4A214 group",0.905186992075502,0.905186992075502,1
+"[Eubacterium] fissicatena group","Prevotellaceae NK3B31 group",0.960845347177551,0.960845347177551,1
+"[Eubacterium] fissicatena group","Ruminococcus",0.967366130540683,0.967366130540683,1
+"[Eubacterium] fissicatena group","Sporocytophaga",0.919363452734865,0.919363452734865,1
+"[Eubacterium] fissicatena group","UCG-005",0.885450496733245,0.885450496733245,1
+"[Eubacterium] fissicatena group","UCG-009",0.982847460526793,0.982847460526793,1
+"[Eubacterium] hallii group","[Ruminococcus] torques group",0.899582437134547,0.899582437134547,1
+"[Eubacterium] hallii group","Agathobacter",0.896228181805859,0.896228181805859,1
+"[Eubacterium] hallii group","Anaerostipes",0.892961155673024,0.892961155673024,1
+"[Eubacterium] hallii group","Blautia",0.938736514245019,0.938736514245019,1
+"[Eubacterium] hallii group","CAG-56",0.936124374360933,0.936124374360933,1
+"[Eubacterium] hallii group","Clostridium sensu stricto 1",0.943174308503593,0.943174308503593,1
+"[Eubacterium] hallii group","Coprococcus",0.937335281570719,0.937335281570719,1
+"[Eubacterium] hallii group","Dorea",0.965673721530272,0.965673721530272,1
+"[Eubacterium] hallii group","Lachnospira",0.935372236455502,0.935372236455502,1
+"[Eubacterium] hallii group","Lachnospiraceae ND3007 group",0.942299960166055,0.942299960166055,1
+"[Eubacterium] hallii group","Lachnospiraceae UCG-001",0.931397935323331,0.931397935323331,1
+"[Eubacterium] hallii group","Lachnospiraceae UCG-003",0.922301841541846,0.922301841541846,1
+"[Eubacterium] hallii group","Roseburia",0.904188160473893,0.904188160473893,1
+"[Eubacterium] hallii group","Subdoligranulum",0.904952650598869,0.904952650598869,1
+"[Eubacterium] hallii group","Terrisporobacter",0.943162049229429,0.943162049229429,1
+"[Eubacterium] ruminantium group","Fournierella",0.958762224274495,0.958762224274495,1
+"[Eubacterium] siraeum group","Colidextribacter",0.904723093112266,0.904723093112266,1
+"[Eubacterium] siraeum group","Gemmatimonas",0.909767504414267,0.909767504414267,1
+"[Eubacterium] siraeum group","Ileibacterium",0.93358183008344,0.93358183008344,1
+"[Eubacterium] siraeum group","Nesterenkonia",0.919056224195963,0.919056224195963,1
+"[Eubacterium] siraeum group","NK4A214 group",0.904759321185365,0.904759321185365,1
+"[Eubacterium] siraeum group","Oscillospira",0.937594839595399,0.937594839595399,1
+"[Eubacterium] siraeum group","Oxalobacter",0.952193951543409,0.952193951543409,1
+"[Eubacterium] siraeum group","Papillibacter",0.96702762161951,0.96702762161951,1
+"[Eubacterium] xylanophilum group","Alistipes",0.96339713467242,0.96339713467242,1
+"[Eubacterium] xylanophilum group","Aliterella",0.893109118287305,0.893109118287305,1
+"[Eubacterium] xylanophilum group","Arcticibacter",0.952301711063176,0.952301711063176,1
+"[Eubacterium] xylanophilum group","Bdellovibrio",0.929207974992267,0.929207974992267,1
+"[Eubacterium] xylanophilum group","Curvibacter",0.906931464779322,0.906931464779322,1
+"[Eubacterium] xylanophilum group","Ensifer",0.963388139233439,0.963388139233439,1
+"[Eubacterium] xylanophilum group","Flavihumibacter",0.887499766677372,0.887499766677372,1
+"[Eubacterium] xylanophilum group","Herbaspirillum",0.947374907080009,0.947374907080009,1
+"[Eubacterium] xylanophilum group","Intestinibacter",0.901070534353232,0.901070534353232,1
+"[Eubacterium] xylanophilum group","JGI 0001001-H03",0.939866812325145,0.939866812325145,1
+"[Eubacterium] xylanophilum group","Leptolyngbya EcFYyyy-00",0.940012671643695,0.940012671643695,1
+"[Eubacterium] xylanophilum group","Microcoleus SAG 1449-1a",0.891208446125049,0.891208446125049,1
+"[Eubacterium] xylanophilum group","Pseudoxanthomonas",0.969932818124786,0.969932818124786,1
+"[Eubacterium] xylanophilum group","Salipaludibacillus",0.997808481613169,0.997808481613169,1
+"[Eubacterium] xylanophilum group","Scytonema UTEX 2349",0.90431996961641,0.90431996961641,1
+"[Eubacterium] xylanophilum group","Sutterella",0.89412994443575,0.89412994443575,1
+"[Eubacterium] xylanophilum group","SWB02",0.902325761433689,0.902325761433689,1
+"[Eubacterium] xylanophilum group","Symplocastrum CPER-KK1",0.943699186942386,0.943699186942386,1
+"[Eubacterium] xylanophilum group","Tyzzerella",0.995591268231783,0.995591268231783,1
+"[Eubacterium] xylanophilum group","UCG-002",0.889678606133071,0.889678606133071,1
+"[Eubacterium] xylanophilum group","UCG-003",0.905150233611502,0.905150233611502,1
+"[Ruminococcus] gauvreauii group","[Ruminococcus] torques group",0.919676161879046,0.919676161879046,1
+"[Ruminococcus] gauvreauii group","Blautia",0.913283815207121,0.913283815207121,1
+"[Ruminococcus] gauvreauii group","CAG-56",0.930203432014281,0.930203432014281,1
+"[Ruminococcus] gauvreauii group","Clostridium sensu stricto 1",0.939698923452502,0.939698923452502,1
+"[Ruminococcus] gauvreauii group","Coprococcus",0.934077039817754,0.934077039817754,1
+"[Ruminococcus] gauvreauii group","Family XIII UCG-001",0.987095357213622,0.987095357213622,1
+"[Ruminococcus] gauvreauii group","Lachnospira",0.949578540648352,0.949578540648352,1
+"[Ruminococcus] gauvreauii group","Lachnospiraceae ND3007 group",0.929097906132671,0.929097906132671,1
+"[Ruminococcus] gauvreauii group","Lachnospiraceae UCG-001",0.91401533996256,0.91401533996256,1
+"[Ruminococcus] gauvreauii group","Lachnospiraceae UCG-003",0.901284631779924,0.901284631779924,1
+"[Ruminococcus] gauvreauii group","Lachnospiraceae UCG-010",0.92569772116681,0.92569772116681,1
+"[Ruminococcus] gauvreauii group","Roseburia",0.90310933359827,0.90310933359827,1
+"[Ruminococcus] gauvreauii group","Terrisporobacter",0.933686538350188,0.933686538350188,1
+"[Ruminococcus] gnavus group","[Ruminococcus] torques group",0.904258625231884,0.904258625231884,1
+"[Ruminococcus] gnavus group","Agathobacter",0.934584365984762,0.934584365984762,1
+"[Ruminococcus] gnavus group","Akkermansia",0.960952664695858,0.960952664695858,1
+"[Ruminococcus] gnavus group","Anaerostipes",0.976420966293448,0.976420966293448,1
+"[Ruminococcus] gnavus group","Bdellovibrio",0.917738056888556,0.917738056888556,1
+"[Ruminococcus] gnavus group","Blautia",0.920569376401719,0.920569376401719,1
+"[Ruminococcus] gnavus group","Butyricicoccus",0.963299924981746,0.963299924981746,1
+"[Ruminococcus] gnavus group","Faecalibacterium",0.964239311754157,0.964239311754157,1
+"[Ruminococcus] gnavus group","Flavihumibacter",0.987298089822607,0.987298089822607,1
+"[Ruminococcus] gnavus group","Fusicatenibacter",0.947517308185058,0.947517308185058,1
+"[Ruminococcus] gnavus group","Intestinibacter",0.984137162912482,0.984137162912482,1
+"[Ruminococcus] gnavus group","Lachnoclostridium",0.939074281968841,0.939074281968841,1
+"[Ruminococcus] gnavus group","Lachnospira",0.895960471870374,0.895960471870374,1
+"[Ruminococcus] gnavus group","Lachnospiraceae UCG-001",0.894968780821349,0.894968780821349,1
+"[Ruminococcus] gnavus group","Lachnospiraceae UCG-003",0.941026782167317,0.941026782167317,1
+"[Ruminococcus] gnavus group","Lachnospiraceae UCG-004",0.953338333974013,0.953338333974013,1
+"[Ruminococcus] gnavus group","Parasutterella",0.892832144874676,0.892832144874676,1
+"[Ruminococcus] gnavus group","Roseburia",0.952750500193105,0.952750500193105,1
+"[Ruminococcus] gnavus group","Subdoligranulum",0.952561312088819,0.952561312088819,1
+"[Ruminococcus] gnavus group","UBA1819",0.890623023716781,0.890623023716781,1
+"[Ruminococcus] gnavus group","UCG-003",0.90570712970389,0.90570712970389,1
+"[Ruminococcus] torques group","Agathobacter",0.973140370450587,0.973140370450587,1
+"[Ruminococcus] torques group","Akkermansia",0.888027795757449,0.888027795757449,1
+"[Ruminococcus] torques group","Anaerostipes",0.927544658240978,0.927544658240978,1
+"[Ruminococcus] torques group","Blautia",0.981062089222576,0.981062089222576,1
+"[Ruminococcus] torques group","Butyricicoccus",0.923907591708765,0.923907591708765,1
+"[Ruminococcus] torques group","CAG-56",0.963792406305397,0.963792406305397,1
+"[Ruminococcus] torques group","Cetobacterium",0.887414515512501,0.887414515512501,1
+"[Ruminococcus] torques group","Clostridium sensu stricto 1",0.971755297554678,0.971755297554678,1
+"[Ruminococcus] torques group","Coprococcus",0.960533451160833,0.960533451160833,1
+"[Ruminococcus] torques group","Faecalibacterium",0.956452056696381,0.956452056696381,1
+"[Ruminococcus] torques group","Fusicatenibacter",0.976569675364165,0.976569675364165,1
+"[Ruminococcus] torques group","Lachnospira",0.980207639597508,0.980207639597508,1
+"[Ruminococcus] torques group","Lachnospiraceae ND3007 group",0.975486627474869,0.975486627474869,1
+"[Ruminococcus] torques group","Lachnospiraceae UCG-001",0.944356646299423,0.944356646299423,1
+"[Ruminococcus] torques group","Lachnospiraceae UCG-003",0.980835549350427,0.980835549350427,1
+"[Ruminococcus] torques group","Lachnospiraceae UCG-004",0.915520601851087,0.915520601851087,1
+"[Ruminococcus] torques group","Parasutterella",0.913345318696815,0.913345318696815,1
+"[Ruminococcus] torques group","Roseburia",0.983235986159957,0.983235986159957,1
+"[Ruminococcus] torques group","Subdoligranulum",0.957436703173902,0.957436703173902,1
+"[Ruminococcus] torques group","Terrisporobacter",0.96349893847242,0.96349893847242,1
+"AAP99","Actinotalea",0.9097698167838,0.9097698167838,1
+"AAP99","Aeromonas",0.90879893066184,0.90879893066184,1
+"AAP99","Anaerolineaceae UCG-001",0.998666001056778,0.998666001056778,1
+"AAP99","BD1-7 clade",0.911055313538885,0.911055313538885,1
+"AAP99","Bradyrhizobium",0.907277252606148,0.907277252606148,1
+"AAP99","Candidatus Accumulibacter",0.996993462738537,0.996993462738537,1
+"AAP99","Candidatus Microthrix",0.974865359246462,0.974865359246462,1
+"AAP99","Candidatus Udaeobacter",0.975229564857698,0.975229564857698,1
+"AAP99","CL500-29 marine group",0.950626846128459,0.950626846128459,1
+"AAP99","Constrictibacter",0.918654042526962,0.918654042526962,1
+"AAP99","Dechloromonas",0.908776435973775,0.908776435973775,1
+"AAP99","Desulfomicrobium",0.999916987184009,0.999916987184009,1
+"AAP99","Geothrix",0.989853916050988,0.989853916050988,1
+"AAP99","Gordonia",0.960323033447602,0.960323033447602,1
+"AAP99","Hydrogenophaga",0.915741560171869,0.915741560171869,1
+"AAP99","Hyphomicrobium",0.957070471614182,0.957070471614182,1
+"AAP99","Ilumatobacter",0.930506678632589,0.930506678632589,1
+"AAP99","Macellibacteroides",0.957468220219473,0.957468220219473,1
+"AAP99","Methylorosula",0.998666019321772,0.998666019321772,1
+"AAP99","Methylovirgula",0.98703027833792,0.98703027833792,1
+"AAP99","Nitriliruptor",0.903704854261865,0.903704854261865,1
+"AAP99","Nordella",0.933943379969011,0.933943379969011,1
+"AAP99","Ottowia",0.974352183620414,0.974352183620414,1
+"AAP99","Paenibacillus",0.939460185073749,0.939460185073749,1
+"AAP99","Polymorphobacter",0.996993422192916,0.996993422192916,1
+"AAP99","Prosthecobacter",0.972953452236926,0.972953452236926,1
+"AAP99","Proteiniclasticum",0.937351734442581,0.937351734442581,1
+"AAP99","Pseudorhodobacter",0.999892067090674,0.999892067090674,1
+"AAP99","Reyranella",0.924373222737471,0.924373222737471,1
+"AAP99","Rhizobacter",0.969457778811952,0.969457778811952,1
+"AAP99","Rhizorhapis",0.94019990941161,0.94019990941161,1
+"AAP99","Rhodoferax",0.96462075122082,0.96462075122082,1
+"AAP99","Sphaerotilus",0.984592043033961,0.984592043033961,1
+"AAP99","Sphingorhabdus",0.928940062410264,0.928940062410264,1
+"AAP99","Tabrizicola",0.998688127139742,0.998688127139742,1
+"AAP99","Tetrasphaera",0.985927797508098,0.985927797508098,1
+"AAP99","Thiothrix",0.992425832086949,0.992425832086949,1
+"AAP99","Trichococcus",0.910857041563537,0.910857041563537,1
+"AAP99","Woeseia",0.932154000324601,0.932154000324601,1
+"Abditibacterium","Ellin6067",0.885736147066683,-0.885736147066683,-1
+"Abditibacterium","Geodermatophilus",0.890744775788371,0.890744775788371,1
+"Abditibacterium","Microvirga",0.914382657865147,0.914382657865147,1
+"Abditibacterium","Mycetocola",0.948373208612511,0.948373208612511,1
+"Acidibacter","Anaerolineaceae UCG-001",0.893233971617213,0.893233971617213,1
+"Acidibacter","Bacillus",0.933490391056002,0.933490391056002,1
+"Acidibacter","Bradyrhizobium",0.990681179353422,0.990681179353422,1
+"Acidibacter","Candidatus Accumulibacter",0.898463047709272,0.898463047709272,1
+"Acidibacter","Candidatus Udaeobacter",0.907929220763039,0.907929220763039,1
+"Acidibacter","Dongia",0.891849355919364,0.891849355919364,1
+"Acidibacter","Gordonia",0.890623184158001,0.890623184158001,1
+"Acidibacter","Hirschia",0.957032200566704,0.957032200566704,1
+"Acidibacter","Hyphomicrobium",0.919473996485439,0.919473996485439,1
+"Acidibacter","Inquilinus",0.910983197688327,0.910983197688327,1
+"Acidibacter","Methyloceanibacter",0.995600034760343,0.995600034760343,1
+"Acidibacter","Methylorosula",0.893233896113857,0.893233896113857,1
+"Acidibacter","Methylovirgula",0.911218595827783,0.911218595827783,1
+"Acidibacter","Nitriliruptor",0.979525645361102,0.979525645361102,1
+"Acidibacter","Nordella",0.898014397635749,0.898014397635749,1
+"Acidibacter","Ohtaekwangia",0.946710999415018,0.946710999415018,1
+"Acidibacter","Paenibacillus",0.978090713289925,0.978090713289925,1
+"Acidibacter","Pajaroellobacter",0.893885467981177,0.893885467981177,1
+"Acidibacter","Phaselicystis",0.88910274745641,0.88910274745641,1
+"Acidibacter","Polymorphobacter",0.898463147254921,0.898463147254921,1
+"Acidibacter","Prosthecobacter",0.906235133887279,0.906235133887279,1
+"Acidibacter","Reyranella",0.928872549194849,0.928872549194849,1
+"Acidibacter","Rhizobacter",0.905962931892536,0.905962931892536,1
+"Acidibacter","Rhodoferax",0.895723593402026,0.895723593402026,1
+"Acinetobacter","Afipia",0.964801621813891,0.964801621813891,1
+"Acinetobacter","Agromyces",0.977629921915724,0.977629921915724,1
+"Acinetobacter","Anaeromyxobacter",0.929878474011957,0.929878474011957,1
+"Acinetobacter","Brachybacterium",0.99616678443995,0.99616678443995,1
+"Acinetobacter","Brevundimonas",0.894811636435514,0.894811636435514,1
+"Acinetobacter","Citrobacter",0.967440758223473,0.967440758223473,1
+"Acinetobacter","Comamonas",0.895318226067189,0.895318226067189,1
+"Acinetobacter","Corynebacterium",0.929543349140425,0.929543349140425,1
+"Acinetobacter","Cutibacterium",0.92897035488382,0.92897035488382,1
+"Acinetobacter","Dialister",0.964035890738876,0.964035890738876,1
+"Acinetobacter","E1B-B3-114",0.897527459668746,0.897527459668746,1
+"Acinetobacter","Georgenia",0.96397080376431,0.96397080376431,1
+"Acinetobacter","Glycomyces",0.989396764995748,0.989396764995748,1
+"Acinetobacter","Nocardia",0.932754414978481,0.932754414978481,1
+"Acinetobacter","Saccharothrix",0.95171934122731,0.95171934122731,1
+"Acinetobacter","Staphylococcus",0.991438185993782,0.991438185993782,1
+"Acinetobacter","SZB85",0.961539616899768,0.961539616899768,1
+"Acinetobacter","Vulgatibacter",0.890182901814363,0.890182901814363,1
+"Actimicrobium","Flavisolibacter",0.90334346826562,0.90334346826562,1
+"Actimicrobium","Limnobacter",0.99037996728618,0.99037996728618,1
+"Actimicrobium","Phytomonospora",0.957743973840457,0.957743973840457,1
+"Actinomadura","Comamonas",0.892794803095569,0.892794803095569,1
+"Actinomadura","Corynebacterium",0.911282575709153,0.911282575709153,1
+"Actinomadura","Georgenia",0.896090671577941,0.896090671577941,1
+"Actinomadura","Nocardia",0.945762361207042,0.945762361207042,1
+"Actinomadura","Saccharothrix",0.915996832481708,0.915996832481708,1
+"Actinomadura","Sphaerisporangium",0.921354604057557,0.921354604057557,1
+"Actinomadura","Streptomyces",0.946954674992027,0.946954674992027,1
+"Actinomyces","Chungangia",0.980640842719384,0.980640842719384,1
+"Actinomyces","Crossiella",0.947504581341971,0.947504581341971,1
+"Actinomyces","21551",0.987116988973904,0.987116988973904,1
+"Actinomyces","Klebsiella",0.979986068209452,0.979986068209452,1
+"Actinomyces","Opitutus",0.890150792777406,0.890150792777406,1
+"Actinomyces","Pediococcus",0.911624549166662,0.911624549166662,1
+"Actinomyces","Sumerlaea",0.944294857584954,0.944294857584954,1
+"Actinomycetospora","Deinococcus",0.944415090007686,0.944415090007686,1
+"Actinomycetospora","Diaphorobacter",0.947932434872964,0.947932434872964,1
+"Actinomycetospora","Luteimonas",0.961219230441247,0.961219230441247,1
+"Actinomycetospora","Methylocella",0.922931738752071,0.922931738752071,1
+"Actinomycetospora","Rufibacter",0.968652432585649,0.968652432585649,1
+"Actinomycetospora","Sphingobacterium",0.976290138876657,0.976290138876657,1
+"Actinorectispora","Bilophila",0.925606835196323,0.925606835196323,1
+"Actinorectispora","CAG-352",0.924302517530068,0.924302517530068,1
+"Actinorectispora","Candidatus Xiphinematobacter",0.946689547297341,0.946689547297341,1
+"Actinorectispora","Cohnella",0.987331086667464,0.987331086667464,1
+"Actinorectispora","Crossiella",0.937881169596917,0.937881169596917,1
+"Actinorectispora","Enterococcus",0.933889583657742,0.933889583657742,1
+"Actinorectispora","Jiangella",0.947245302232012,0.947245302232012,1
+"Actinorectispora","Kibdelosporangium",0.999951263672088,0.999951263672088,1
+"Actinorectispora","Lactobacillus",0.974187205623959,0.974187205623959,1
+"Actinorectispora","Longispora",0.930598552066822,0.930598552066822,1
+"Actinorectispora","Mycobacterium",0.908154380907417,0.908154380907417,1
+"Actinorectispora","Ochrobactrum",0.971723452081149,0.971723452081149,1
+"Actinorectispora","Paenarthrobacter",0.931177324140539,0.931177324140539,1
+"Actinorectispora","Pediococcus",0.937027887457564,0.937027887457564,1
+"Actinorectispora","Roseimicrobium",0.956720309559226,0.956720309559226,1
+"Actinorectispora","Rothia",0.98567149260675,0.98567149260675,1
+"Actinorectispora","Streptococcus",0.922370051786697,0.922370051786697,1
+"Actinorectispora","Vicinamibacter",0.937903415285709,0.937903415285709,1
+"Actinorectispora","wb1-P19",0.957647584917421,0.957647584917421,1
+"Actinorectispora","Weissella",0.956400747610968,0.956400747610968,1
+"Actinotalea","Anaerolineaceae UCG-001",0.920972418552577,0.920972418552577,1
+"Actinotalea","Candidatus Accumulibacter",0.925666738661833,0.925666738661833,1
+"Actinotalea","Candidatus Microthrix",0.889395646037712,0.889395646037712,1
+"Actinotalea","Candidatus Udaeobacter",0.90893485289582,0.90893485289582,1
+"Actinotalea","Caulobacter",0.908123781981503,0.908123781981503,1
+"Actinotalea","Desulfomicrobium",0.91279257365108,0.91279257365108,1
+"Actinotalea","Gordonia",0.918601737856143,0.918601737856143,1
+"Actinotalea","Hyphomicrobium",0.910927621995751,0.910927621995751,1
+"Actinotalea","Ilumatobacter",0.887552242530876,0.887552242530876,1
+"Actinotalea","Methylorosula",0.920972350224982,0.920972350224982,1
+"Actinotalea","Methylovirgula",0.93657233670377,0.93657233670377,1
+"Actinotalea","Nordella",0.889544658791893,0.889544658791893,1
+"Actinotalea","Paenibacillus",0.906757839773319,0.906757839773319,1
+"Actinotalea","Polymorphobacter",0.925666827220185,0.925666827220185,1
+"Actinotalea","Prosthecobacter",0.93244830204072,0.93244830204072,1
+"Actinotalea","Proteiniclasticum",0.996353220614296,0.996353220614296,1
+"Actinotalea","Pseudorhodobacter",0.906138796702008,0.906138796702008,1
+"Actinotalea","Rhizobacter",0.928511075250001,0.928511075250001,1
+"Actinotalea","Rhodoferax",0.923217368859981,0.923217368859981,1
+"Actinotalea","Tabrizicola",0.896263412682393,0.896263412682393,1
+"Actinotalea","Woeseia",0.889242248415396,0.889242248415396,1
+"Adhaeribacter","Noviherbaspirillum",0.891512244049653,0.891512244049653,1
+"ADurb.Bin063-1","Gaiella",0.894694082094851,0.894694082094851,1
+"ADurb.Bin063-1","I-8",0.917379075870752,0.917379075870752,1
+"ADurb.Bin063-1","Jatrophihabitans",0.984103909632878,0.984103909632878,1
+"ADurb.Bin063-1","Longispora",0.93224422626193,0.93224422626193,1
+"ADurb.Bin063-1","Mycobacterium",0.891641220241846,0.891641220241846,1
+"ADurb.Bin063-1","Vicinamibacter",0.932307747892289,0.932307747892289,1
+"ADurb.Bin063-1","wb1-P19",0.890180876243451,0.890180876243451,1
+"Aeromicrobium","Alloactinosynnema",0.910592419492074,0.910592419492074,1
+"Aeromicrobium","Aureimonas",0.918052398721549,0.918052398721549,1
+"Aeromicrobium","Butyricimonas",0.942400824890713,0.942400824890713,1
+"Aeromicrobium","Christensenellaceae R-7 group",0.908466478443356,0.908466478443356,1
+"Aeromicrobium","Cyanothece PCC 7425",0.964035377407601,0.964035377407601,1
+"Aeromicrobium","Devosia",0.956542947839535,0.956542947839535,1
+"Aeromicrobium","Intestinimonas",0.972982650965285,0.972982650965285,1
+"Aeromicrobium","Lachnospiraceae NK4B4 group",0.97325667831327,0.97325667831327,1
+"Aeromicrobium","Monoglobus",0.922182393625554,0.922182393625554,1
+"Aeromicrobium","Prevotellaceae NK3B31 group",0.97003099938093,0.97003099938093,1
+"Aeromicrobium","Ruminococcus",0.897505217950514,0.897505217950514,1
+"Aeromicrobium","Sporocytophaga",0.94161069240057,0.94161069240057,1
+"Aeromicrobium","UCG-009",0.917154596016397,0.917154596016397,1
+"Aeromonas","Anaerolineaceae UCG-001",0.901054654719075,0.901054654719075,1
+"Aeromonas","Candidatus Accumulibacter",0.896264565898934,0.896264565898934,1
+"Aeromonas","Candidatus Microthrix",0.906202899184313,0.906202899184313,1
+"Aeromonas","Dechloromonas",0.918606408843317,0.918606408843317,1
+"Aeromonas","Desulfomicrobium",0.907093544147942,0.907093544147942,1
+"Aeromonas","Ferruginibacter",0.885305338252818,0.885305338252818,1
+"Aeromonas","Geothrix",0.911879657232746,0.911879657232746,1
+"Aeromonas","Macellibacteroides",0.906646560921728,0.906646560921728,1
+"Aeromonas","Methylorosula",0.90105471600595,0.90105471600595,1
+"Aeromonas","Ottowia",0.913956572500468,0.913956572500468,1
+"Aeromonas","Polymorphobacter",0.896264463056662,0.896264463056662,1
+"Aeromonas","Pseudorhodobacter",0.910559392398314,0.910559392398314,1
+"Aeromonas","Rhizorhapis",0.897541872648721,0.897541872648721,1
+"Aeromonas","Sphaerotilus",0.916917077132572,0.916917077132572,1
+"Aeromonas","Sphingorhabdus",0.891054252952709,0.891054252952709,1
+"Aeromonas","Tabrizicola",0.914084280197168,0.914084280197168,1
+"Aeromonas","Terrimonas",0.929753903145897,0.929753903145897,1
+"Aeromonas","Tetrasphaera",0.909750105792856,0.909750105792856,1
+"Aeromonas","Thiothrix",0.917455599570763,0.917455599570763,1
+"Aeromonas","Woeseia",0.926565149298093,0.926565149298093,1
+"Afipia","Agromyces",0.96097482925038,0.96097482925038,1
+"Afipia","Brachybacterium",0.95380034802613,0.95380034802613,1
+"Afipia","Citrobacter",0.903454728152168,0.903454728152168,1
+"Afipia","Cutibacterium",0.908706089838825,0.908706089838825,1
+"Afipia","Dialister",0.941555694051287,0.941555694051287,1
+"Afipia","Georgenia",0.971837030112143,0.971837030112143,1
+"Afipia","Glycomyces",0.936847747760008,0.936847747760008,1
+"Afipia","Nocardia",0.904668836315185,0.904668836315185,1
+"Afipia","Saccharothrix",0.944556468839248,0.944556468839248,1
+"Afipia","Staphylococcus",0.958905859262109,0.958905859262109,1
+"Afipia","Vulgatibacter",0.887538671633149,0.887538671633149,1
+"Agathobacter","Akkermansia",0.957020026681471,0.957020026681471,1
+"Agathobacter","Anaerostipes",0.969056116081194,0.969056116081194,1
+"Agathobacter","Blautia",0.985804729004423,0.985804729004423,1
+"Agathobacter","Butyricicoccus",0.956470950498353,0.956470950498353,1
+"Agathobacter","CAG-56",0.950451644925665,0.950451644925665,1
+"Agathobacter","Clostridium sensu stricto 1",0.96187387372911,0.96187387372911,1
+"Agathobacter","Coprococcus",0.959206529444528,0.959206529444528,1
+"Agathobacter","Faecalibacterium",0.96038925056326,0.96038925056326,1
+"Agathobacter","Flavihumibacter",0.928677672759125,0.928677672759125,1
+"Agathobacter","Fusicatenibacter",0.981329557595975,0.981329557595975,1
+"Agathobacter","Intestinibacter",0.89926003330298,0.89926003330298,1
+"Agathobacter","Lachnoclostridium",0.885415147198869,0.885415147198869,1
+"Agathobacter","Lachnospira",0.968302959777359,0.968302959777359,1
+"Agathobacter","Lachnospiraceae ND3007 group",0.969814769079756,0.969814769079756,1
+"Agathobacter","Lachnospiraceae UCG-001",0.955764822211055,0.955764822211055,1
+"Agathobacter","Lachnospiraceae UCG-003",0.990927872204336,0.990927872204336,1
+"Agathobacter","Lachnospiraceae UCG-004",0.939220812764185,0.939220812764185,1
+"Agathobacter","Parasutterella",0.923430261285938,0.923430261285938,1
+"Agathobacter","Roseburia",0.988160963800508,0.988160963800508,1
+"Agathobacter","Subdoligranulum",0.985025442865369,0.985025442865369,1
+"Agathobacter","Terrisporobacter",0.961432797323429,0.961432797323429,1
+"Agromyces","Brachybacterium",0.976915923707325,0.976915923707325,1
+"Agromyces","Brevundimonas",0.924375907452681,0.924375907452681,1
+"Agromyces","Citrobacter",0.965419575577053,0.965419575577053,1
+"Agromyces","Corynebacterium",0.917751722347305,0.917751722347305,1
+"Agromyces","Cutibacterium",0.914368051250549,0.914368051250549,1
+"Agromyces","Dialister",0.951833215243499,0.951833215243499,1
+"Agromyces","Georgenia",0.962277286564486,0.962277286564486,1
+"Agromyces","Glycomyces",0.946910989107491,0.946910989107491,1
+"Agromyces","Nocardia",0.927491231182918,0.927491231182918,1
+"Agromyces","Saccharothrix",0.95505333196398,0.95505333196398,1
+"Agromyces","Sphingoaurantiacus",0.893358680379106,0.893358680379106,1
+"Agromyces","Staphylococcus",0.969990579631732,0.969990579631732,1
+"Agromyces","SZB85",0.930867069504314,0.930867069504314,1
+"Agromyces","Vulgatibacter",0.89776450711169,0.89776450711169,1
+"Ahniella","Bauldia",0.891529491367476,0.891529491367476,1
+"Akkermansia","Anaerostipes",0.965657584325033,0.965657584325033,1
+"Akkermansia","Blautia",0.925127061822973,0.925127061822973,1
+"Akkermansia","Butyricicoccus",0.956821481034241,0.956821481034241,1
+"Akkermansia","Faecalibacterium",0.929444678649495,0.929444678649495,1
+"Akkermansia","Flavihumibacter",0.95432945493803,0.95432945493803,1
+"Akkermansia","Fusicatenibacter",0.943742148151693,0.943742148151693,1
+"Akkermansia","Intestinibacter",0.951879928197265,0.951879928197265,1
+"Akkermansia","Lachnoclostridium",0.90710489949752,0.90710489949752,1
+"Akkermansia","Lachnospira",0.898011056792237,0.898011056792237,1
+"Akkermansia","Lachnospiraceae ND3007 group",0.893795802251948,0.893795802251948,1
+"Akkermansia","Lachnospiraceae UCG-001",0.917877562140051,0.917877562140051,1
+"Akkermansia","Lachnospiraceae UCG-003",0.940692112587601,0.940692112587601,1
+"Akkermansia","Lachnospiraceae UCG-004",0.95472510813775,0.95472510813775,1
+"Akkermansia","Parasutterella",0.901668718519543,0.901668718519543,1
+"Akkermansia","Roseburia",0.937463596422781,0.937463596422781,1
+"Akkermansia","Subdoligranulum",0.942232012060867,0.942232012060867,1
+"Akkermansia","Terrisporobacter",0.892330807841056,0.892330807841056,1
+"Akkermansia","UBA1819",0.919046662357661,0.919046662357661,1
+"Aliidiomarina","Mesorhizobium",0.89510112800801,0.89510112800801,1
+"Aliidiomarina","Niastella",0.891082210655628,0.891082210655628,1
+"Aliidiomarina","Rubrobacter",0.939795551708571,0.939795551708571,1
+"Aliidiomarina","Solirubrobacter",0.929307782546663,0.929307782546663,1
+"Aliidiomarina","Sphingoaurantiacus",0.887075378313233,0.887075378313233,1
+"Aliidiomarina","Sulfurifustis",0.933585407218086,0.933585407218086,1
+"Alistipes","Aliterella",0.936612067332118,0.936612067332118,1
+"Alistipes","Amaricoccus",0.891609892090098,0.891609892090098,1
+"Alistipes","Arcticibacter",0.96556427751406,0.96556427751406,1
+"Alistipes","Bacteroides",0.927213486802178,0.927213486802178,1
+"Alistipes","Chroococcidiopsis SAG 2023",0.914063489893146,0.914063489893146,1
+"Alistipes","Ensifer",0.91347543723182,0.91347543723182,1
+"Alistipes","Herbaspirillum",0.971029853840952,0.971029853840952,1
+"Alistipes","JGI 0001001-H03",0.958474898450129,0.958474898450129,1
+"Alistipes","Leptolyngbya EcFYyyy-00",0.925463573646553,0.925463573646553,1
+"Alistipes","Leptolyngbya VRUC 135",0.888585448722003,0.888585448722003,1
+"Alistipes","Microcoleus PCC-7113",0.888508652931087,0.888508652931087,1
+"Alistipes","Microcoleus SAG 1449-1a",0.965182446845329,0.965182446845329,1
+"Alistipes","Nostoc PCC-73102",0.915440035892449,0.915440035892449,1
+"Alistipes","Phascolarctobacterium",0.899550558391534,0.899550558391534,1
+"Alistipes","Phormidium SAG 37.90",0.894775131862225,0.894775131862225,1
+"Alistipes","Prevotellaceae UCG-001",0.900903481060381,0.900903481060381,1
+"Alistipes","Pseudoxanthomonas",0.991441172430831,0.991441172430831,1
+"Alistipes","Salipaludibacillus",0.973282289069997,0.973282289069997,1
+"Alistipes","Scytonema UTEX 2349",0.947631360722043,0.947631360722043,1
+"Alistipes","Sutterella",0.916480591688478,0.916480591688478,1
+"Alistipes","SWB02",0.924422497684853,0.924422497684853,1
+"Alistipes","Symplocastrum CPER-KK1",0.972361475253378,0.972361475253378,1
+"Alistipes","Tyzzerella",0.959990612953523,0.959990612953523,1
+"Aliterella","Amaricoccus",0.943600127314239,0.943600127314239,1
+"Aliterella","Arcticibacter",0.968045120225021,0.968045120225021,1
+"Aliterella","Chroococcidiopsis SAG 2023",0.994141612506936,0.994141612506936,1
+"Aliterella","Cupriavidus",0.890761293172678,0.890761293172678,1
+"Aliterella","Denitratisoma",0.924902912533734,0.924902912533734,1
+"Aliterella","Dokdonella",0.88909762017086,0.88909762017086,1
+"Aliterella","Herbaspirillum",0.985431996281264,0.985431996281264,1
+"Aliterella","JGI 0001001-H03",0.930570795326443,0.930570795326443,1
+"Aliterella","Leptolyngbya EcFYyyy-00",0.947421632206179,0.947421632206179,1
+"Aliterella","Leptolyngbya VRUC 135",0.979180395792364,0.979180395792364,1
+"Aliterella","Microcoleus SAG 1449-1a",0.972920210761168,0.972920210761168,1
+"Aliterella","Phascolarctobacterium",0.89240171282684,0.89240171282684,1
+"Aliterella","Phormidesmis ANT.L52.6",0.952348465572699,0.952348465572699,1
+"Aliterella","Phormidium SAG 37.90",0.908565509411712,0.908565509411712,1
+"Aliterella","Prevotellaceae UCG-001",0.899506321150271,0.899506321150271,1
+"Aliterella","Pseudogulbenkiania",0.935178334391364,0.935178334391364,1
+"Aliterella","Pseudomonas",0.962300886991272,0.962300886991272,1
+"Aliterella","Pseudoxanthomonas",0.95294978611349,0.95294978611349,1
+"Aliterella","Ralstonia",0.937458637577922,0.937458637577922,1
+"Aliterella","Raoultella",0.946614150969952,0.946614150969952,1
+"Aliterella","Salipaludibacillus",0.919121742704274,0.919121742704274,1
+"Aliterella","Scytonema UTEX 2349",0.987683060019928,0.987683060019928,1
+"Aliterella","Stenotrophobacter",0.897944958541784,0.897944958541784,1
+"Aliterella","Sutterella",0.96730972000263,0.96730972000263,1
+"Aliterella","SWB02",0.942448740166077,0.942448740166077,1
+"Aliterella","Symplocastrum CPER-KK1",0.978659045559896,0.978659045559896,1
+"Aliterella","Thiobacillus",0.88909762017086,0.88909762017086,1
+"Aliterella","Tyzzerella",0.911282262513103,0.911282262513103,1
+"Aliterella","Vogesella",0.897453723458936,0.897453723458936,1
+"Alloactinosynnema","Butyricimonas",0.930576138006287,0.930576138006287,1
+"Alloactinosynnema","Christensenellaceae R-7 group",0.885095417056698,0.885095417056698,1
+"Alloactinosynnema","Cyanothece PCC 7425",0.978408293314223,0.978408293314223,1
+"Alloactinosynnema","Ileibacterium",0.908679551383572,0.908679551383572,1
+"Alloactinosynnema","Intestinimonas",0.926120223586896,0.926120223586896,1
+"Alloactinosynnema","Lachnospiraceae NK4B4 group",0.95983167447981,0.95983167447981,1
+"Alloactinosynnema","Nesterenkonia",0.940537707935854,0.940537707935854,1
+"Alloactinosynnema","NK4A214 group",0.963908710845657,0.963908710845657,1
+"Alloactinosynnema","Oxalobacter",0.92612453993788,0.92612453993788,1
+"Alloactinosynnema","Papillibacter",0.918328240662152,0.918328240662152,1
+"Alloactinosynnema","Ruminococcus",0.985287173381178,0.985287173381178,1
+"Alloactinosynnema","Sarcina",0.940157579028221,0.940157579028221,1
+"Alloactinosynnema","UCG-009",0.983005337316027,0.983005337316027,1
+"Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium","Chroococcidiopsis SAG 2023",0.88697389014555,0.88697389014555,1
+"Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium","Cupriavidus",0.899907758325684,0.899907758325684,1
+"Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium","Dokdonella",0.89990828632898,0.89990828632898,1
+"Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium","Leptolyngbya VRUC 135",0.915330131420669,0.915330131420669,1
+"Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium","Phormidesmis ANT.L52.6",0.901228737601819,0.901228737601819,1
+"Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium","Pseudogulbenkiania",0.914507072277805,0.914507072277805,1
+"Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium","Pseudomonas",0.914957969666146,0.914957969666146,1
+"Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium","Ralstonia",0.91445231332019,0.91445231332019,1
+"Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium","Scytonema UTEX 2349",0.887614275902918,0.887614275902918,1
+"Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium","Thiobacillus",0.89990828632898,0.89990828632898,1
+"Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium","TM7a",0.916315879367041,0.916315879367041,1
+"Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium","Tychonema CCAP 1459-11B",0.891880515786926,0.891880515786926,1
+"Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium","Vogesella",0.885239175179654,0.885239175179654,1
+"alphaI cluster","GCA-900066575",0.946807531709269,0.946807531709269,1
+"Altererythrobacter","Rhodoplanes",0.915143765195585,0.915143765195585,1
+"Amaricoccus","Chroococcidiopsis SAG 2023",0.95098604658756,0.95098604658756,1
+"Amaricoccus","Coprobacter",0.912943858531207,0.912943858531207,1
+"Amaricoccus","Cupriavidus",0.885274510318124,0.885274510318124,1
+"Amaricoccus","Dokdonella",0.902188357158814,0.902188357158814,1
+"Amaricoccus","Herbaspirillum",0.908969708172259,0.908969708172259,1
+"Amaricoccus","Leptolyngbya VRUC 135",0.93473526094031,0.93473526094031,1
+"Amaricoccus","Microcoleus PCC-7113",0.891472238183195,0.891472238183195,1
+"Amaricoccus","Microcoleus SAG 1449-1a",0.976457231283375,0.976457231283375,1
+"Amaricoccus","Nostoc PCC-73102",0.92846022129978,0.92846022129978,1
+"Amaricoccus","Prevotellaceae UCG-001",0.974218809097818,0.974218809097818,1
+"Amaricoccus","Pseudogulbenkiania",0.936944507054452,0.936944507054452,1
+"Amaricoccus","Pseudomonas",0.968886697293194,0.968886697293194,1
+"Amaricoccus","Pseudoxanthomonas",0.901128455742383,0.901128455742383,1
+"Amaricoccus","Ralstonia",0.916778317370068,0.916778317370068,1
+"Amaricoccus","Raoultella",0.998959494356819,0.998959494356819,1
+"Amaricoccus","Scytonema UTEX 2349",0.934292116120744,0.934292116120744,1
+"Amaricoccus","Symplocastrum CPER-KK1",0.925844489249848,0.925844489249848,1
+"Amaricoccus","Thiobacillus",0.902188357158814,0.902188357158814,1
+"Amycolatopsis","PMMR1",0.944131357494684,0.944131357494684,1
+"Amycolatopsis","Pseudarthrobacter",0.897243259541934,0.897243259541934,1
+"Anaerolineaceae UCG-001","BD1-7 clade",0.888551494835851,0.888551494835851,1
+"Anaerolineaceae UCG-001","Bradyrhizobium",0.919491985217059,0.919491985217059,1
+"Anaerolineaceae UCG-001","Candidatus Accumulibacter",0.99966448299506,0.99966448299506,1
+"Anaerolineaceae UCG-001","Candidatus Microthrix",0.979020249907117,0.979020249907117,1
+"Anaerolineaceae UCG-001","Candidatus Udaeobacter",0.979278624243331,0.979278624243331,1
+"Anaerolineaceae UCG-001","CL500-29 marine group",0.937006192236673,0.937006192236673,1
+"Anaerolineaceae UCG-001","Constrictibacter",0.930112790913626,0.930112790913626,1
+"Anaerolineaceae UCG-001","Dechloromonas",0.915163808329881,0.915163808329881,1
+"Anaerolineaceae UCG-001","Desulfomicrobium",0.999248412597973,0.999248412597973,1
+"Anaerolineaceae UCG-001","Geothrix",0.981885889665698,0.981885889665698,1
+"Anaerolineaceae UCG-001","Gordonia",0.970679237699737,0.970679237699737,1
+"Anaerolineaceae UCG-001","Hydrogenophaga",0.926881102930487,0.926881102930487,1
+"Anaerolineaceae UCG-001","Hyphomicrobium",0.969051213159397,0.969051213159397,1
+"Anaerolineaceae UCG-001","Ilumatobacter",0.941461016950148,0.941461016950148,1
+"Anaerolineaceae UCG-001","Macellibacteroides",0.941292134503097,0.941292134503097,1
+"Anaerolineaceae UCG-001","Methylorosula",0.999999999999938,0.999999999999938,1
+"Anaerolineaceae UCG-001","Methylovirgula",0.994002834571768,0.994002834571768,1
+"Anaerolineaceae UCG-001","Nitriliruptor",0.916071310071656,0.916071310071656,1
+"Anaerolineaceae UCG-001","Nordella",0.945405791714131,0.945405791714131,1
+"Anaerolineaceae UCG-001","Ottowia",0.961432954353696,0.961432954353696,1
+"Anaerolineaceae UCG-001","Paenibacillus",0.951377826564496,0.951377826564496,1
+"Anaerolineaceae UCG-001","Polymorphobacter",0.999664469441259,0.999664469441259,1
+"Anaerolineaceae UCG-001","Prosthecobacter",0.982803940221342,0.982803940221342,1
+"Anaerolineaceae UCG-001","Proteiniclasticum",0.948202152941169,0.948202152941169,1
+"Anaerolineaceae UCG-001","Pseudorhodobacter",0.997799585513467,0.997799585513467,1
+"Anaerolineaceae UCG-001","Reyranella",0.936692087296869,0.936692087296869,1
+"Anaerolineaceae UCG-001","Rhizobacter",0.979486410202351,0.979486410202351,1
+"Anaerolineaceae UCG-001","Rhizorhapis",0.921357458590459,0.921357458590459,1
+"Anaerolineaceae UCG-001","Rhodoferax",0.974839758172338,0.974839758172338,1
+"Anaerolineaceae UCG-001","Sphaerotilus",0.974249258293736,0.974249258293736,1
+"Anaerolineaceae UCG-001","Sphingorhabdus",0.908583862083309,0.908583862083309,1
+"Anaerolineaceae UCG-001","Tabrizicola",0.994711849044512,0.994711849044512,1
+"Anaerolineaceae UCG-001","Tetrasphaera",0.976936202250003,0.976936202250003,1
+"Anaerolineaceae UCG-001","Thiothrix",0.98475876633606,0.98475876633606,1
+"Anaerolineaceae UCG-001","Trichococcus",0.905834993705248,0.905834993705248,1
+"Anaerolineaceae UCG-001","Woeseia",0.943084547463571,0.943084547463571,1
+"Anaeromyxobacter","Brachybacterium",0.944106559679037,0.944106559679037,1
+"Anaeromyxobacter","Citrobacter",0.886513815011611,0.886513815011611,1
+"Anaeromyxobacter","Corynebacterium",0.94847511022549,0.94847511022549,1
+"Anaeromyxobacter","E1B-B3-114",0.936948807493769,0.936948807493769,1
+"Anaeromyxobacter","Enterobacter",0.93809311542195,0.93809311542195,1
+"Anaeromyxobacter","Glycomyces",0.966971557372574,0.966971557372574,1
+"Anaeromyxobacter","Saccharothrix",0.89891244341344,0.89891244341344,1
+"Anaeromyxobacter","Staphylococcus",0.921303075624122,0.921303075624122,1
+"Anaeromyxobacter","SZB85",0.90232632424748,0.90232632424748,1
+"Anaerostipes","Blautia",0.96345175063917,0.96345175063917,1
+"Anaerostipes","Butyricicoccus",0.976412542119881,0.976412542119881,1
+"Anaerostipes","CAG-56",0.896069246728284,0.896069246728284,1
+"Anaerostipes","Clostridium sensu stricto 1",0.916111967367741,0.916111967367741,1
+"Anaerostipes","Coprococcus",0.90513978372545,0.90513978372545,1
+"Anaerostipes","Faecalibacterium",0.957337192637523,0.957337192637523,1
+"Anaerostipes","Flavihumibacter",0.971103527116332,0.971103527116332,1
+"Anaerostipes","Fusicatenibacter",0.96134349416076,0.96134349416076,1
+"Anaerostipes","Intestinibacter",0.958604612376947,0.958604612376947,1
+"Anaerostipes","Lachnoclostridium",0.90546933325064,0.90546933325064,1
+"Anaerostipes","Lachnospira",0.935962865227703,0.935962865227703,1
+"Anaerostipes","Lachnospiraceae ND3007 group",0.926394477621617,0.926394477621617,1
+"Anaerostipes","Lachnospiraceae UCG-001",0.939625273795476,0.939625273795476,1
+"Anaerostipes","Lachnospiraceae UCG-003",0.974569701085125,0.974569701085125,1
+"Anaerostipes","Lachnospiraceae UCG-004",0.945442296370298,0.945442296370298,1
+"Anaerostipes","Parasutterella",0.90595495284908,0.90595495284908,1
+"Anaerostipes","Roseburia",0.975521407201166,0.975521407201166,1
+"Anaerostipes","Subdoligranulum",0.986850575355899,0.986850575355899,1
+"Anaerostipes","Terrisporobacter",0.92576731561783,0.92576731561783,1
+"Anaerostipes","UBA1819",0.904695474527649,0.904695474527649,1
+"Aquabacterium","Ideonella",0.92806126665891,0.92806126665891,1
+"Aquabacterium","OLB8",0.895358569678845,0.895358569678845,1
+"Aquabacterium","Rhodobacter",0.948317592538652,0.948317592538652,1
+"Aquabacterium","Sulfuritalea",0.924553455496429,0.924553455496429,1
+"Aquabacterium","Terrimonas",0.921681207714637,0.921681207714637,1
+"Aquicella","Oscillibacter",0.960930537189681,0.960930537189681,1
+"Archangium","Herpetosiphon",0.998537319653623,0.998537319653623,1
+"Archangium","Inquilinus",0.974886276091626,0.974886276091626,1
+"Archangium","P3OB-42",0.920523595096539,0.920523595096539,1
+"Archangium","Pajaroellobacter",0.960456049739969,0.960456049739969,1
+"Archangium","Phaselicystis",0.954581408348773,0.954581408348773,1
+"Arcticibacter","Chroococcidiopsis SAG 2023",0.958997501839482,0.958997501839482,1
+"Arcticibacter","Denitratisoma",0.953616089617353,0.953616089617353,1
+"Arcticibacter","Ensifer",0.925114973829861,0.925114973829861,1
+"Arcticibacter","Herbaspirillum",0.98178749520372,0.98178749520372,1
+"Arcticibacter","JGI 0001001-H03",0.965727628631812,0.965727628631812,1
+"Arcticibacter","Leptolyngbya EcFYyyy-00",0.988579617249455,0.988579617249455,1
+"Arcticibacter","Leptolyngbya VRUC 135",0.949146134324275,0.949146134324275,1
+"Arcticibacter","Leptonema",0.892402095695875,0.892402095695875,1
+"Arcticibacter","Microcoleus SAG 1449-1a",0.945426020768781,0.945426020768781,1
+"Arcticibacter","Phascolarctobacterium",0.910774802830675,0.910774802830675,1
+"Arcticibacter","Phormidesmis ANT.L52.6",0.93793239675206,0.93793239675206,1
+"Arcticibacter","Phormidium SAG 37.90",0.944877509894786,0.944877509894786,1
+"Arcticibacter","Pseudogulbenkiania",0.887331944459903,0.887331944459903,1
+"Arcticibacter","Pseudomonas",0.917975321577574,0.917975321577574,1
+"Arcticibacter","Pseudoxanthomonas",0.965756344012312,0.965756344012312,1
+"Arcticibacter","Ralstonia",0.90264926327245,0.90264926327245,1
+"Arcticibacter","Salipaludibacillus",0.969391309455966,0.969391309455966,1
+"Arcticibacter","Scytonema UTEX 2349",0.985316713786696,0.985316713786696,1
+"Arcticibacter","Stenotrophobacter",0.908279240154051,0.908279240154051,1
+"Arcticibacter","Sutterella",0.983810524505696,0.983810524505696,1
+"Arcticibacter","SWB02",0.972932305292894,0.972932305292894,1
+"Arcticibacter","Symplocastrum CPER-KK1",0.981782202675704,0.981782202675704,1
+"Arcticibacter","Tyzzerella",0.970825883609014,0.970825883609014,1
+"Arcticibacter","UCG-002",0.906252156954238,0.906252156954238,1
+"Arcticibacter","UCG-003",0.923826019121727,0.923826019121727,1
+"Arcticibacter","Vogesella",0.8891924986148,0.8891924986148,1
+"Arsenicitalea","Conexibacter",0.911009900460146,0.911009900460146,1
+"Aureimonas","Devosia",0.910506492947751,0.910506492947751,1
+"Aureimonas","Intestinimonas",0.90459681955142,0.90459681955142,1
+"Aureimonas","JCM 18997",0.957124957857837,0.957124957857837,1
+"Aureimonas","Lachnospiraceae NK4B4 group",0.904905006549218,0.904905006549218,1
+"Aureimonas","Mesorhizobium",0.945514970707516,0.945514970707516,1
+"Aureimonas","Monoglobus",0.960365723120406,0.960365723120406,1
+"Aureimonas","Prevotellaceae NK3B31 group",0.948177195187819,0.948177195187819,1
+"Aureimonas","Sporocytophaga",0.99472408122275,0.99472408122275,1
+"Aureimonas","Truepera",0.904122053954186,0.904122053954186,1
+"Bacillus","Bradyrhizobium",0.946670593470119,0.946670593470119,1
+"Bacillus","Candidatus Alysiosphaera",0.900125866028821,0.900125866028821,1
+"Bacillus","Hydrogenophaga",0.92443673309987,0.92443673309987,1
+"Bacillus","Hyphomicrobium",0.909379160619716,0.909379160619716,1
+"Bacillus","Methyloceanibacter",0.906356987497837,0.906356987497837,1
+"Bacillus","Nitriliruptor",0.963582694191358,0.963582694191358,1
+"Bacillus","Nordella",0.890234449893347,0.890234449893347,1
+"Bacillus","Paenibacillus",0.932172556818888,0.932172556818888,1
+"Bacillus","Rhizobacter",0.907927821500237,0.907927821500237,1
+"Bacteroides","Coprobacter",0.939769389156672,0.939769389156672,1
+"Bacteroides","Curvibacter",0.911993309321217,0.911993309321217,1
+"Bacteroides","Microcoleus PCC-7113",0.957245697343427,0.957245697343427,1
+"Bacteroides","Microcoleus SAG 1449-1a",0.895913497028779,0.895913497028779,1
+"Bacteroides","Nostoc PCC-73102",0.954336165678961,0.954336165678961,1
+"Bacteroides","Prevotellaceae UCG-001",0.911303618789187,0.911303618789187,1
+"Bacteroides","Pseudoxanthomonas",0.921117878380168,0.921117878380168,1
+"Bacteroides","Shimazuella",0.959777257022518,0.959777257022518,1
+"Bacteroides","Trichocoleus SAG 26.92",0.959777301813865,0.959777301813865,1
+"Bauldia","Dechloromonas",0.911928130981572,0.911928130981572,1
+"Bauldia","Pseudorhodoplanes",0.979596960110424,0.979596960110424,1
+"Bauldia","Rhodobacter",0.888131874050721,0.888131874050721,1
+"Bauldia","Sulfuritalea",0.920438515690256,0.920438515690256,1
+"BD1-7 clade","CL500-29 marine group",0.964702563828795,0.964702563828795,1
+"BD1-7 clade","Desulfomicrobium",0.905667474812566,0.905667474812566,1
+"BD1-7 clade","Elusimicrobium",0.973088445562268,0.973088445562268,1
+"BD1-7 clade","Ferruginibacter",0.958382352342775,0.958382352342775,1
+"BD1-7 clade","Geothrix",0.954889259729474,0.954889259729474,1
+"BD1-7 clade","Lentimicrobium",0.898674345523592,0.898674345523592,1
+"BD1-7 clade","Macellibacteroides",0.991266459097387,0.991266459097387,1
+"BD1-7 clade","Methylorosula",0.888551657119417,0.888551657119417,1
+"BD1-7 clade","OLB12",0.997461007403782,0.997461007403782,1
+"BD1-7 clade","Ottowia",0.980464413478602,0.980464413478602,1
+"BD1-7 clade","Phreatobacter",0.975555358701558,0.975555358701558,1
+"BD1-7 clade","Pseudorhodobacter",0.917014249587413,0.917014249587413,1
+"BD1-7 clade","Rhizorhapis",0.997007647213734,0.997007647213734,1
+"BD1-7 clade","Sphaerotilus",0.969112752399047,0.969112752399047,1
+"BD1-7 clade","Sphingorhabdus",0.998955798459106,0.998955798459106,1
+"BD1-7 clade","Tabrizicola",0.930971427024792,0.930971427024792,1
+"BD1-7 clade","Tetrasphaera",0.959526872466967,0.959526872466967,1
+"BD1-7 clade","Thermomonas",0.947447562934206,0.947447562934206,1
+"BD1-7 clade","Thiothrix",0.954801997137429,0.954801997137429,1
+"Bdellovibrio","Flavihumibacter",0.919296602457423,0.919296602457423,1
+"Bdellovibrio","Intestinibacter",0.932869650536705,0.932869650536705,1
+"Bdellovibrio","JGI 0001001-H03",0.899443216939662,0.899443216939662,1
+"Bdellovibrio","Leptolyngbya EcFYyyy-00",0.90300664592459,0.90300664592459,1
+"Bdellovibrio","Salipaludibacillus",0.92358077277452,0.92358077277452,1
+"Bdellovibrio","Tyzzerella",0.937133452028795,0.937133452028795,1
+"Bdellovibrio","UCG-003",0.924075849292439,0.924075849292439,1
+"Belnapia","Methylobacterium-Methylorubrum",0.891937290835128,0.891937290835128,1
+"Bifidobacterium","Marvinbryantia",0.937844725300511,0.937844725300511,1
+"Bilophila","CAG-352",0.896838711154445,0.896838711154445,1
+"Bilophila","Candidatus Solibacter",0.902248260223625,0.902248260223625,1
+"Bilophila","Candidatus Xiphinematobacter",0.990952124830952,0.990952124830952,1
+"Bilophila","Cohnella",0.924903700749392,0.924903700749392,1
+"Bilophila","Collinsella",0.944477562351301,0.944477562351301,1
+"Bilophila","Enterococcus",0.950067840779268,0.950067840779268,1
+"Bilophila","Jatrophihabitans",0.924762897818322,0.924762897818322,1
+"Bilophila","Kibdelosporangium",0.928814734534302,0.928814734534302,1
+"Bilophila","Kribbella",0.948681631053859,0.948681631053859,1
+"Bilophila","Longispora",0.986142435727079,0.986142435727079,1
+"Bilophila","Mycobacterium",0.97754628901437,0.97754628901437,1
+"Bilophila","Ochrobactrum",0.974144071310642,0.974144071310642,1
+"Bilophila","Paenarthrobacter",0.976688061618016,0.976688061618016,1
+"Bilophila","Roseimicrobium",0.987448852703133,0.987448852703133,1
+"Bilophila","Rothia",0.943975941502989,0.943975941502989,1
+"Bilophila","Streptococcus",0.896499744552291,0.896499744552291,1
+"Bilophila","Vicinamibacter",0.984435644443667,0.984435644443667,1
+"Bilophila","wb1-P19",0.903280065123866,0.903280065123866,1
+"Bilophila","Weissella",0.974936588863924,0.974936588863924,1
+"Blastocatella","Flavisolibacter",0.983431056228773,0.983431056228773,1
+"Blastocatella","Limnobacter",0.90959471871103,0.90959471871103,1
+"Blastocatella","Modestobacter",0.929109405462763,0.929109405462763,1
+"Blastocatella","Neo-b11",0.929167733496015,0.929167733496015,1
+"Blastocatella","Nitrosomonas",0.965905835852001,0.965905835852001,1
+"Blastocatella","Phytomonospora",0.928970519075908,0.928970519075908,1
+"Blastocatella","Rubritepida",0.939081572821471,0.939081572821471,1
+"Blastocatella","Segetibacter",0.889850898679872,0.889850898679872,1
+"Blastocatella","YC-ZSS-LKJ147",0.932237112619107,0.932237112619107,1
+"Blastococcus","Roseisolibacter",0.942970324723139,0.942970324723139,1
+"Blautia","Butyricicoccus",0.937563201669697,0.937563201669697,1
+"Blautia","CAG-56",0.979728302292755,0.979728302292755,1
+"Blautia","Clostridium sensu stricto 1",0.989164280851146,0.989164280851146,1
+"Blautia","Coprococcus",0.982287420331056,0.982287420331056,1
+"Blautia","Faecalibacterium",0.940415949272177,0.940415949272177,1
+"Blautia","Flavihumibacter",0.897558369177695,0.897558369177695,1
+"Blautia","Fusicatenibacter",0.969759346333994,0.969759346333994,1
+"Blautia","Lachnospira",0.993399716064108,0.993399716064108,1
+"Blautia","Lachnospiraceae ND3007 group",0.992018931305487,0.992018931305487,1
+"Blautia","Lachnospiraceae UCG-001",0.98330158966648,0.98330158966648,1
+"Blautia","Lachnospiraceae UCG-003",0.998014195197366,0.998014195197366,1
+"Blautia","Lachnospiraceae UCG-004",0.915774308022496,0.915774308022496,1
+"Blautia","Lachnospiraceae UCG-010",0.888263522705794,0.888263522705794,1
+"Blautia","Parasutterella",0.92531645099024,0.92531645099024,1
+"Blautia","Roseburia",0.99188060657312,0.99188060657312,1
+"Blautia","Subdoligranulum",0.974895941121552,0.974895941121552,1
+"Blautia","Terrisporobacter",0.989725994480011,0.989725994480011,1
+"Blautia","UBA1819",0.885254864956515,0.885254864956515,1
+"Brachybacterium","Brevundimonas",0.89664704536473,0.89664704536473,1
+"Brachybacterium","Citrobacter",0.967695271056175,0.967695271056175,1
+"Brachybacterium","Comamonas",0.889225786443381,0.889225786443381,1
+"Brachybacterium","Corynebacterium",0.954709477617002,0.954709477617002,1
+"Brachybacterium","Cutibacterium",0.925575802351605,0.925575802351605,1
+"Brachybacterium","Dialister",0.962925944235101,0.962925944235101,1
+"Brachybacterium","E1B-B3-114",0.886949572316628,0.886949572316628,1
+"Brachybacterium","Enterobacter",0.911153515355734,0.911153515355734,1
+"Brachybacterium","Georgenia",0.94932144064076,0.94932144064076,1
+"Brachybacterium","Glycomyces",0.987307546819201,0.987307546819201,1
+"Brachybacterium","Nocardia",0.925404767008975,0.925404767008975,1
+"Brachybacterium","Saccharothrix",0.950102611497183,0.950102611497183,1
+"Brachybacterium","Staphylococcus",0.992648903799894,0.992648903799894,1
+"Brachybacterium","SZB85",0.956673643959713,0.956673643959713,1
+"Brachybacterium","Vulgatibacter",0.895881754632752,0.895881754632752,1
+"Bradyrhizobium","Candidatus Accumulibacter",0.924695513143668,0.924695513143668,1
+"Bradyrhizobium","Candidatus Microthrix",0.899541678674956,0.899541678674956,1
+"Bradyrhizobium","Candidatus Udaeobacter",0.927510716997999,0.927510716997999,1
+"Bradyrhizobium","Constrictibacter",0.887365173495779,0.887365173495779,1
+"Bradyrhizobium","Desulfomicrobium",0.910551948290502,0.910551948290502,1
+"Bradyrhizobium","Gordonia",0.922948379949099,0.922948379949099,1
+"Bradyrhizobium","Hirschia",0.935038421381575,0.935038421381575,1
+"Bradyrhizobium","Hydrogenophaga",0.907347880685727,0.907347880685727,1
+"Bradyrhizobium","Hyphomicrobium",0.951360018265839,0.951360018265839,1
+"Bradyrhizobium","Methyloceanibacter",0.984292574890515,0.984292574890515,1
+"Bradyrhizobium","Methylorosula",0.919491909942284,0.919491909942284,1
+"Bradyrhizobium","Methylovirgula",0.937248470239795,0.937248470239795,1
+"Bradyrhizobium","Nitriliruptor",0.995811523253425,0.995811523253425,1
+"Bradyrhizobium","Nordella",0.90037635469005,0.90037635469005,1
+"Bradyrhizobium","Ohtaekwangia",0.901271097211467,0.901271097211467,1
+"Bradyrhizobium","Paenibacillus",0.991300235704775,0.991300235704775,1
+"Bradyrhizobium","Polymorphobacter",0.924695611995399,0.924695611995399,1
+"Bradyrhizobium","Prosthecobacter",0.935409870654115,0.935409870654115,1
+"Bradyrhizobium","Proteiniclasticum",0.890986722566642,0.890986722566642,1
+"Bradyrhizobium","Pseudorhodobacter",0.90335946320694,0.90335946320694,1
+"Bradyrhizobium","Reyranella",0.941176016995381,0.941176016995381,1
+"Bradyrhizobium","Rhizobacter",0.941436800104842,0.941436800104842,1
+"Bradyrhizobium","Rhodoferax",0.927171085527353,0.927171085527353,1
+"Bradyrhizobium","Tabrizicola",0.892773708280627,0.892773708280627,1
+"Bradyrhizobium","Woeseia",0.88529576184794,0.88529576184794,1
+"Brevibacterium","Leptolyngbya ANT.L52.2",0.95507420207027,0.95507420207027,1
+"Brevibacterium","Mastigocladopsis PCC-10914",0.91061000519684,0.91061000519684,1
+"Brevibacterium","Methyloversatilis",0.982505407090453,0.982505407090453,1
+"Brevibacterium","Microbacterium",0.946902445362518,0.946902445362518,1
+"Brevibacterium","Rhodococcus",0.886622899215827,0.886622899215827,1
+"Brevibacterium","Rhodovarius",0.930371942572076,0.930371942572076,1
+"Brevibacterium","Sulfuriferula",0.933702003626476,0.933702003626476,1
+"Brevibacterium","Tychonema CCAP 1459-11B",0.931799152515732,0.931799152515732,1
+"Brevibacterium","Vibrio",0.990564460519334,0.990564460519334,1
+"Brevundimonas","Citrobacter",0.951188344484899,0.951188344484899,1
+"Brevundimonas","Cutibacterium",0.895380341327406,0.895380341327406,1
+"Brevundimonas","Solirubrobacter",0.887274653069011,0.887274653069011,1
+"Brevundimonas","Sphingoaurantiacus",0.908063274639044,0.908063274639044,1
+"Brevundimonas","Staphylococcus",0.902984617237804,0.902984617237804,1
+"Brevundimonas","Sulfurifustis",0.925403579941116,0.925403579941116,1
+"Brevundimonas","SZB85",0.887575970940673,0.887575970940673,1
+"Brevundimonas","Vulgatibacter",0.898639951057636,0.898639951057636,1
+"Bryobacter","Candidatus Chlorothrix",0.912640786707498,0.912640786707498,1
+"Bryobacter","Collinsella",0.900533054643039,0.900533054643039,1
+"Bryobacter","Kribbella",0.91066453771971,0.91066453771971,1
+"Bryobacter","Mycobacterium",0.887371501997928,0.887371501997928,1
+"Bryobacter","Pirellula",0.909353983683185,0.909353983683185,1
+"Bryobacter","Puia",0.900450227494117,0.900450227494117,1
+"Bryobacter","RB41",0.890483682312534,0.890483682312534,1
+"Butyricicoccus","Faecalibacterium",0.961281585253551,0.961281585253551,1
+"Butyricicoccus","Flavihumibacter",0.971723678503911,0.971723678503911,1
+"Butyricicoccus","Fusicatenibacter",0.980571954641843,0.980571954641843,1
+"Butyricicoccus","Intestinibacter",0.959851332926451,0.959851332926451,1
+"Butyricicoccus","Lachnoclostridium",0.951424386237734,0.951424386237734,1
+"Butyricicoccus","Lachnospira",0.902543400335191,0.902543400335191,1
+"Butyricicoccus","Lachnospiraceae ND3007 group",0.899182302915213,0.899182302915213,1
+"Butyricicoccus","Lachnospiraceae UCG-001",0.902158089214784,0.902158089214784,1
+"Butyricicoccus","Lachnospiraceae UCG-003",0.951282145092663,0.951282145092663,1
+"Butyricicoccus","Lachnospiraceae UCG-004",0.987182432005971,0.987182432005971,1
+"Butyricicoccus","Parasutterella",0.934265540020744,0.934265540020744,1
+"Butyricicoccus","Roseburia",0.952330969472032,0.952330969472032,1
+"Butyricicoccus","Subdoligranulum",0.965457605785963,0.965457605785963,1
+"Butyricicoccus","Terrisporobacter",0.889323550019018,0.889323550019018,1
+"Butyricimonas","Cyanothece PCC 7425",0.932086012482373,0.932086012482373,1
+"Butyricimonas","Intestinimonas",0.886742564592082,0.886742564592082,1
+"Butyricimonas","Lachnospiraceae NK4B4 group",0.922522657126147,0.922522657126147,1
+"Butyricimonas","Ruminococcus",0.90367541639309,0.90367541639309,1
+"Butyricimonas","UCG-009",0.911594269791636,0.911594269791636,1
+"Caenimonas","Cnuella",0.910751558645951,0.910751558645951,1
+"Caenimonas","Nakamurella",0.889561785935802,-0.889561785935802,-1
+"CAG-352","Candidatus Xiphinematobacter",0.92692285430987,0.92692285430987,1
+"CAG-352","Cohnella",0.962620123250995,0.962620123250995,1
+"CAG-352","Enterococcus",0.91766060453089,0.91766060453089,1
+"CAG-352","Kibdelosporangium",0.926438809913838,0.926438809913838,1
+"CAG-352","Longispora",0.900822804977037,0.900822804977037,1
+"CAG-352","Ochrobactrum",0.9324507883274,0.9324507883274,1
+"CAG-352","Paenarthrobacter",0.887144064492624,0.887144064492624,1
+"CAG-352","Roseimicrobium",0.941537654810396,0.941537654810396,1
+"CAG-352","Rothia",0.94000433529429,0.94000433529429,1
+"CAG-352","Streptococcus",0.996276518876182,0.996276518876182,1
+"CAG-352","Vicinamibacter",0.899813607737586,0.899813607737586,1
+"CAG-352","Weissella",0.953356489393583,0.953356489393583,1
+"CAG-56","Clostridium sensu stricto 1",0.99525723083672,0.99525723083672,1
+"CAG-56","Coprococcus",0.992211094233981,0.992211094233981,1
+"CAG-56","Fusicatenibacter",0.927171652671562,0.927171652671562,1
+"CAG-56","Lachnospira",0.98702961980144,0.98702961980144,1
+"CAG-56","Lachnospiraceae ND3007 group",0.992572722645086,0.992572722645086,1
+"CAG-56","Lachnospiraceae UCG-001",0.975495076701196,0.975495076701196,1
+"CAG-56","Lachnospiraceae UCG-003",0.967130653471967,0.967130653471967,1
+"CAG-56","Lachnospiraceae UCG-010",0.912480771415173,0.912480771415173,1
+"CAG-56","Parasutterella",0.904677075415246,0.904677075415246,1
+"CAG-56","Roseburia",0.952950339850255,0.952950339850255,1
+"CAG-56","Subdoligranulum",0.918087136573607,0.918087136573607,1
+"CAG-56","Terrisporobacter",0.991929121609915,0.991929121609915,1
+"Candidatus Accumulibacter","Candidatus Microthrix",0.980120869713155,0.980120869713155,1
+"Candidatus Accumulibacter","Candidatus Udaeobacter",0.980325895771377,0.980325895771377,1
+"Candidatus Accumulibacter","CL500-29 marine group",0.929232185121925,0.929232185121925,1
+"Candidatus Accumulibacter","Constrictibacter",0.934926419863692,0.934926419863692,1
+"Candidatus Accumulibacter","Dechloromonas",0.917448475901585,0.917448475901585,1
+"Candidatus Accumulibacter","Desulfomicrobium",0.997909089394119,0.997909089394119,1
+"Candidatus Accumulibacter","Geothrix",0.976902348790322,0.976902348790322,1
+"Candidatus Accumulibacter","Gordonia",0.974899034713445,0.974899034713445,1
+"Candidatus Accumulibacter","Hydrogenophaga",0.931537853980163,0.931537853980163,1
+"Candidatus Accumulibacter","Hyphomicrobium",0.974087570890471,0.974087570890471,1
+"Candidatus Accumulibacter","Ilumatobacter",0.946010214530689,0.946010214530689,1
+"Candidatus Accumulibacter","Macellibacteroides",0.932231926828326,0.932231926828326,1
+"Candidatus Accumulibacter","Methylorosula",0.999664473832603,0.999664473832603,1
+"Candidatus Accumulibacter","Methylovirgula",0.996501841562945,0.996501841562945,1
+"Candidatus Accumulibacter","Nitriliruptor",0.92135438443603,0.92135438443603,1
+"Candidatus Accumulibacter","Nordella",0.950205893489473,0.950205893489473,1
+"Candidatus Accumulibacter","Ottowia",0.953986264987478,0.953986264987478,1
+"Candidatus Accumulibacter","Paenibacillus",0.956400287501415,0.956400287501415,1
+"Candidatus Accumulibacter","Polymorphobacter",0.999999999999863,0.999999999999863,1
+"Candidatus Accumulibacter","Prosthecobacter",0.986757870506144,0.986757870506144,1
+"Candidatus Accumulibacter","Proteiniclasticum",0.952692447880966,0.952692447880966,1
+"Candidatus Accumulibacter","Pseudorhodobacter",0.995747436114328,0.995747436114328,1
+"Candidatus Accumulibacter","Reyranella",0.94193057056676,0.94193057056676,1
+"Candidatus Accumulibacter","Rhizobacter",0.983533036600377,0.983533036600377,1
+"Candidatus Accumulibacter","Rhizorhapis",0.910979736722226,0.910979736722226,1
+"Candidatus Accumulibacter","Rhodoferax",0.978986552128789,0.978986552128789,1
+"Candidatus Accumulibacter","Sphaerotilus",0.968082127608832,0.968082127608832,1
+"Candidatus Accumulibacter","Sphingorhabdus",0.897459623825359,0.897459623825359,1
+"Candidatus Accumulibacter","Tabrizicola",0.991717823296754,0.991717823296754,1
+"Candidatus Accumulibacter","Tetrasphaera",0.971444176166927,0.971444176166927,1
+"Candidatus Accumulibacter","Thiothrix",0.979923311527483,0.979923311527483,1
+"Candidatus Accumulibacter","Trichococcus",0.902405667442895,0.902405667442895,1
+"Candidatus Accumulibacter","Woeseia",0.947620179394617,0.947620179394617,1
+"Candidatus Alysiosphaera","Dechloromonas",0.900084068761065,0.900084068761065,1
+"Candidatus Alysiosphaera","Hydrogenophaga",0.979596232689003,0.979596232689003,1
+"Candidatus Alysiosphaera","Rhizobacter",0.911789583829457,0.911789583829457,1
+"Candidatus Alysiosphaera","Shinella",0.911240739375581,0.911240739375581,1
+"Candidatus Chlorothrix","Candidatus Solibacter",0.973206798567639,0.973206798567639,1
+"Candidatus Chlorothrix","Chitinophaga",0.926173645810972,0.926173645810972,1
+"Candidatus Chlorothrix","Collinsella",0.962929621243962,0.962929621243962,1
+"Candidatus Chlorothrix","Gaiella",0.898033091286382,0.898033091286382,1
+"Candidatus Chlorothrix","MND1",0.90662504744122,0.90662504744122,1
+"Candidatus Chlorothrix","Mycobacterium",0.911946866520922,0.911946866520922,1
+"Candidatus Chlorothrix","Nitrospira",0.921030714519365,0.921030714519365,1
+"Candidatus Chlorothrix","Paenarthrobacter",0.885398637335933,0.885398637335933,1
+"Candidatus Chlorothrix","Pirellula",0.981537989105327,0.981537989105327,1
+"Candidatus Chlorothrix","Puia",0.989449919910632,0.989449919910632,1
+"Candidatus Chlorothrix","RB41",0.990729231270111,0.990729231270111,1
+"Candidatus Microthrix","Candidatus Udaeobacter",0.939073566487834,0.939073566487834,1
+"Candidatus Microthrix","CL500-29 marine group",0.917200052131407,0.917200052131407,1
+"Candidatus Microthrix","Constrictibacter",0.897076221360448,0.897076221360448,1
+"Candidatus Microthrix","Dechloromonas",0.945930052919345,0.945930052919345,1
+"Candidatus Microthrix","Desulfomicrobium",0.976145733788952,0.976145733788952,1
+"Candidatus Microthrix","Geothrix",0.955051319782907,0.955051319782907,1
+"Candidatus Microthrix","Gordonia",0.980552895353926,0.980552895353926,1
+"Candidatus Microthrix","Hydrogenophaga",0.937757754780533,0.937757754780533,1
+"Candidatus Microthrix","Hyphomicrobium",0.973200058324354,0.973200058324354,1
+"Candidatus Microthrix","Ilumatobacter",0.913115976052183,0.913115976052183,1
+"Candidatus Microthrix","Macellibacteroides",0.902918056709972,0.902918056709972,1
+"Candidatus Microthrix","Methylorosula",0.979020230390677,0.979020230390677,1
+"Candidatus Microthrix","Methylovirgula",0.979182301862191,0.979182301862191,1
+"Candidatus Microthrix","Nitriliruptor",0.898453834929013,0.898453834929013,1
+"Candidatus Microthrix","Nordella",0.913287013740209,0.913287013740209,1
+"Candidatus Microthrix","Ottowia",0.926087599581621,0.926087599581621,1
+"Candidatus Microthrix","Paenibacillus",0.925006433563523,0.925006433563523,1
+"Candidatus Microthrix","Polymorphobacter",0.980120885304036,0.980120885304036,1
+"Candidatus Microthrix","Prosthecobacter",0.981587151900201,0.981587151900201,1
+"Candidatus Microthrix","Proteiniclasticum",0.921096263328309,0.921096263328309,1
+"Candidatus Microthrix","Pseudorhodobacter",0.973207910231195,0.973207910231195,1
+"Candidatus Microthrix","Pseudorhodoplanes",0.934349348755741,0.934349348755741,1
+"Candidatus Microthrix","Reyranella",0.902607258799766,0.902607258799766,1
+"Candidatus Microthrix","Rhizobacter",0.974979363357378,0.974979363357378,1
+"Candidatus Microthrix","Rhodoferax",0.981549398582166,0.981549398582166,1
+"Candidatus Microthrix","Sphaerotilus",0.941369706983472,0.941369706983472,1
+"Candidatus Microthrix","Tabrizicola",0.968176501116577,0.968176501116577,1
+"Candidatus Microthrix","Tetrasphaera",0.955007056559657,0.955007056559657,1
+"Candidatus Microthrix","Thiothrix",0.954502778244832,0.954502778244832,1
+"Candidatus Microthrix","Trichococcus",0.930987757548671,0.930987757548671,1
+"Candidatus Microthrix","Woeseia",0.95686261193815,0.95686261193815,1
+"Candidatus Solibacter","Candidatus Xiphinematobacter",0.913830202977577,0.913830202977577,1
+"Candidatus Solibacter","Collinsella",0.97995045016718,0.97995045016718,1
+"Candidatus Solibacter","Gaiella",0.885564109230379,0.885564109230379,1
+"Candidatus Solibacter","Longispora",0.897432368018261,0.897432368018261,1
+"Candidatus Solibacter","Mycobacterium",0.946636519300081,0.946636519300081,1
+"Candidatus Solibacter","Paenarthrobacter",0.934518334657764,0.934518334657764,1
+"Candidatus Solibacter","Pirellula",0.959917365834354,0.959917365834354,1
+"Candidatus Solibacter","Puia",0.943179393151229,0.943179393151229,1
+"Candidatus Solibacter","RB41",0.938900732702442,0.938900732702442,1
+"Candidatus Solibacter","Vicinamibacter",0.895958796240608,0.895958796240608,1
+"Candidatus Udaeobacter","CL500-29 marine group",0.908046477348245,0.908046477348245,1
+"Candidatus Udaeobacter","Constrictibacter",0.976449370464021,0.976449370464021,1
+"Candidatus Udaeobacter","Desulfomicrobium",0.976483621842167,0.976483621842167,1
+"Candidatus Udaeobacter","Geothrix",0.949104655748458,0.949104655748458,1
+"Candidatus Udaeobacter","Gordonia",0.950290985197352,0.950290985197352,1
+"Candidatus Udaeobacter","Hydrogenophaga",0.902346818676143,0.902346818676143,1
+"Candidatus Udaeobacter","Hyphomicrobium",0.954704898273604,0.954704898273604,1
+"Candidatus Udaeobacter","Ilumatobacter",0.978256396067057,0.978256396067057,1
+"Candidatus Udaeobacter","Macellibacteroides",0.903855442088896,0.903855442088896,1
+"Candidatus Udaeobacter","Methyloceanibacter",0.893168742157641,0.893168742157641,1
+"Candidatus Udaeobacter","Methylorosula",0.979278605454255,0.979278605454255,1
+"Candidatus Udaeobacter","Methylovirgula",0.979214265660568,0.979214265660568,1
+"Candidatus Udaeobacter","Nitriliruptor",0.921125277524929,0.921125277524929,1
+"Candidatus Udaeobacter","Nordella",0.929084464209466,0.929084464209466,1
+"Candidatus Udaeobacter","Novosphingobium",0.891902186445969,0.891902186445969,1
+"Candidatus Udaeobacter","Ottowia",0.926901562044609,0.926901562044609,1
+"Candidatus Udaeobacter","Paenibacillus",0.963603236744995,0.963603236744995,1
+"Candidatus Udaeobacter","Polymorphobacter",0.98032591028315,0.98032591028315,1
+"Candidatus Udaeobacter","Prosthecobacter",0.966425596938265,0.966425596938265,1
+"Candidatus Udaeobacter","Proteiniclasticum",0.935966185356376,0.935966185356376,1
+"Candidatus Udaeobacter","Pseudaminobacter",0.901364049998522,0.901364049998522,1
+"Candidatus Udaeobacter","Pseudorhodobacter",0.973602050763356,0.973602050763356,1
+"Candidatus Udaeobacter","Reyranella",0.980287040100394,0.980287040100394,1
+"Candidatus Udaeobacter","Rhizobacter",0.96287856179267,0.96287856179267,1
+"Candidatus Udaeobacter","Rhodoferax",0.955583481649482,0.955583481649482,1
+"Candidatus Udaeobacter","Sphaerotilus",0.94208506078322,0.94208506078322,1
+"Candidatus Udaeobacter","Tabrizicola",0.968644697642265,0.968644697642265,1
+"Candidatus Udaeobacter","Tetrasphaera",0.941636747199216,0.941636747199216,1
+"Candidatus Udaeobacter","Thiothrix",0.955114851444958,0.955114851444958,1
+"Candidatus Udaeobacter","Woeseia",0.917442164382882,0.917442164382882,1
+"Candidatus Xiphinematobacter","Cohnella",0.947661099985113,0.947661099985113,1
+"Candidatus Xiphinematobacter","Collinsella",0.952973332905613,0.952973332905613,1
+"Candidatus Xiphinematobacter","Enterococcus",0.968815483628462,0.968815483628462,1
+"Candidatus Xiphinematobacter","Jatrophihabitans",0.916919392244721,0.916919392244721,1
+"Candidatus Xiphinematobacter","Kibdelosporangium",0.94953797119212,0.94953797119212,1
+"Candidatus Xiphinematobacter","Kribbella",0.914410028103604,0.914410028103604,1
+"Candidatus Xiphinematobacter","Lactobacillus",0.886388994907724,0.886388994907724,1
+"Candidatus Xiphinematobacter","Longispora",0.989466976818385,0.989466976818385,1
+"Candidatus Xiphinematobacter","Mycobacterium",0.98050786866584,0.98050786866584,1
+"Candidatus Xiphinematobacter","Ochrobactrum",0.983711519692352,0.983711519692352,1
+"Candidatus Xiphinematobacter","Paenarthrobacter",0.990616832683187,0.990616832683187,1
+"Candidatus Xiphinematobacter","Roseimicrobium",0.997156392575105,0.997156392575105,1
+"Candidatus Xiphinematobacter","Rothia",0.96366058952698,0.96366058952698,1
+"Candidatus Xiphinematobacter","Streptococcus",0.926859454024771,0.926859454024771,1
+"Candidatus Xiphinematobacter","Vicinamibacter",0.98872398178176,0.98872398178176,1
+"Candidatus Xiphinematobacter","wb1-P19",0.916447847276033,0.916447847276033,1
+"Candidatus Xiphinematobacter","Weissella",0.987676273650594,0.987676273650594,1
+"Caulobacter","Knoellia",0.928203517521505,0.928203517521505,1
+"Caulobacter","Lautropia",0.898969657189311,0.898969657189311,1
+"Caulobacter","Rubrivivax",0.920986942863998,0.920986942863998,1
+"Cellulomonas","Diaphorobacter",0.959044364309059,0.959044364309059,1
+"Cellulomonas","Methylosinus",0.891953314991506,0.891953314991506,1
+"CENA359","Flavonifractor",0.932351105747393,0.932351105747393,1
+"CENA359","Friedmanniella",0.913169085222612,0.913169085222612,1
+"CENA359","Leptolyngbya Es-Yyy1000",0.964645276744697,0.964645276744697,1
+"CENA359","Methyloversatilis",0.923531944806439,0.923531944806439,1
+"CENA359","Vibrio",0.932265247480766,0.932265247480766,1
+"Cetobacterium","Lachnospiraceae ND3007 group",0.895085584769864,0.895085584769864,1
+"Cetobacterium","Pseudarcobacter",0.990408853257076,0.990408853257076,1
+"Chitinophaga","Legionella",0.895880360724399,0.895880360724399,1
+"Chitinophaga","MND1",0.904336418140449,0.904336418140449,1
+"Chitinophaga","Nitrospira",0.983037781737904,0.983037781737904,1
+"Chitinophaga","Nordella",0.940116595706307,0.940116595706307,1
+"Chitinophaga","Pedomicrobium",0.984196029870061,0.984196029870061,1
+"Chitinophaga","Phytohabitans",0.899224421132955,0.899224421132955,1
+"Chitinophaga","Puia",0.947843039012839,0.947843039012839,1
+"Chitinophaga","RB41",0.967493531460433,0.967493531460433,1
+"Chitinophaga","Rhodoplanes",0.960929642187671,0.960929642187671,1
+"Chitinophaga","Subgroup 10",0.965595304207897,0.965595304207897,1
+"Christensenellaceae R-7 group","Cyanothece PCC 7425",0.924889563828597,0.924889563828597,1
+"Christensenellaceae R-7 group","Devosia",0.912628551383596,0.912628551383596,1
+"Christensenellaceae R-7 group","Intestinimonas",0.939278960150789,0.939278960150789,1
+"Christensenellaceae R-7 group","Lachnospiraceae NK4A136 group",0.944326944107809,0.944326944107809,1
+"Christensenellaceae R-7 group","Lachnospiraceae NK4B4 group",0.929507808344885,0.929507808344885,1
+"Christensenellaceae R-7 group","Monoglobus",0.904264590286392,0.904264590286392,1
+"Christensenellaceae R-7 group","Prevotellaceae NK3B31 group",0.915252937037395,0.915252937037395,1
+"Christensenellaceae R-7 group","Ruminococcus",0.919659901998845,0.919659901998845,1
+"Christensenellaceae R-7 group","UCG-005",0.890232054215951,0.890232054215951,1
+"Christensenellaceae R-7 group","UCG-009",0.89584814594771,0.89584814594771,1
+"Chroococcidiopsis SAG 2023","Cupriavidus",0.93275993054677,0.93275993054677,1
+"Chroococcidiopsis SAG 2023","Denitratisoma",0.939555555920158,0.939555555920158,1
+"Chroococcidiopsis SAG 2023","Dokdonella",0.93130720878653,0.93130720878653,1
+"Chroococcidiopsis SAG 2023","Herbaspirillum",0.966232039053746,0.966232039053746,1
+"Chroococcidiopsis SAG 2023","JGI 0001001-H03",0.922115380482782,0.922115380482782,1
+"Chroococcidiopsis SAG 2023","Leptolyngbya EcFYyyy-00",0.939514864511522,0.939514864511522,1
+"Chroococcidiopsis SAG 2023","Leptolyngbya VRUC 135",0.993187457453995,0.993187457453995,1
+"Chroococcidiopsis SAG 2023","Leptonema",0.894640233898551,0.894640233898551,1
+"Chroococcidiopsis SAG 2023","Microcoleus Es-Yyy1400",0.906898571278316,0.906898571278316,1
+"Chroococcidiopsis SAG 2023","Microcoleus SAG 1449-1a",0.964059038866613,0.964059038866613,1
+"Chroococcidiopsis SAG 2023","Phascolarctobacterium",0.888166304758434,0.888166304758434,1
+"Chroococcidiopsis SAG 2023","Phormidesmis ANT.L52.6",0.958367150460045,0.958367150460045,1
+"Chroococcidiopsis SAG 2023","Phormidium SAG 37.90",0.903894435207759,0.903894435207759,1
+"Chroococcidiopsis SAG 2023","Prevotellaceae UCG-001",0.88811012572463,0.88811012572463,1
+"Chroococcidiopsis SAG 2023","Pseudogulbenkiania",0.966528854793617,0.966528854793617,1
+"Chroococcidiopsis SAG 2023","Pseudomonas",0.983174781958172,0.983174781958172,1
+"Chroococcidiopsis SAG 2023","Pseudoxanthomonas",0.926612895060884,0.926612895060884,1
+"Chroococcidiopsis SAG 2023","Ralstonia",0.968112164526316,0.968112164526316,1
+"Chroococcidiopsis SAG 2023","Raoultella",0.957750708289057,0.957750708289057,1
+"Chroococcidiopsis SAG 2023","Rhodovastum",0.886626857981238,0.886626857981238,1
+"Chroococcidiopsis SAG 2023","Salipaludibacillus",0.887154518091356,0.887154518091356,1
+"Chroococcidiopsis SAG 2023","Scytonema UTEX 2349",0.989509422542225,0.989509422542225,1
+"Chroococcidiopsis SAG 2023","Stenotrophobacter",0.903196300903121,0.903196300903121,1
+"Chroococcidiopsis SAG 2023","Stenotrophomonas",0.891754912937698,0.891754912937698,1
+"Chroococcidiopsis SAG 2023","Sutterella",0.973851342644505,0.973851342644505,1
+"Chroococcidiopsis SAG 2023","SWB02",0.94723697975759,0.94723697975759,1
+"Chroococcidiopsis SAG 2023","Symplocastrum CPER-KK1",0.964523927423944,0.964523927423944,1
+"Chroococcidiopsis SAG 2023","Thiobacillus",0.93130720878653,0.93130720878653,1
+"Chroococcidiopsis SAG 2023","Vogesella",0.93225521318786,0.93225521318786,1
+"Chthoniobacter","Craurococcus-Caldovatus",0.927956748263871,0.927956748263871,1
+"Chthoniobacter","Lautropia",0.977072397301381,0.977072397301381,1
+"Chthoniobacter","Microvirga",0.889704358739743,0.889704358739743,1
+"Chthoniobacter","Rubrivivax",0.935627126226235,0.935627126226235,1
+"Chungangia","Georgenia",0.943503787313853,0.943503787313853,1
+"Chungangia","21551",0.97809012465291,0.97809012465291,1
+"Chungangia","Klebsiella",0.968843272266989,0.968843272266989,1
+"Chungangia","Opitutus",0.916373283643298,0.916373283643298,1
+"Chungangia","Saccharothrix",0.921629328198493,0.921629328198493,1
+"Chungangia","Sphaerisporangium",0.895246200962834,0.895246200962834,1
+"Chungangia","Sumerlaea",0.967046484667758,0.967046484667758,1
+"Citrobacter","Corynebacterium",0.903094645763134,0.903094645763134,1
+"Citrobacter","Cutibacterium",0.88572417034826,0.88572417034826,1
+"Citrobacter","Dialister",0.921385042413363,0.921385042413363,1
+"Citrobacter","Georgenia",0.91511319118775,0.91511319118775,1
+"Citrobacter","Glycomyces",0.947918282953751,0.947918282953751,1
+"Citrobacter","Rubrobacter",0.906704773644202,0.906704773644202,1
+"Citrobacter","Saccharothrix",0.911723110690507,0.911723110690507,1
+"Citrobacter","Solirubrobacter",0.927477726793114,0.927477726793114,1
+"Citrobacter","Sphingoaurantiacus",0.95508273534997,0.95508273534997,1
+"Citrobacter","Staphylococcus",0.957401218313676,0.957401218313676,1
+"Citrobacter","Sulfurifustis",0.94543821348093,0.94543821348093,1
+"Citrobacter","SZB85",0.968809412935241,0.968809412935241,1
+"CL500-29 marine group","Desulfomicrobium",0.947465551604605,0.947465551604605,1
+"CL500-29 marine group","Elusimicrobium",0.898650228118099,0.898650228118099,1
+"CL500-29 marine group","Ferruginibacter",0.92483262570506,0.92483262570506,1
+"CL500-29 marine group","Geothrix",0.977344178286209,0.977344178286209,1
+"CL500-29 marine group","Macellibacteroides",0.979220850680672,0.979220850680672,1
+"CL500-29 marine group","Methylorosula",0.937006294108501,0.937006294108501,1
+"CL500-29 marine group","Methylovirgula",0.899893588969579,0.899893588969579,1
+"CL500-29 marine group","Novosphingobium",0.906363582280414,0.906363582280414,1
+"CL500-29 marine group","OLB12",0.949863207425114,0.949863207425114,1
+"CL500-29 marine group","Ottowia",0.980077920840233,0.980077920840233,1
+"CL500-29 marine group","Phreatobacter",0.951199641492766,0.951199641492766,1
+"CL500-29 marine group","Polymorphobacter",0.929232021776371,0.929232021776371,1
+"CL500-29 marine group","Pseudorhodobacter",0.954038939160539,0.954038939160539,1
+"CL500-29 marine group","Rhizorhapis",0.975265054262894,0.975265054262894,1
+"CL500-29 marine group","Sphaerotilus",0.977812320837472,0.977812320837472,1
+"CL500-29 marine group","Sphingorhabdus",0.971643892804659,0.971643892804659,1
+"CL500-29 marine group","Tabrizicola",0.961629461536826,0.961629461536826,1
+"CL500-29 marine group","Tetrasphaera",0.980512102883498,0.980512102883498,1
+"CL500-29 marine group","Thermomonas",0.962066897113739,0.962066897113739,1
+"CL500-29 marine group","Thiothrix",0.972814380241243,0.972814380241243,1
+"CL500-29 marine group","Trichococcus",0.924411955039045,0.924411955039045,1
+"Clostridium sensu stricto 1","Coprococcus",0.997398205035428,0.997398205035428,1
+"Clostridium sensu stricto 1","Faecalibacterium",0.892144882120404,0.892144882120404,1
+"Clostridium sensu stricto 1","Fusicatenibacter",0.935977451606971,0.935977451606971,1
+"Clostridium sensu stricto 1","Lachnospira",0.995160611776573,0.995160611776573,1
+"Clostridium sensu stricto 1","Lachnospiraceae ND3007 group",0.998278249032758,0.998278249032758,1
+"Clostridium sensu stricto 1","Lachnospiraceae UCG-001",0.982860657407379,0.982860657407379,1
+"Clostridium sensu stricto 1","Lachnospiraceae UCG-003",0.979005485430937,0.979005485430937,1
+"Clostridium sensu stricto 1","Lachnospiraceae UCG-010",0.898295111997663,0.898295111997663,1
+"Clostridium sensu stricto 1","Parasutterella",0.896220311616644,0.896220311616644,1
+"Clostridium sensu stricto 1","Roseburia",0.967313236919224,0.967313236919224,1
+"Clostridium sensu stricto 1","Subdoligranulum",0.936831936323364,0.936831936323364,1
+"Clostridium sensu stricto 1","Terrisporobacter",0.997571363648202,0.997571363648202,1
+"Cohnella","Crossiella",0.903282577905,0.903282577905,1
+"Cohnella","Enterococcus",0.93270278789877,0.93270278789877,1
+"Cohnella","Jiangella",0.920792283695551,0.920792283695551,1
+"Cohnella","Kibdelosporangium",0.987830914265793,0.987830914265793,1
+"Cohnella","Lactobacillus",0.947860951477071,0.947860951477071,1
+"Cohnella","Longispora",0.928868199204041,0.928868199204041,1
+"Cohnella","Mycobacterium",0.900048444769876,0.900048444769876,1
+"Cohnella","Ochrobactrum",0.967940471277386,0.967940471277386,1
+"Cohnella","Paenarthrobacter",0.925845025686829,0.925845025686829,1
+"Cohnella","Pediococcus",0.905909104477382,0.905909104477382,1
+"Cohnella","Roseimicrobium",0.958946460978616,0.958946460978616,1
+"Cohnella","Rothia",0.976400802574372,0.976400802574372,1
+"Cohnella","Streptococcus",0.962361918384955,0.962361918384955,1
+"Cohnella","Vicinamibacter",0.934123374351072,0.934123374351072,1
+"Cohnella","wb1-P19",0.932729762433119,0.932729762433119,1
+"Cohnella","Weissella",0.958573178836507,0.958573178836507,1
+"Colidextribacter","Ileibacterium",0.911252950759812,0.911252950759812,1
+"Colidextribacter","Nesterenkonia",0.90211437166313,0.90211437166313,1
+"Colidextribacter","Oscillospira",0.900310932254095,0.900310932254095,1
+"Colidextribacter","Oxalobacter",0.907406041294247,0.907406041294247,1
+"Colidextribacter","Papillibacter",0.887369371660603,0.887369371660603,1
+"Colidextribacter","Sarcina",0.947623131699389,0.947623131699389,1
+"Collinsella","Gaiella",0.907974140917744,0.907974140917744,1
+"Collinsella","Kribbella",0.891130594941282,0.891130594941282,1
+"Collinsella","Longispora",0.940513782459594,0.940513782459594,1
+"Collinsella","Mycobacterium",0.981029835945131,0.981029835945131,1
+"Collinsella","Ochrobactrum",0.893710501281512,0.893710501281512,1
+"Collinsella","Paenarthrobacter",0.97714292173935,0.97714292173935,1
+"Collinsella","Pirellula",0.966068818984433,0.966068818984433,1
+"Collinsella","Puia",0.930689781958197,0.930689781958197,1
+"Collinsella","RB41",0.919715052467174,0.919715052467174,1
+"Collinsella","Roseimicrobium",0.927942632192393,0.927942632192393,1
+"Collinsella","Vicinamibacter",0.939953613521047,0.939953613521047,1
+"Collinsella","Weissella",0.898049979957806,0.898049979957806,1
+"Comamonas","Dialister",0.943760431026382,0.943760431026382,1
+"Comamonas","Microlunatus",0.903677571899979,0.903677571899979,1
+"Comamonas","Nocardia",0.974832597357739,0.974832597357739,1
+"Comamonas","SZB85",0.940489779500491,0.940489779500491,1
+"Conexibacter","Steroidobacter",0.939542277452093,0.939542277452093,1
+"Conexibacter","Virgisporangium",0.980974219700751,0.980974219700751,1
+"Constrictibacter","Desulfomicrobium",0.921742936693941,0.921742936693941,1
+"Constrictibacter","Edaphobaculum",0.916637327513895,0.916637327513895,1
+"Constrictibacter","Fictibacillus",0.897686973451242,0.897686973451242,1
+"Constrictibacter","Gordonia",0.927685079192745,0.927685079192745,1
+"Constrictibacter","Hyphomicrobium",0.934430256145227,0.934430256145227,1
+"Constrictibacter","Ilumatobacter",0.998465712849277,0.998465712849277,1
+"Constrictibacter","Methylorosula",0.930112720914815,0.930112720914815,1
+"Constrictibacter","Methylovirgula",0.946174540877308,0.946174540877308,1
+"Constrictibacter","Nordella",0.912549353329061,0.912549353329061,1
+"Constrictibacter","Paenibacillus",0.933686734298961,0.933686734298961,1
+"Constrictibacter","Polymorphobacter",0.934926510769506,0.934926510769506,1
+"Constrictibacter","Prosthecobacter",0.941903786188684,0.941903786188684,1
+"Constrictibacter","Proteiniclasticum",0.903162597167396,0.903162597167396,1
+"Constrictibacter","Pseudaminobacter",0.960055180254574,0.960055180254574,1
+"Constrictibacter","Pseudorhodobacter",0.91494580927149,0.91494580927149,1
+"Constrictibacter","Reyranella",0.987290588855461,0.987290588855461,1
+"Constrictibacter","Rhizobacter",0.937848534985996,0.937848534985996,1
+"Constrictibacter","Rhodoferax",0.932413608070963,0.932413608070963,1
+"Constrictibacter","Tabrizicola",0.904870215653994,0.904870215653994,1
+"Constrictibacter","Woeseia",0.897713500466825,0.897713500466825,1
+"Coprobacter","Microcoleus PCC-7113",0.99637722734319,0.99637722734319,1
+"Coprobacter","Microcoleus SAG 1449-1a",0.920329131819822,0.920329131819822,1
+"Coprobacter","Nostoc PCC-73102",0.994905015117234,0.994905015117234,1
+"Coprobacter","Prevotellaceae UCG-001",0.981473221647707,0.981473221647707,1
+"Coprobacter","Pseudoxanthomonas",0.885064864215384,0.885064864215384,1
+"Coprobacter","Raoultella",0.893382707004442,0.893382707004442,1
+"Coprobacter","Shimazuella",0.929690931105791,0.929690931105791,1
+"Coprobacter","Trichocoleus SAG 26.92",0.92969121116252,0.92969121116252,1
+"Coprococcus","Fusicatenibacter",0.92183049543204,0.92183049543204,1
+"Coprococcus","Lachnospira",0.989450678737266,0.989450678737266,1
+"Coprococcus","Lachnospiraceae ND3007 group",0.995111181811536,0.995111181811536,1
+"Coprococcus","Lachnospiraceae UCG-001",0.978784268831626,0.978784268831626,1
+"Coprococcus","Lachnospiraceae UCG-003",0.970995656548259,0.970995656548259,1
+"Coprococcus","Roseburia",0.957282157757424,0.957282157757424,1
+"Coprococcus","Subdoligranulum",0.928880197545932,0.928880197545932,1
+"Coprococcus","Terrisporobacter",0.994746308707703,0.994746308707703,1
+"Corynebacterium","Dialister",0.897035777473828,0.897035777473828,1
+"Corynebacterium","Enterobacter",0.985516803116889,0.985516803116889,1
+"Corynebacterium","Glycomyces",0.93307492158081,0.93307492158081,1
+"Corynebacterium","Nocardia",0.889354603771063,0.889354603771063,1
+"Corynebacterium","Saccharothrix",0.918134982264394,0.918134982264394,1
+"Corynebacterium","Staphylococcus",0.93197832931461,0.93197832931461,1
+"Corynebacterium","SZB85",0.894868741363358,0.894868741363358,1
+"Craurococcus-Caldovatus","Geodermatophilus",0.901435584277845,0.901435584277845,1
+"Craurococcus-Caldovatus","Knoellia",0.901812936367444,0.901812936367444,1
+"Craurococcus-Caldovatus","Lautropia",0.929501486473559,0.929501486473559,1
+"Craurococcus-Caldovatus","Psychroglaciecola",0.885623483673301,0.885623483673301,1
+"Craurococcus-Caldovatus","Rubrivivax",0.935021025782174,0.935021025782174,1
+"Crossiella","21551",0.949532793889589,0.949532793889589,1
+"Crossiella","Jiangella",0.895914663563534,0.895914663563534,1
+"Crossiella","Kibdelosporangium",0.934932822955219,0.934932822955219,1
+"Crossiella","Klebsiella",0.909698228543713,0.909698228543713,1
+"Crossiella","Lactobacillus",0.934208195594941,0.934208195594941,1
+"Crossiella","Pediococcus",0.949003626987734,0.949003626987734,1
+"Crossiella","Rothia",0.885673332012939,0.885673332012939,1
+"Crossiella","wb1-P19",0.931929651832895,0.931929651832895,1
+"Cupriavidus","Denitratisoma",0.914762210805929,0.914762210805929,1
+"Cupriavidus","Dokdonella",0.998021309663354,0.998021309663354,1
+"Cupriavidus","Leptolyngbya ANT.L52.2",0.946436241142567,0.946436241142567,1
+"Cupriavidus","Leptolyngbya VRUC 135",0.958246094858921,0.958246094858921,1
+"Cupriavidus","Leptonema",0.924496240122751,0.924496240122751,1
+"Cupriavidus","Mastigocladopsis PCC-10914",0.974978713452893,0.974978713452893,1
+"Cupriavidus","Microcoleus Es-Yyy1400",0.948449637871024,0.948449637871024,1
+"Cupriavidus","Phormidesmis ANT.L52.6",0.924580761692593,0.924580761692593,1
+"Cupriavidus","Pseudogulbenkiania",0.99116007993699,0.99116007993699,1
+"Cupriavidus","Pseudomonas",0.967152846472029,0.967152846472029,1
+"Cupriavidus","Ralstonia",0.991973447615603,0.991973447615603,1
+"Cupriavidus","Raoultella",0.905429464912072,0.905429464912072,1
+"Cupriavidus","Rhodovastum",0.993223431116322,0.993223431116322,1
+"Cupriavidus","Scytonema UTEX 2349",0.908363893212608,0.908363893212608,1
+"Cupriavidus","Stenotrophomonas",0.906030914741569,0.906030914741569,1
+"Cupriavidus","Sulfuriferula",0.965061827677593,0.965061827677593,1
+"Cupriavidus","Sutterella",0.914065956865784,0.914065956865784,1
+"Cupriavidus","Thiobacillus",0.998021309663354,0.998021309663354,1
+"Cupriavidus","Tychonema CCAP 1459-11B",0.93126916124168,0.93126916124168,1
+"Cupriavidus","Vogesella",0.97810617134188,0.97810617134188,1
+"Curvibacter","Salipaludibacillus",0.886462941874842,0.886462941874842,1
+"Curvibacter","Shimazuella",0.964050576195262,0.964050576195262,1
+"Curvibacter","Trichocoleus SAG 26.92",0.964050338057391,0.964050338057391,1
+"Cutibacterium","Dialister",0.915901284666585,0.915901284666585,1
+"Cutibacterium","Glycomyces",0.895794087843298,0.895794087843298,1
+"Cutibacterium","Staphylococcus",0.961972736208069,0.961972736208069,1
+"Cutibacterium","Vulgatibacter",0.905353398442304,0.905353398442304,1
+"Cyanothece PCC 7425","Devosia",0.92304096861244,0.92304096861244,1
+"Cyanothece PCC 7425","Intestinimonas",0.977520475109763,0.977520475109763,1
+"Cyanothece PCC 7425","Lachnospiraceae NK4B4 group",0.99709721565138,0.99709721565138,1
+"Cyanothece PCC 7425","Monoglobus",0.904418607250778,0.904418607250778,1
+"Cyanothece PCC 7425","NK4A214 group",0.905186992075502,0.905186992075502,1
+"Cyanothece PCC 7425","Prevotellaceae NK3B31 group",0.960845347177551,0.960845347177551,1
+"Cyanothece PCC 7425","Ruminococcus",0.967366130540683,0.967366130540683,1
+"Cyanothece PCC 7425","Sporocytophaga",0.919363452734865,0.919363452734865,1
+"Cyanothece PCC 7425","UCG-005",0.885450496733245,0.885450496733245,1
+"Cyanothece PCC 7425","UCG-009",0.982847460526793,0.982847460526793,1
+"Dechloromonas","Desulfomicrobium",0.910597378477016,0.910597378477016,1
+"Dechloromonas","Geothrix",0.893935787061601,0.893935787061601,1
+"Dechloromonas","Gordonia",0.889406911075445,0.889406911075445,1
+"Dechloromonas","Hydrogenophaga",0.938959858259557,0.938959858259557,1
+"Dechloromonas","Hyphomicrobium",0.902998533168516,0.902998533168516,1
+"Dechloromonas","Methylorosula",0.915163772936163,0.915163772936163,1
+"Dechloromonas","Methylovirgula",0.920617206286087,0.920617206286087,1
+"Dechloromonas","Polymorphobacter",0.917448515836885,0.917448515836885,1
+"Dechloromonas","Prosthecobacter",0.907733188808148,0.907733188808148,1
+"Dechloromonas","Pseudorhodobacter",0.906515990959719,0.906515990959719,1
+"Dechloromonas","Pseudorhodoplanes",0.944816838529216,0.944816838529216,1
+"Dechloromonas","Rhizobacter",0.937648773074551,0.937648773074551,1
+"Dechloromonas","Rhodoferax",0.895282554602283,0.895282554602283,1
+"Dechloromonas","Sulfuritalea",0.909116492325194,0.909116492325194,1
+"Dechloromonas","Tabrizicola",0.900047804694889,0.900047804694889,1
+"Dechloromonas","Terrimonas",0.927099833633562,0.927099833633562,1
+"Dechloromonas","Woeseia",0.958759370500008,0.958759370500008,1
+"Deinococcus","Diaphorobacter",0.916623137160954,0.916623137160954,1
+"Deinococcus","Flaviaesturariibacter",0.92162923755221,0.92162923755221,1
+"Deinococcus","Haemophilus",0.889330784911462,0.889330784911462,1
+"Deinococcus","Luteimonas",0.979385251897421,0.979385251897421,1
+"Deinococcus","Methylocella",0.92280285036089,0.92280285036089,1
+"Deinococcus","Rufibacter",0.979774851142031,0.979774851142031,1
+"Deinococcus","Sphingobacterium",0.957494978948114,0.957494978948114,1
+"Denitratisoma","Dokdonella",0.893305291079867,0.893305291079867,1
+"Denitratisoma","Herbaspirillum",0.906382385698787,0.906382385698787,1
+"Denitratisoma","JGI 0001001-H03",0.920228757658164,0.920228757658164,1
+"Denitratisoma","Leptolyngbya EcFYyyy-00",0.975373915014597,0.975373915014597,1
+"Denitratisoma","Leptolyngbya VRUC 135",0.958084309820172,0.958084309820172,1
+"Denitratisoma","Leptonema",0.986309695597899,0.986309695597899,1
+"Denitratisoma","Mastigocladopsis PCC-10914",0.917034242432241,0.917034242432241,1
+"Denitratisoma","Microcoleus Es-Yyy1400",0.956916126090221,0.956916126090221,1
+"Denitratisoma","Phormidesmis ANT.L52.6",0.965736296742872,0.965736296742872,1
+"Denitratisoma","Phormidium SAG 37.90",0.925254852255945,0.925254852255945,1
+"Denitratisoma","Pseudogulbenkiania",0.920579659820966,0.920579659820966,1
+"Denitratisoma","Pseudomonas",0.914804990267868,0.914804990267868,1
+"Denitratisoma","Ralstonia",0.945750338331302,0.945750338331302,1
+"Denitratisoma","Scytonema UTEX 2349",0.955825641284324,0.955825641284324,1
+"Denitratisoma","Stenotrophobacter",0.908925856617002,0.908925856617002,1
+"Denitratisoma","Stenotrophomonas",0.958809606302398,0.958809606302398,1
+"Denitratisoma","Sutterella",0.987018327047443,0.987018327047443,1
+"Denitratisoma","SWB02",0.972010343529492,0.972010343529492,1
+"Denitratisoma","Symplocastrum CPER-KK1",0.911939295197721,0.911939295197721,1
+"Denitratisoma","Thiobacillus",0.893305291079867,0.893305291079867,1
+"Denitratisoma","Tyzzerella",0.890257725238247,0.890257725238247,1
+"Denitratisoma","UCG-003",0.939529704134793,0.939529704134793,1
+"Denitratisoma","Vogesella",0.972588625915699,0.972588625915699,1
+"Desulfomicrobium","Geothrix",0.988112948955757,0.988112948955757,1
+"Desulfomicrobium","Gordonia",0.963147216414336,0.963147216414336,1
+"Desulfomicrobium","Hydrogenophaga",0.918750073772577,0.918750073772577,1
+"Desulfomicrobium","Hyphomicrobium",0.960299220074567,0.960299220074567,1
+"Desulfomicrobium","Ilumatobacter",0.933472666626051,0.933472666626051,1
+"Desulfomicrobium","Macellibacteroides",0.953670966567054,0.953670966567054,1
+"Desulfomicrobium","Methylorosula",0.999248426309768,0.999248426309768,1
+"Desulfomicrobium","Methylovirgula",0.989016797418893,0.989016797418893,1
+"Desulfomicrobium","Nitriliruptor",0.907016517506899,0.907016517506899,1
+"Desulfomicrobium","Nordella",0.937037008556472,0.937037008556472,1
+"Desulfomicrobium","Ottowia",0.97137184693735,0.97137184693735,1
+"Desulfomicrobium","Paenibacillus",0.942668787677554,0.942668787677554,1
+"Desulfomicrobium","Polymorphobacter",0.997909055573758,0.997909055573758,1
+"Desulfomicrobium","Prosthecobacter",0.975654597429914,0.975654597429914,1
+"Desulfomicrobium","Proteiniclasticum",0.940293501196633,0.940293501196633,1
+"Desulfomicrobium","Pseudorhodobacter",0.999619759675714,0.999619759675714,1
+"Desulfomicrobium","Reyranella",0.927678174643822,0.927678174643822,1
+"Desulfomicrobium","Rhizobacter",0.97220250349132,0.97220250349132,1
+"Desulfomicrobium","Rhizorhapis",0.935732990752303,0.935732990752303,1
+"Desulfomicrobium","Rhodoferax",0.967411772573185,0.967411772573185,1
+"Desulfomicrobium","Sphaerotilus",0.982257176894666,0.982257176894666,1
+"Desulfomicrobium","Sphingorhabdus",0.924092597481158,0.924092597481158,1
+"Desulfomicrobium","Tabrizicola",0.997945446566177,0.997945446566177,1
+"Desulfomicrobium","Tetrasphaera",0.983930433601119,0.983930433601119,1
+"Desulfomicrobium","Thiothrix",0.990760607705577,0.990760607705577,1
+"Desulfomicrobium","Trichococcus",0.909831459288416,0.909831459288416,1
+"Desulfomicrobium","Woeseia",0.935114463206507,0.935114463206507,1
+"Desulfovibrio","Sarcina",0.898899115561255,0.898899115561255,1
+"Desulfovibrio","UCG-009",0.893805398951471,0.893805398951471,1
+"Devosia","Herpetosiphon",0.902892950179275,0.902892950179275,1
+"Devosia","Intestinimonas",0.975053783969129,0.975053783969129,1
+"Devosia","Lachnospiraceae NK4B4 group",0.945240402485107,0.945240402485107,1
+"Devosia","Monoglobus",0.945555612717238,0.945555612717238,1
+"Devosia","Prevotellaceae NK3B31 group",0.977438724770801,0.977438724770801,1
+"Devosia","Sporocytophaga",0.919404406997568,0.919404406997568,1
+"Devosia","UCG-005",0.920557284439967,0.920557284439967,1
+"Dialister","Georgenia",0.898911859598671,0.898911859598671,1
+"Dialister","Glycomyces",0.931835793021539,0.931835793021539,1
+"Dialister","Nocardia",0.955589701078561,0.955589701078561,1
+"Dialister","Staphylococcus",0.964304022974043,0.964304022974043,1
+"Dialister","SZB85",0.94282823295347,0.94282823295347,1
+"Dialister","Vulgatibacter",0.905047563987038,0.905047563987038,1
+"Diaphorobacter","Luteimonas",0.953449584510543,0.953449584510543,1
+"Diaphorobacter","Methylocella",0.886641718164891,0.886641718164891,1
+"Diaphorobacter","Methylosinus",0.903854847352298,0.903854847352298,1
+"Diaphorobacter","Rufibacter",0.959543822385138,0.959543822385138,1
+"Diaphorobacter","Sphingobacterium",0.906895264001125,0.906895264001125,1
+"Dokdonella","Leptolyngbya ANT.L52.2",0.931645064346466,0.931645064346466,1
+"Dokdonella","Leptolyngbya VRUC 135",0.953990021478597,0.953990021478597,1
+"Dokdonella","Leptonema",0.899545381172047,0.899545381172047,1
+"Dokdonella","Mastigocladopsis PCC-10914",0.961584979241775,0.961584979241775,1
+"Dokdonella","Microcoleus Es-Yyy1400",0.930086630981492,0.930086630981492,1
+"Dokdonella","Phormidesmis ANT.L52.6",0.911573042085006,0.911573042085006,1
+"Dokdonella","Pseudogulbenkiania",0.992631761019365,0.992631761019365,1
+"Dokdonella","Pseudomonas",0.971291515918134,0.971291515918134,1
+"Dokdonella","Ralstonia",0.988727088244894,0.988727088244894,1
+"Dokdonella","Raoultella",0.920921522597334,0.920921522597334,1
+"Dokdonella","Rhodovastum",0.990312851024489,0.990312851024489,1
+"Dokdonella","Scytonema UTEX 2349",0.902756638270352,0.902756638270352,1
+"Dokdonella","Sulfuriferula",0.956751870510079,0.956751870510079,1
+"Dokdonella","Sutterella",0.900353424883059,0.900353424883059,1
+"Dokdonella","Tychonema CCAP 1459-11B",0.918668337210052,0.918668337210052,1
+"Dokdonella","Vogesella",0.963668170858114,0.963668170858114,1
+"Dongia","Haliangium",0.897827760970516,0.897827760970516,1
+"Dongia","MND1",0.926926908505994,0.926926908505994,1
+"Dongia","Ohtaekwangia",0.956002476490267,0.956002476490267,1
+"Dongia","Phytohabitans",0.972634327683756,0.972634327683756,1
+"Dongia","Rhodoplanes",0.911699547146645,0.911699547146645,1
+"Dongia","Subgroup 10",0.957593280918597,0.957593280918597,1
+"Dongia","Tenggerimyces",0.890155532773059,0.890155532773059,1
+"Dorea","Erysipelotrichaceae UCG-003",0.897993957135831,0.897993957135831,1
+"Dorea","Romboutsia",0.941526425242529,0.941526425242529,1
+"Dorea","Subdoligranulum",0.889233676513643,0.889233676513643,1
+"E1B-B3-114","Glycomyces",0.940427322033183,0.940427322033183,1
+"E1B-B3-114","SZB85",0.902965362362073,0.902965362362073,1
+"Edaphobaculum","Fictibacillus",0.950736320097088,0.950736320097088,1
+"Edaphobaculum","Ilumatobacter",0.90575692997844,0.90575692997844,1
+"Edaphobaculum","Microlunatus",0.941196504177101,0.941196504177101,1
+"Edaphobaculum","Pseudaminobacter",0.946044012997012,0.946044012997012,1
+"Ellin6055","Lechevalieria",0.960739543700322,0.960739543700322,1
+"Ellin6067","Geodermatophilus",0.911044556130425,-0.911044556130425,-1
+"Ellin6067","Lechevalieria",0.892262789632275,-0.892262789632275,-1
+"Ellin6067","Mycetocola",0.945421851681779,-0.945421851681779,-1
+"Ellin6067","Psychroglaciecola",0.919561802911019,-0.919561802911019,-1
+"Elusimicrobium","Ferruginibacter",0.952348377894045,0.952348377894045,1
+"Elusimicrobium","Hansschlegelia",0.910919666950414,0.910919666950414,1
+"Elusimicrobium","Lentimicrobium",0.975560867680813,0.975560867680813,1
+"Elusimicrobium","Macellibacteroides",0.934201908476766,0.934201908476766,1
+"Elusimicrobium","OLB12",0.987027930827633,0.987027930827633,1
+"Elusimicrobium","Ottowia",0.908753424570469,0.908753424570469,1
+"Elusimicrobium","Phreatobacter",0.963998104960411,0.963998104960411,1
+"Elusimicrobium","Rhizorhapis",0.952363545289354,0.952363545289354,1
+"Elusimicrobium","Sphaerotilus",0.886203742171205,0.886203742171205,1
+"Elusimicrobium","Sphingorhabdus",0.961544574124633,0.961544574124633,1
+"Elusimicrobium","Thermomonas",0.910464345672022,0.910464345672022,1
+"Elusimicrobium","UTBCD1",0.913699493653891,0.913699493653891,1
+"Elusimicrobium","YC-ZSS-LKJ147",0.927109058349069,0.927109058349069,1
+"Enhydrobacter","Nevskia",0.987304606703449,0.987304606703449,1
+"Enhydrobacter","Promicromonospora",0.894430364203354,0.894430364203354,1
+"Ensifer","Herbaspirillum",0.903483337048148,0.903483337048148,1
+"Ensifer","Intestinibacter",0.886090800048602,0.886090800048602,1
+"Ensifer","JGI 0001001-H03",0.892689732046088,0.892689732046088,1
+"Ensifer","Leptolyngbya EcFYyyy-00",0.925603654197651,0.925603654197651,1
+"Ensifer","Pseudoxanthomonas",0.928906961593093,0.928906961593093,1
+"Ensifer","Salipaludibacillus",0.962550333651639,0.962550333651639,1
+"Ensifer","Symplocastrum CPER-KK1",0.932689632879687,0.932689632879687,1
+"Ensifer","Tyzzerella",0.964271968370091,0.964271968370091,1
+"Ensifer","UCG-002",0.970605171454134,0.970605171454134,1
+"Ensifer","UCG-003",0.897166682953845,0.897166682953845,1
+"Enterobacter","Glycomyces",0.892861995446577,0.892861995446577,1
+"Enterobacter","Pseudonocardia",0.886043916376803,0.886043916376803,1
+"Enterobacter","Saccharothrix",0.893544420021674,0.893544420021674,1
+"Enterobacter","Staphylococcus",0.886969449675234,0.886969449675234,1
+"Enterococcus","Jatrophihabitans",0.902150035957696,0.902150035957696,1
+"Enterococcus","Kibdelosporangium",0.936893054393337,0.936893054393337,1
+"Enterococcus","Lactobacillus",0.907515230621189,0.907515230621189,1
+"Enterococcus","Longispora",0.952788721806211,0.952788721806211,1
+"Enterococcus","Mycobacterium",0.920572803081332,0.920572803081332,1
+"Enterococcus","Ochrobactrum",0.983815494960815,0.983815494960815,1
+"Enterococcus","Paenarthrobacter",0.956875434975713,0.956875434975713,1
+"Enterococcus","Roseimicrobium",0.978876661363723,0.978876661363723,1
+"Enterococcus","Rothia",0.963321821752739,0.963321821752739,1
+"Enterococcus","Streptococcus",0.918555650015555,0.918555650015555,1
+"Enterococcus","Vicinamibacter",0.950063825343274,0.950063825343274,1
+"Enterococcus","Weissella",0.978558385108994,0.978558385108994,1
+"Erysipelotrichaceae UCG-003","Romboutsia",0.91005535710355,0.91005535710355,1
+"Faecalibacterium","Flavihumibacter",0.965139003034084,0.965139003034084,1
+"Faecalibacterium","Fusicatenibacter",0.971139992077503,0.971139992077503,1
+"Faecalibacterium","Intestinibacter",0.939294942886512,0.939294942886512,1
+"Faecalibacterium","Lachnoclostridium",0.959557737182102,0.959557737182102,1
+"Faecalibacterium","Lachnospira",0.918832465463806,0.918832465463806,1
+"Faecalibacterium","Lachnospiraceae ND3007 group",0.900803701667951,0.900803701667951,1
+"Faecalibacterium","Lachnospiraceae UCG-003",0.956147685670929,0.956147685670929,1
+"Faecalibacterium","Lachnospiraceae UCG-004",0.954186225696362,0.954186225696362,1
+"Faecalibacterium","Parasutterella",0.899740115454959,0.899740115454959,1
+"Faecalibacterium","Roseburia",0.972561744899889,0.972561744899889,1
+"Faecalibacterium","Subdoligranulum",0.972883534873981,0.972883534873981,1
+"Faecalibacterium","Terrisporobacter",0.887692582948618,0.887692582948618,1
+"Family XIII UCG-001","Hephaestia",0.933154174815467,0.933154174815467,1
+"Family XIII UCG-001","Lachnospira",0.889683578896656,0.889683578896656,1
+"Family XIII UCG-001","Lachnospiraceae UCG-010",0.901227251190745,0.901227251190745,1
+"Family XIII UCG-001","Saccharopolyspora",0.933154174815467,0.933154174815467,1
+"Ferruginibacter","Geothrix",0.897256463134709,0.897256463134709,1
+"Ferruginibacter","Lentimicrobium",0.898881277261873,0.898881277261873,1
+"Ferruginibacter","Macellibacteroides",0.93870518574466,0.93870518574466,1
+"Ferruginibacter","OLB12",0.962055086393558,0.962055086393558,1
+"Ferruginibacter","Ottowia",0.9227947295989,0.9227947295989,1
+"Ferruginibacter","Phreatobacter",0.962026349759055,0.962026349759055,1
+"Ferruginibacter","Rhizorhapis",0.948886458873371,0.948886458873371,1
+"Ferruginibacter","Sphaerotilus",0.907635151080038,0.907635151080038,1
+"Ferruginibacter","Sphingorhabdus",0.953464325106029,0.953464325106029,1
+"Ferruginibacter","Tetrasphaera",0.904208011646386,0.904208011646386,1
+"Ferruginibacter","Thermomonas",0.969308790900157,0.969308790900157,1
+"Ferruginibacter","Thiothrix",0.88957935421783,0.88957935421783,1
+"Fictibacillus","Ilumatobacter",0.888245349420698,0.888245349420698,1
+"Fictibacillus","Pseudaminobacter",0.898810369674453,0.898810369674453,1
+"Flaviaesturariibacter","Luteimonas",0.910891343417417,0.910891343417417,1
+"Flaviaesturariibacter","Rufibacter",0.904480924465167,0.904480924465167,1
+"Flavihumibacter","Fusicatenibacter",0.941091013122236,0.941091013122236,1
+"Flavihumibacter","Intestinibacter",0.995180659327213,0.995180659327213,1
+"Flavihumibacter","Lachnoclostridium",0.958750370301883,0.958750370301883,1
+"Flavihumibacter","Lachnospiraceae UCG-003",0.922314975109487,0.922314975109487,1
+"Flavihumibacter","Lachnospiraceae UCG-004",0.955136358673003,0.955136358673003,1
+"Flavihumibacter","Parasutterella",0.891495432179865,0.891495432179865,1
+"Flavihumibacter","Roseburia",0.936190896953958,0.936190896953958,1
+"Flavihumibacter","Subdoligranulum",0.955313620448376,0.955313620448376,1
+"Flavihumibacter","Tyzzerella",0.891054836329584,0.891054836329584,1
+"Flavihumibacter","UCG-003",0.916224610350494,0.916224610350494,1
+"Flavisolibacter","Hymenobacter",0.902719346202945,0.902719346202945,1
+"Flavisolibacter","Limnobacter",0.924964837282456,0.924964837282456,1
+"Flavisolibacter","MN 122.2a",0.914787034839755,0.914787034839755,1
+"Flavisolibacter","Neo-b11",0.923036097540361,0.923036097540361,1
+"Flavisolibacter","Nitrosomonas",0.971967674390985,0.971967674390985,1
+"Flavisolibacter","Phytomonospora",0.930780058042768,0.930780058042768,1
+"Flavisolibacter","Rubritepida",0.964707807981838,0.964707807981838,1
+"Flavisolibacter","Segetibacter",0.885777517559027,0.885777517559027,1
+"Flavisolibacter","YC-ZSS-LKJ147",0.901595883983955,0.901595883983955,1
+"Flavonifractor","Leptolyngbya Es-Yyy1000",0.994676299915495,0.994676299915495,1
+"Flavonifractor","UBA1819",0.963794593198255,0.963794593198255,1
+"Friedmanniella","Rhodovarius",0.893802176515556,0.893802176515556,1
+"Friedmanniella","Vibrio",0.904029489913091,0.904029489913091,1
+"Fusicatenibacter","Intestinibacter",0.915930610552294,0.915930610552294,1
+"Fusicatenibacter","Lachnoclostridium",0.926419939596502,0.926419939596502,1
+"Fusicatenibacter","Lachnospira",0.951170060013692,0.951170060013692,1
+"Fusicatenibacter","Lachnospiraceae ND3007 group",0.949915533097571,0.949915533097571,1
+"Fusicatenibacter","Lachnospiraceae UCG-001",0.935167027269021,0.935167027269021,1
+"Fusicatenibacter","Lachnospiraceae UCG-003",0.977505059219114,0.977505059219114,1
+"Fusicatenibacter","Lachnospiraceae UCG-004",0.975741110994279,0.975741110994279,1
+"Fusicatenibacter","Parasutterella",0.943753375002232,0.943753375002232,1
+"Fusicatenibacter","Roseburia",0.977980185838467,0.977980185838467,1
+"Fusicatenibacter","Subdoligranulum",0.969931436854693,0.969931436854693,1
+"Fusicatenibacter","Terrisporobacter",0.936739718004529,0.936739718004529,1
+"Gaiella","Haliangium",0.935914505085488,0.935914505085488,1
+"Gaiella","Longispora",0.898466923881588,0.898466923881588,1
+"Gaiella","MND1",0.931287139432113,0.931287139432113,1
+"Gaiella","Mycobacterium",0.936460416241073,0.936460416241073,1
+"Gaiella","OM27 clade",0.942232829194585,0.942232829194585,1
+"Gaiella","Pirellula",0.951849289302551,0.951849289302551,1
+"Gaiella","Puia",0.914570103686159,0.914570103686159,1
+"Gaiella","Tenggerimyces",0.914097209144832,0.914097209144832,1
+"Gaiella","Vicinamibacter",0.904376244303479,0.904376244303479,1
+"Gaiella","wb1-P19",0.906399937174177,0.906399937174177,1
+"Gemmatimonas","Ileibacterium",0.923294046723188,0.923294046723188,1
+"Gemmatimonas","Nesterenkonia",0.903866413990451,0.903866413990451,1
+"Gemmatimonas","Oscillospira",0.94218817104917,0.94218817104917,1
+"Gemmatimonas","Oxalobacter",0.91558230548231,0.91558230548231,1
+"Gemmatimonas","Papillibacter",0.894402863591478,0.894402863591478,1
+"Gemmatimonas","Sporichthya",0.942183563677041,0.942183563677041,1
+"Geodermatophilus","Lechevalieria",0.908146231162764,0.908146231162764,1
+"Geodermatophilus","Microvirga",0.895962247855404,0.895962247855404,1
+"Geodermatophilus","Mycetocola",0.945436226632137,0.945436226632137,1
+"Geodermatophilus","Psychroglaciecola",0.971322363036082,0.971322363036082,1
+"Geodermatophilus","Roseisolibacter",0.891691150016526,0.891691150016526,1
+"Georgenia","Glycomyces",0.953182726173671,0.953182726173671,1
+"Georgenia","Nocardia",0.912843621018773,0.912843621018773,1
+"Georgenia","Saccharothrix",0.984536594649,0.984536594649,1
+"Georgenia","Sphaerisporangium",0.900365801857367,0.900365801857367,1
+"Georgenia","Staphylococcus",0.937678059872082,0.937678059872082,1
+"Georgenia","Sumerlaea",0.919232373027215,0.919232373027215,1
+"Georgenia","SZB85",0.893409371315509,0.893409371315509,1
+"Geothrix","Gordonia",0.919918616803998,0.919918616803998,1
+"Geothrix","Hydrogenophaga",0.895031119786466,0.895031119786466,1
+"Geothrix","Hyphomicrobium",0.917831516231665,0.917831516231665,1
+"Geothrix","Ilumatobacter",0.887853452756724,0.887853452756724,1
+"Geothrix","Macellibacteroides",0.984900235668868,0.984900235668868,1
+"Geothrix","Methylorosula",0.981885953224068,0.981885953224068,1
+"Geothrix","Methylovirgula",0.956348562970662,0.956348562970662,1
+"Geothrix","Nordella",0.889351347565191,0.889351347565191,1
+"Geothrix","Novosphingobium",0.885625800432066,0.885625800432066,1
+"Geothrix","OLB12",0.931754736576414,0.931754736576414,1
+"Geothrix","Ottowia",0.993436563134233,0.993436563134233,1
+"Geothrix","Paenibacillus",0.8980144418706,0.8980144418706,1
+"Geothrix","Phreatobacter",0.910892619722452,0.910892619722452,1
+"Geothrix","Polymorphobacter",0.976902241493444,0.976902241493444,1
+"Geothrix","Prosthecobacter",0.934462887918464,0.934462887918464,1
+"Geothrix","Proteiniclasticum",0.895087561475124,0.895087561475124,1
+"Geothrix","Pseudorhodobacter",0.991638527875669,0.991638527875669,1
+"Geothrix","Rhizobacter",0.938000026192132,0.938000026192132,1
+"Geothrix","Rhizorhapis",0.974512493232997,0.974512493232997,1
+"Geothrix","Rhodoferax",0.924734683195163,0.924734683195163,1
+"Geothrix","Sphaerotilus",0.997114736995494,0.997114736995494,1
+"Geothrix","Sphingorhabdus",0.967178503421556,0.967178503421556,1
+"Geothrix","Tabrizicola",0.995147592674427,0.995147592674427,1
+"Geothrix","Tetrasphaera",0.994297490968716,0.994297490968716,1
+"Geothrix","Thermomonas",0.925545761226395,0.925545761226395,1
+"Geothrix","Thiothrix",0.998171738721892,0.998171738721892,1
+"Geothrix","Trichococcus",0.907037772888886,0.907037772888886,1
+"Geothrix","Woeseia",0.88958976360998,0.88958976360998,1
+"Glycomyces","Nocardia",0.908470251396705,0.908470251396705,1
+"Glycomyces","Saccharothrix",0.952603153111672,0.952603153111672,1
+"Glycomyces","Staphylococcus",0.974177636816073,0.974177636816073,1
+"Glycomyces","SZB85",0.953503498709609,0.953503498709609,1
+"Gordonia","Hydrogenophaga",0.924526396745685,0.924526396745685,1
+"Gordonia","Hyphomicrobium",0.991751596136457,0.991751596136457,1
+"Gordonia","Ilumatobacter",0.93915257026119,0.93915257026119,1
+"Gordonia","Methylorosula",0.970679175624677,0.970679175624677,1
+"Gordonia","Methylovirgula",0.984048112501232,0.984048112501232,1
+"Gordonia","Nitriliruptor",0.91343048853627,0.91343048853627,1
+"Gordonia","Nordella",0.942980859238799,0.942980859238799,1
+"Gordonia","Paenibacillus",0.948849101681241,0.948849101681241,1
+"Gordonia","Polymorphobacter",0.974899113351985,0.974899113351985,1
+"Gordonia","Prosthecobacter",0.996501899832857,0.996501899832857,1
+"Gordonia","Proteiniclasticum",0.9459193214928,0.9459193214928,1
+"Gordonia","Pseudorhodobacter",0.956908196574368,0.956908196574368,1
+"Gordonia","Pseudorhodoplanes",0.90683525615454,0.90683525615454,1
+"Gordonia","Reyranella",0.934067153668283,0.934067153668283,1
+"Gordonia","Rhizobacter",0.97740091965409,0.97740091965409,1
+"Gordonia","Rhodoferax",0.999714472042416,0.999714472042416,1
+"Gordonia","Sphaerotilus",0.906115952197512,0.906115952197512,1
+"Gordonia","Tabrizicola",0.947522786774955,0.947522786774955,1
+"Gordonia","Tetrasphaera",0.925863487422039,0.925863487422039,1
+"Gordonia","Thiothrix",0.925363274451142,0.925363274451142,1
+"Gordonia","Trichococcus",0.924810090245778,0.924810090245778,1
+"Gordonia","Woeseia",0.940781984094343,0.940781984094343,1
+"Haemophilus","Nocardioides",0.893817060294889,0.893817060294889,1
+"Haemophilus","Sphingobacterium",0.92665896128887,0.92665896128887,1
+"Haliangium","MND1",0.941777064572146,0.941777064572146,1
+"Haliangium","OM27 clade",0.897659182904262,0.897659182904262,1
+"Haliangium","Phytohabitans",0.947684141745309,0.947684141745309,1
+"Haliangium","Pirellula",0.91008600930579,0.91008600930579,1
+"Haliangium","Puia",0.922018250823573,0.922018250823573,1
+"Haliangium","Subgroup 10",0.917018614719954,0.917018614719954,1
+"Haliangium","Tenggerimyces",0.976850602303425,0.976850602303425,1
+"Halomonas","Leptonema",0.893864085644191,0.893864085644191,1
+"Halomonas","Methyloversatilis",0.889980658117416,0.889980658117416,1
+"Hansschlegelia","Lentimicrobium",0.953895273186806,0.953895273186806,1
+"Hansschlegelia","Phytomonospora",0.906029415567152,0.906029415567152,1
+"Hansschlegelia","Segetibacter",0.938914845882414,0.938914845882414,1
+"Hansschlegelia","UTBCD1",0.899520761952252,0.899520761952252,1
+"Hansschlegelia","YC-ZSS-LKJ147",0.896281226340323,0.896281226340323,1
+"Herbaspirillum","JGI 0001001-H03",0.947050315236525,0.947050315236525,1
+"Herbaspirillum","Leptolyngbya EcFYyyy-00",0.959419576267287,0.959419576267287,1
+"Herbaspirillum","Leptolyngbya VRUC 135",0.9422470987401,0.9422470987401,1
+"Herbaspirillum","Microcoleus SAG 1449-1a",0.969356381679916,0.969356381679916,1
+"Herbaspirillum","Phascolarctobacterium",0.897731217171967,0.897731217171967,1
+"Herbaspirillum","Phormidesmis ANT.L52.6",0.929028472885151,0.929028472885151,1
+"Herbaspirillum","Phormidium SAG 37.90",0.926776295818686,0.926776295818686,1
+"Herbaspirillum","Prevotellaceae UCG-001",0.888711349996923,0.888711349996923,1
+"Herbaspirillum","Pseudomonas",0.916636514408493,0.916636514408493,1
+"Herbaspirillum","Pseudoxanthomonas",0.980689970339554,0.980689970339554,1
+"Herbaspirillum","Raoultella",0.907381897078217,0.907381897078217,1
+"Herbaspirillum","Salipaludibacillus",0.963909169298886,0.963909169298886,1
+"Herbaspirillum","Scytonema UTEX 2349",0.976348609592625,0.976348609592625,1
+"Herbaspirillum","Stenotrophobacter",0.888097087512232,0.888097087512232,1
+"Herbaspirillum","Sutterella",0.95457421909322,0.95457421909322,1
+"Herbaspirillum","SWB02",0.940916621135795,0.940916621135795,1
+"Herbaspirillum","Symplocastrum CPER-KK1",0.984039418772607,0.984039418772607,1
+"Herbaspirillum","Tyzzerella",0.95611587803654,0.95611587803654,1
+"Herpetosiphon","Inquilinus",0.961419470731689,0.961419470731689,1
+"Herpetosiphon","P3OB-42",0.929808342588535,0.929808342588535,1
+"Herpetosiphon","Pajaroellobacter",0.947103777050497,0.947103777050497,1
+"Herpetosiphon","Phaselicystis",0.941352451683262,0.941352451683262,1
+"Hirschia","Inquilinus",0.947237974710359,0.947237974710359,1
+"Hirschia","Methyloceanibacter",0.968171374019785,0.968171374019785,1
+"Hirschia","Nitriliruptor",0.920249105515885,0.920249105515885,1
+"Hirschia","Ohtaekwangia",0.923271141512735,0.923271141512735,1
+"Hirschia","Paenibacillus",0.903283935907688,0.903283935907688,1
+"Hirschia","Pajaroellobacter",0.939195926396892,0.939195926396892,1
+"Hirschia","Phaselicystis",0.915130289123367,0.915130289123367,1
+"Hydrogenophaga","Hyphomicrobium",0.956814425796567,0.956814425796567,1
+"Hydrogenophaga","Ilumatobacter",0.89359032355788,0.89359032355788,1
+"Hydrogenophaga","Methylorosula",0.926881035088878,0.926881035088878,1
+"Hydrogenophaga","Methylovirgula",0.942295345401479,0.942295345401479,1
+"Hydrogenophaga","Nitriliruptor",0.932194815500657,0.932194815500657,1
+"Hydrogenophaga","Nordella",0.895756241535638,0.895756241535638,1
+"Hydrogenophaga","Paenibacillus",0.926326666331114,0.926326666331114,1
+"Hydrogenophaga","Polymorphobacter",0.931537941739766,0.931537941739766,1
+"Hydrogenophaga","Prosthecobacter",0.938243320902887,0.938243320902887,1
+"Hydrogenophaga","Proteiniclasticum",0.900611418169997,0.900611418169997,1
+"Hydrogenophaga","Pseudorhodobacter",0.912125571226704,0.912125571226704,1
+"Hydrogenophaga","Pseudorhodoplanes",0.91291996131617,0.91291996131617,1
+"Hydrogenophaga","Rhizobacter",0.975717850732107,0.975717850732107,1
+"Hydrogenophaga","Rhodoferax",0.92910919420607,0.92910919420607,1
+"Hydrogenophaga","Tabrizicola",0.902281956113547,0.902281956113547,1
+"Hydrogenophaga","Woeseia",0.895277055575011,0.895277055575011,1
+"Hymenobacter","MN 122.2a",0.954385893611526,0.954385893611526,1
+"Hymenobacter","Mycetocola",0.892404951904918,0.892404951904918,1
+"Hymenobacter","Nitrosomonas",0.945343050309106,0.945343050309106,1
+"Hymenobacter","Rubellimicrobium",0.922591531311269,0.922591531311269,1
+"Hymenobacter","Rubritepida",0.959540782090202,0.959540782090202,1
+"Hyphomicrobium","Ilumatobacter",0.943287388796171,0.943287388796171,1
+"Hyphomicrobium","Methyloceanibacter",0.894644457699006,0.894644457699006,1
+"Hyphomicrobium","Methylorosula",0.969051139940489,0.969051139940489,1
+"Hyphomicrobium","Methylovirgula",0.985874920572756,0.985874920572756,1
+"Hyphomicrobium","Nitriliruptor",0.949865637263193,0.949865637263193,1
+"Hyphomicrobium","Nordella",0.953044568084672,0.953044568084672,1
+"Hyphomicrobium","Paenibacillus",0.97038220291215,0.97038220291215,1
+"Hyphomicrobium","Polymorphobacter",0.974087666030317,0.974087666030317,1
+"Hyphomicrobium","Prosthecobacter",0.994013843304645,0.994013843304645,1
+"Hyphomicrobium","Proteiniclasticum",0.940883957072112,0.940883957072112,1
+"Hyphomicrobium","Pseudorhodobacter",0.953194986188536,0.953194986188536,1
+"Hyphomicrobium","Pseudorhodoplanes",0.908455721903334,0.908455721903334,1
+"Hyphomicrobium","Reyranella",0.946639306392406,0.946639306392406,1
+"Hyphomicrobium","Rhizobacter",0.990579769268951,0.990579769268951,1
+"Hyphomicrobium","Rhodoferax",0.993107220255788,0.993107220255788,1
+"Hyphomicrobium","Sphaerotilus",0.897426587449525,0.897426587449525,1
+"Hyphomicrobium","Tabrizicola",0.942667777332894,0.942667777332894,1
+"Hyphomicrobium","Tetrasphaera",0.912315646724845,0.912315646724845,1
+"Hyphomicrobium","Thiothrix",0.918280751906746,0.918280751906746,1
+"Hyphomicrobium","Trichococcus",0.889384451190605,0.889384451190605,1
+"Hyphomicrobium","Woeseia",0.935192240230321,0.935192240230321,1
+"Ideonella","Rhodobacter",0.910017615874917,0.910017615874917,1
+"Ideonella","Stenotrophobacter",0.896832861254311,0.896832861254311,1
+"Ileibacterium","Nesterenkonia",0.996465721494453,0.996465721494453,1
+"Ileibacterium","NK4A214 group",0.952460486293637,0.952460486293637,1
+"Ileibacterium","Oscillospira",0.968844188702446,0.968844188702446,1
+"Ileibacterium","Oxalobacter",0.993636453839135,0.993636453839135,1
+"Ileibacterium","Papillibacter",0.965515724591946,0.965515724591946,1
+"Ileibacterium","Ruminococcus",0.888537304994023,0.888537304994023,1
+"Ileibacterium","Sarcina",0.941837053781278,0.941837053781278,1
+"Ilumatobacter","Methylorosula",0.94146095051053,0.94146095051053,1
+"Ilumatobacter","Methylovirgula",0.956354401863438,0.956354401863438,1
+"Ilumatobacter","Nordella",0.922313693694201,0.922313693694201,1
+"Ilumatobacter","Paenibacillus",0.932415356232431,0.932415356232431,1
+"Ilumatobacter","Polymorphobacter",0.946010300019448,0.946010300019448,1
+"Ilumatobacter","Prosthecobacter",0.952501669236593,0.952501669236593,1
+"Ilumatobacter","Proteiniclasticum",0.915535201128603,0.915535201128603,1
+"Ilumatobacter","Pseudaminobacter",0.957894130015056,0.957894130015056,1
+"Ilumatobacter","Pseudorhodobacter",0.926936188442771,0.926936188442771,1
+"Ilumatobacter","Reyranella",0.982213085900215,0.982213085900215,1
+"Ilumatobacter","Rhizobacter",0.948747786018419,0.948747786018419,1
+"Ilumatobacter","Rhodoferax",0.943640649056177,0.943640649056177,1
+"Ilumatobacter","Tabrizicola",0.917191834994566,0.917191834994566,1
+"Ilumatobacter","Thiothrix",0.894444367763126,0.894444367763126,1
+"Ilumatobacter","Woeseia",0.910240517067572,0.910240517067572,1
+"Incertae Sedis","Parabacteroides",0.903288870708636,0.903288870708636,1
+"Inhella","OLB8",0.901346683191111,0.901346683191111,1
+"Inquilinus","Methyloceanibacter",0.937019210611038,0.937019210611038,1
+"Inquilinus","Ohtaekwangia",0.933165059182102,0.933165059182102,1
+"Inquilinus","Pajaroellobacter",0.985547345727812,0.985547345727812,1
+"Inquilinus","Phaselicystis",0.979347688862938,0.979347688862938,1
+"Intestinibacter","Lachnoclostridium",0.949309509780841,0.949309509780841,1
+"Intestinibacter","Lachnospiraceae UCG-003",0.893615828634972,0.893615828634972,1
+"Intestinibacter","Lachnospiraceae UCG-004",0.946279685661607,0.946279685661607,1
+"Intestinibacter","OLB17",0.896855177709236,0.896855177709236,1
+"Intestinibacter","Roseburia",0.906814180423934,0.906814180423934,1
+"Intestinibacter","Salipaludibacillus",0.886276979464974,0.886276979464974,1
+"Intestinibacter","Subdoligranulum",0.928042447082745,0.928042447082745,1
+"Intestinibacter","Tyzzerella",0.912295413154712,0.912295413154712,1
+"Intestinibacter","UCG-003",0.950835445705348,0.950835445705348,1
+"Intestinimonas","Lachnospiraceae NK4B4 group",0.985842860868839,0.985842860868839,1
+"Intestinimonas","Monoglobus",0.945395791259258,0.945395791259258,1
+"Intestinimonas","Prevotellaceae NK3B31 group",0.979859211594015,0.979859211594015,1
+"Intestinimonas","Ruminococcus",0.938550426312694,0.938550426312694,1
+"Intestinimonas","Sporocytophaga",0.931274597015734,0.931274597015734,1
+"Intestinimonas","UCG-005",0.888821446622921,0.888821446622921,1
+"Intestinimonas","UCG-009",0.938054790012056,0.938054790012056,1
+"21551","Klebsiella",0.963141812542535,0.963141812542535,1
+"21551","Opitutus",0.895985345293239,0.895985345293239,1
+"21551","Pediococcus",0.887531680658298,0.887531680658298,1
+"21551","Sphaerisporangium",0.911957750663014,0.911957750663014,1
+"21551","Sumerlaea",0.935229389682683,0.935229389682683,1
+"Jatrophihabitans","Jiangella",0.914753651602269,0.914753651602269,1
+"Jatrophihabitans","Kribbella",0.896265011372691,0.896265011372691,1
+"Jatrophihabitans","Longispora",0.959014495709832,0.959014495709832,1
+"Jatrophihabitans","Mycobacterium",0.906695846661969,0.906695846661969,1
+"Jatrophihabitans","Ochrobactrum",0.932753615604781,0.932753615604781,1
+"Jatrophihabitans","Roseimicrobium",0.92801051779021,0.92801051779021,1
+"Jatrophihabitans","Rothia",0.89564383060823,0.89564383060823,1
+"Jatrophihabitans","Vicinamibacter",0.958415911472346,0.958415911472346,1
+"Jatrophihabitans","wb1-P19",0.907393370453269,0.907393370453269,1
+"Jatrophihabitans","Weissella",0.927641970505743,0.927641970505743,1
+"JCM 18997","Mesorhizobium",0.921534640051117,0.921534640051117,1
+"JCM 18997","Monoglobus",0.886663359122285,0.886663359122285,1
+"JCM 18997","Prevotellaceae NK3B31 group",0.905864351587066,0.905864351587066,1
+"JCM 18997","Sporocytophaga",0.944788792812263,0.944788792812263,1
+"JGI 0001001-H03","Leptolyngbya EcFYyyy-00",0.958419444118215,0.958419444118215,1
+"JGI 0001001-H03","Leptolyngbya VRUC 135",0.923175291792013,0.923175291792013,1
+"JGI 0001001-H03","Microcoleus SAG 1449-1a",0.920264931900984,0.920264931900984,1
+"JGI 0001001-H03","OLB17",0.9008269624097,0.9008269624097,1
+"JGI 0001001-H03","Phormidium SAG 37.90",0.89576294378245,0.89576294378245,1
+"JGI 0001001-H03","Pseudoxanthomonas",0.948148771699149,0.948148771699149,1
+"JGI 0001001-H03","Salipaludibacillus",0.954175446834096,0.954175446834096,1
+"JGI 0001001-H03","Scytonema UTEX 2349",0.955868869242031,0.955868869242031,1
+"JGI 0001001-H03","Stenotrophobacter",0.973138194859855,0.973138194859855,1
+"JGI 0001001-H03","Sutterella",0.952893952810614,0.952893952810614,1
+"JGI 0001001-H03","SWB02",0.984572036045562,0.984572036045562,1
+"JGI 0001001-H03","Symplocastrum CPER-KK1",0.952895198910807,0.952895198910807,1
+"JGI 0001001-H03","Tyzzerella",0.954849472335342,0.954849472335342,1
+"JGI 0001001-H03","UCG-003",0.901951066640263,0.901951066640263,1
+"Jiangella","Kibdelosporangium",0.946545636376452,0.946545636376452,1
+"Jiangella","Lactobacillus",0.952290033573974,0.952290033573974,1
+"Jiangella","Longispora",0.891600161040323,0.891600161040323,1
+"Jiangella","Ochrobactrum",0.917421254014735,0.917421254014735,1
+"Jiangella","Pediococcus",0.922446683776236,0.922446683776236,1
+"Jiangella","Rothia",0.917112144793266,0.917112144793266,1
+"Jiangella","Vicinamibacter",0.901923811845789,0.901923811845789,1
+"Jiangella","wb1-P19",0.966519615519012,0.966519615519012,1
+"Kibdelosporangium","Lactobacillus",0.973238294643549,0.973238294643549,1
+"Kibdelosporangium","Longispora",0.93364086036405,0.93364086036405,1
+"Kibdelosporangium","Mycobacterium",0.910876372083614,0.910876372083614,1
+"Kibdelosporangium","Ochrobactrum",0.973893820041123,0.973893820041123,1
+"Kibdelosporangium","Paenarthrobacter",0.933780791614756,0.933780791614756,1
+"Kibdelosporangium","Pediococcus",0.934720003862053,0.934720003862053,1
+"Kibdelosporangium","Roseimicrobium",0.959486642299821,0.959486642299821,1
+"Kibdelosporangium","Rothia",0.98674510558802,0.98674510558802,1
+"Kibdelosporangium","Streptococcus",0.924587566427265,0.924587566427265,1
+"Kibdelosporangium","Vicinamibacter",0.940660105384656,0.940660105384656,1
+"Kibdelosporangium","wb1-P19",0.957256792177616,0.957256792177616,1
+"Kibdelosporangium","Weissella",0.959170936357243,0.959170936357243,1
+"Klebsiella","Sumerlaea",0.916516310905658,0.916516310905658,1
+"Knoellia","Rubrivivax",0.927129551363621,0.927129551363621,1
+"Kribbella","Longispora",0.92836629809755,0.92836629809755,1
+"Kribbella","Mycobacterium",0.933840575528028,0.933840575528028,1
+"Kribbella","Ochrobactrum",0.91331954165872,0.91331954165872,1
+"Kribbella","Paenarthrobacter",0.916745994943458,0.916745994943458,1
+"Kribbella","Roseimicrobium",0.90777614699103,0.90777614699103,1
+"Kribbella","Vicinamibacter",0.92903484733292,0.92903484733292,1
+"Lachnoclostridium","Lachnospiraceae UCG-004",0.968282260911328,0.968282260911328,1
+"Lachnoclostridium","Parasutterella",0.899762660153551,0.899762660153551,1
+"Lachnoclostridium","Roseburia",0.891918651710678,0.891918651710678,1
+"Lachnoclostridium","Subdoligranulum",0.900013349556949,0.900013349556949,1
+"Lachnospira","Lachnospiraceae ND3007 group",0.995934671653843,0.995934671653843,1
+"Lachnospira","Lachnospiraceae UCG-001",0.986420265367636,0.986420265367636,1
+"Lachnospira","Lachnospiraceae UCG-003",0.987178861185148,0.987178861185148,1
+"Lachnospira","Lachnospiraceae UCG-004",0.886395043468346,0.886395043468346,1
+"Lachnospira","Lachnospiraceae UCG-010",0.912538992358359,0.912538992358359,1
+"Lachnospira","Parasutterella",0.899680490940086,0.899680490940086,1
+"Lachnospira","Roseburia",0.980270684972553,0.980270684972553,1
+"Lachnospira","Subdoligranulum",0.949269267712503,0.949269267712503,1
+"Lachnospira","Terrisporobacter",0.99522426928549,0.99522426928549,1
+"Lachnospiraceae AC2044 group","Lachnospiraceae UCG-004",0.910671004377759,0.910671004377759,1
+"Lachnospiraceae ND3007 group","Lachnospiraceae UCG-001",0.987170447576742,0.987170447576742,1
+"Lachnospiraceae ND3007 group","Lachnospiraceae UCG-003",0.983538084223698,0.983538084223698,1
+"Lachnospiraceae ND3007 group","Lachnospiraceae UCG-010",0.892687819016152,0.892687819016152,1
+"Lachnospiraceae ND3007 group","Parasutterella",0.905487919551827,0.905487919551827,1
+"Lachnospiraceae ND3007 group","Roseburia",0.971342448799995,0.971342448799995,1
+"Lachnospiraceae ND3007 group","Subdoligranulum",0.942740508135411,0.942740508135411,1
+"Lachnospiraceae ND3007 group","Terrisporobacter",0.997977604863525,0.997977604863525,1
+"Lachnospiraceae NK4A136 group","Ruminococcus",0.905582161260897,0.905582161260897,1
+"Lachnospiraceae NK4B4 group","Monoglobus",0.928000989569272,0.928000989569272,1
+"Lachnospiraceae NK4B4 group","Prevotellaceae NK3B31 group",0.979153203162814,0.979153203162814,1
+"Lachnospiraceae NK4B4 group","Ruminococcus",0.950261624207401,0.950261624207401,1
+"Lachnospiraceae NK4B4 group","Sporocytophaga",0.938162639263149,0.938162639263149,1
+"Lachnospiraceae NK4B4 group","UCG-005",0.906741937202379,0.906741937202379,1
+"Lachnospiraceae NK4B4 group","UCG-009",0.972118612988636,0.972118612988636,1
+"Lachnospiraceae UCG-001","Lachnospiraceae UCG-003",0.976630795687016,0.976630795687016,1
+"Lachnospiraceae UCG-001","Lachnospiraceae UCG-004",0.886475927399403,0.886475927399403,1
+"Lachnospiraceae UCG-001","Lachnospiraceae UCG-010",0.909893670940594,0.909893670940594,1
+"Lachnospiraceae UCG-001","Parasutterella",0.907122055771151,0.907122055771151,1
+"Lachnospiraceae UCG-001","Roseburia",0.960979856200174,0.960979856200174,1
+"Lachnospiraceae UCG-001","Subdoligranulum",0.930971833978193,0.930971833978193,1
+"Lachnospiraceae UCG-001","Terrisporobacter",0.99318407420028,0.99318407420028,1
+"Lachnospiraceae UCG-001","UBA1819",0.93951600634803,0.93951600634803,1
+"Lachnospiraceae UCG-003","Lachnospiraceae UCG-004",0.93095208278034,0.93095208278034,1
+"Lachnospiraceae UCG-003","Parasutterella",0.931941036443134,0.931941036443134,1
+"Lachnospiraceae UCG-003","Roseburia",0.997033304889329,0.997033304889329,1
+"Lachnospiraceae UCG-003","Subdoligranulum",0.983603986234506,0.983603986234506,1
+"Lachnospiraceae UCG-003","Terrisporobacter",0.980309059344464,0.980309059344464,1
+"Lachnospiraceae UCG-003","UBA1819",0.887190785768761,0.887190785768761,1
+"Lachnospiraceae UCG-004","Parasutterella",0.947642223840942,0.947642223840942,1
+"Lachnospiraceae UCG-004","Roseburia",0.932841387403103,0.932841387403103,1
+"Lachnospiraceae UCG-004","Subdoligranulum",0.930680080956783,0.930680080956783,1
+"Lachnospiraceae UCG-010","Terrisporobacter",0.905110343856339,0.905110343856339,1
+"Lactobacillus","Ochrobactrum",0.93497116124436,0.93497116124436,1
+"Lactobacillus","Pediococcus",0.980181166899014,0.980181166899014,1
+"Lactobacillus","Roseimicrobium",0.901976270842954,0.901976270842954,1
+"Lactobacillus","Rothia",0.943945917868336,0.943945917868336,1
+"Lactobacillus","wb1-P19",0.924052033982625,0.924052033982625,1
+"Lactobacillus","Weissella",0.909515314289389,0.909515314289389,1
+"Lautropia","Rubrivivax",0.970887897218901,0.970887897218901,1
+"Legionella","MND1",0.90544412636433,0.90544412636433,1
+"Legionella","Nitrospira",0.957979399413412,0.957979399413412,1
+"Legionella","OM27 clade",0.904704586720417,0.904704586720417,1
+"Legionella","Pseudaminobacter",0.906169869861101,0.906169869861101,1
+"Legionella","RB41",0.885428398581292,0.885428398581292,1
+"Legionella","Rhodoplanes",0.897496994628501,0.897496994628501,1
+"Lentimicrobium","OLB12",0.927628575444131,0.927628575444131,1
+"Lentimicrobium","Phreatobacter",0.904680597402132,0.904680597402132,1
+"Lentimicrobium","Phytomonospora",0.911165622693834,0.911165622693834,1
+"Lentimicrobium","Segetibacter",0.92578551237392,0.92578551237392,1
+"Lentimicrobium","UTBCD1",0.932942903285212,0.932942903285212,1
+"Lentimicrobium","YC-ZSS-LKJ147",0.953407169330356,0.953407169330356,1
+"Leptolyngbya ANT.L52.2","Leptonema",0.925518869787998,0.925518869787998,1
+"Leptolyngbya ANT.L52.2","Mastigocladopsis PCC-10914",0.991162320960414,0.991162320960414,1
+"Leptolyngbya ANT.L52.2","Methyloversatilis",0.98287903646988,0.98287903646988,1
+"Leptolyngbya ANT.L52.2","Microbacterium",0.900042284850083,0.900042284850083,1
+"Leptolyngbya ANT.L52.2","Microcoleus Es-Yyy1400",0.944338786487079,0.944338786487079,1
+"Leptolyngbya ANT.L52.2","Pseudogulbenkiania",0.89673333638154,0.89673333638154,1
+"Leptolyngbya ANT.L52.2","Ralstonia",0.911953488160635,0.911953488160635,1
+"Leptolyngbya ANT.L52.2","Rhodovarius",0.886964860369051,0.886964860369051,1
+"Leptolyngbya ANT.L52.2","Rhodovastum",0.971817628918508,0.971817628918508,1
+"Leptolyngbya ANT.L52.2","Stenotrophomonas",0.911718830929252,0.911718830929252,1
+"Leptolyngbya ANT.L52.2","Sulfuriferula",0.994424124381722,0.994424124381722,1
+"Leptolyngbya ANT.L52.2","Thiobacillus",0.931645064346466,0.931645064346466,1
+"Leptolyngbya ANT.L52.2","Tychonema CCAP 1459-11B",0.968237554915217,0.968237554915217,1
+"Leptolyngbya ANT.L52.2","Vibrio",0.956630003707225,0.956630003707225,1
+"Leptolyngbya ANT.L52.2","Vogesella",0.951276191430904,0.951276191430904,1
+"Leptolyngbya EcFYyyy-00","Leptolyngbya VRUC 135",0.940152952337175,0.940152952337175,1
+"Leptolyngbya EcFYyyy-00","Leptonema",0.928229577601397,0.928229577601397,1
+"Leptolyngbya EcFYyyy-00","Microcoleus SAG 1449-1a",0.89791097490619,0.89791097490619,1
+"Leptolyngbya EcFYyyy-00","OLB17",0.886583396534529,0.886583396534529,1
+"Leptolyngbya EcFYyyy-00","Phormidesmis ANT.L52.6",0.951946449110568,0.951946449110568,1
+"Leptolyngbya EcFYyyy-00","Phormidium SAG 37.90",0.9474379605537,0.9474379605537,1
+"Leptolyngbya EcFYyyy-00","Pseudomonas",0.890336218634464,0.890336218634464,1
+"Leptolyngbya EcFYyyy-00","Pseudoxanthomonas",0.930413513239585,0.930413513239585,1
+"Leptolyngbya EcFYyyy-00","Ralstonia",0.894855737915189,0.894855737915189,1
+"Leptolyngbya EcFYyyy-00","Salipaludibacillus",0.956188274542457,0.956188274542457,1
+"Leptolyngbya EcFYyyy-00","Scytonema UTEX 2349",0.968977213825865,0.968977213825865,1
+"Leptolyngbya EcFYyyy-00","Stenotrophobacter",0.912606361641314,0.912606361641314,1
+"Leptolyngbya EcFYyyy-00","Stenotrophomonas",0.899852812841074,0.899852812841074,1
+"Leptolyngbya EcFYyyy-00","Sutterella",0.985488254691148,0.985488254691148,1
+"Leptolyngbya EcFYyyy-00","SWB02",0.977663758865253,0.977663758865253,1
+"Leptolyngbya EcFYyyy-00","Symplocastrum CPER-KK1",0.95879859505905,0.95879859505905,1
+"Leptolyngbya EcFYyyy-00","Tyzzerella",0.966786040818762,0.966786040818762,1
+"Leptolyngbya EcFYyyy-00","UCG-002",0.914669290251711,0.914669290251711,1
+"Leptolyngbya EcFYyyy-00","UCG-003",0.963767435780106,0.963767435780106,1
+"Leptolyngbya EcFYyyy-00","Vogesella",0.906088716119003,0.906088716119003,1
+"Leptolyngbya Es-Yyy1000","UBA1819",0.931186106082948,0.931186106082948,1
+"Leptolyngbya VRUC 135","Leptonema",0.927061836051967,0.927061836051967,1
+"Leptolyngbya VRUC 135","Mastigocladopsis PCC-10914",0.908039501105824,0.908039501105824,1
+"Leptolyngbya VRUC 135","Microcoleus Es-Yyy1400",0.938340449777863,0.938340449777863,1
+"Leptolyngbya VRUC 135","Microcoleus SAG 1449-1a",0.941320992078432,0.941320992078432,1
+"Leptolyngbya VRUC 135","Phormidesmis ANT.L52.6",0.967864202811377,0.967864202811377,1
+"Leptolyngbya VRUC 135","Phormidium SAG 37.90",0.907875236856911,0.907875236856911,1
+"Leptolyngbya VRUC 135","Pseudogulbenkiania",0.980679885246201,0.980679885246201,1
+"Leptolyngbya VRUC 135","Pseudomonas",0.987130112671715,0.987130112671715,1
+"Leptolyngbya VRUC 135","Pseudoxanthomonas",0.897667394358761,0.897667394358761,1
+"Leptolyngbya VRUC 135","Ralstonia",0.985355230658398,0.985355230658398,1
+"Leptolyngbya VRUC 135","Raoultella",0.945465257395182,0.945465257395182,1
+"Leptolyngbya VRUC 135","Rhodovastum",0.920908908849076,0.920908908849076,1
+"Leptolyngbya VRUC 135","Scytonema UTEX 2349",0.985475921767303,0.985475921767303,1
+"Leptolyngbya VRUC 135","Stenotrophobacter",0.918660596901618,0.918660596901618,1
+"Leptolyngbya VRUC 135","Stenotrophomonas",0.913679796223425,0.913679796223425,1
+"Leptolyngbya VRUC 135","Sutterella",0.980410072483418,0.980410072483418,1
+"Leptolyngbya VRUC 135","SWB02",0.958915566293682,0.958915566293682,1
+"Leptolyngbya VRUC 135","Symplocastrum CPER-KK1",0.950776057644291,0.950776057644291,1
+"Leptolyngbya VRUC 135","Thiobacillus",0.953990021478597,0.953990021478597,1
+"Leptolyngbya VRUC 135","Vogesella",0.96146208792975,0.96146208792975,1
+"Leptonema","Mastigocladopsis PCC-10914",0.955939754800699,0.955939754800699,1
+"Leptonema","Methyloversatilis",0.90701497010767,0.90701497010767,1
+"Leptonema","Microcoleus Es-Yyy1400",0.976151297884758,0.976151297884758,1
+"Leptonema","Phormidesmis ANT.L52.6",0.945403810630522,0.945403810630522,1
+"Leptonema","Pseudogulbenkiania",0.908387850545752,0.908387850545752,1
+"Leptonema","Ralstonia",0.937110990131239,0.937110990131239,1
+"Leptonema","Rhodovastum",0.912188380992567,0.912188380992567,1
+"Leptonema","Scytonema UTEX 2349",0.903606536398565,0.903606536398565,1
+"Leptonema","Stenotrophomonas",0.975571365441039,0.975571365441039,1
+"Leptonema","Sulfuriferula",0.905385615845844,0.905385615845844,1
+"Leptonema","Sutterella",0.95062900538217,0.95062900538217,1
+"Leptonema","SWB02",0.931646621133893,0.931646621133893,1
+"Leptonema","Thiobacillus",0.899545381172047,0.899545381172047,1
+"Leptonema","Tychonema CCAP 1459-11B",0.903033872879454,0.903033872879454,1
+"Leptonema","UCG-003",0.906228069373044,0.906228069373044,1
+"Leptonema","Vogesella",0.983540848428404,0.983540848428404,1
+"Limnobacter","Oscillospira",0.889051999152037,0.889051999152037,1
+"Limnobacter","Phytomonospora",0.986945810567738,0.986945810567738,1
+"Limnobacter","Segetibacter",0.911678193812921,0.911678193812921,1
+"Longispora","Mycobacterium",0.9844991677912,0.9844991677912,1
+"Longispora","Ochrobactrum",0.974533836673668,0.974533836673668,1
+"Longispora","Paenarthrobacter",0.976407952800385,0.976407952800385,1
+"Longispora","Pirellula",0.887532934128605,0.887532934128605,1
+"Longispora","Roseimicrobium",0.98687588384807,0.98687588384807,1
+"Longispora","Rothia",0.946674682664817,0.946674682664817,1
+"Longispora","Streptococcus",0.904306993746887,0.904306993746887,1
+"Longispora","Vicinamibacter",0.999513457217563,0.999513457217563,1
+"Longispora","wb1-P19",0.933879693056366,0.933879693056366,1
+"Longispora","Weissella",0.9761915859228,0.9761915859228,1
+"Luteimonas","Methylocella",0.963383412227296,0.963383412227296,1
+"Luteimonas","Rufibacter",0.992251752025974,0.992251752025974,1
+"Luteimonas","Sphingobacterium",0.944008368183703,0.944008368183703,1
+"Luteitalea","Rhodoplanes",0.918907086154691,0.918907086154691,1
+"Lysobacter","Nonomuraea",0.978314190198646,0.978314190198646,1
+"Macellibacteroides","Methylorosula",0.9412922539202,0.9412922539202,1
+"Macellibacteroides","Methylovirgula",0.898729787085469,0.898729787085469,1
+"Macellibacteroides","OLB12",0.979358253819895,0.979358253819895,1
+"Macellibacteroides","Ottowia",0.997840689791284,0.997840689791284,1
+"Macellibacteroides","Phreatobacter",0.95862465027337,0.95862465027337,1
+"Macellibacteroides","Polymorphobacter",0.932231737479174,0.932231737479174,1
+"Macellibacteroides","Pseudorhodobacter",0.961604082304707,0.961604082304707,1
+"Macellibacteroides","Rhizorhapis",0.998494510088092,0.998494510088092,1
+"Macellibacteroides","Sphaerotilus",0.993171529691429,0.993171529691429,1
+"Macellibacteroides","Sphingorhabdus",0.996256329655244,0.996256329655244,1
+"Macellibacteroides","Tabrizicola",0.970986974863852,0.970986974863852,1
+"Macellibacteroides","Tetrasphaera",0.98689007008586,0.98689007008586,1
+"Macellibacteroides","Thermomonas",0.945746289893062,0.945746289893062,1
+"Macellibacteroides","Thiothrix",0.985661823906164,0.985661823906164,1
+"Macellibacteroides","Trichococcus",0.893389988224761,0.893389988224761,1
+"Mastigocladopsis PCC-10914","Methyloversatilis",0.958666235091362,0.958666235091362,1
+"Mastigocladopsis PCC-10914","Microcoleus Es-Yyy1400",0.971313890497381,0.971313890497381,1
+"Mastigocladopsis PCC-10914","Phormidesmis ANT.L52.6",0.899897550477166,0.899897550477166,1
+"Mastigocladopsis PCC-10914","Pseudogulbenkiania",0.941383194101868,0.941383194101868,1
+"Mastigocladopsis PCC-10914","Pseudomonas",0.896376917948524,0.896376917948524,1
+"Mastigocladopsis PCC-10914","Ralstonia",0.955364459689337,0.955364459689337,1
+"Mastigocladopsis PCC-10914","Rhodovastum",0.985430080695969,0.985430080695969,1
+"Mastigocladopsis PCC-10914","Stenotrophomonas",0.937542810775373,0.937542810775373,1
+"Mastigocladopsis PCC-10914","Sulfuriferula",0.989470091740373,0.989470091740373,1
+"Mastigocladopsis PCC-10914","Thiobacillus",0.961584979241775,0.961584979241775,1
+"Mastigocladopsis PCC-10914","Tychonema CCAP 1459-11B",0.963614545304458,0.963614545304458,1
+"Mastigocladopsis PCC-10914","Vibrio",0.918433928975988,0.918433928975988,1
+"Mastigocladopsis PCC-10914","Vogesella",0.982261418776535,0.982261418776535,1
+"Mesorhizobium","Niastella",0.932079306795538,0.932079306795538,1
+"Mesorhizobium","Sporocytophaga",0.937689137824459,0.937689137824459,1
+"Methylobacterium-Methylorubrum","Rubellimicrobium",0.900539981080401,0.900539981080401,1
+"Methyloceanibacter","Methylovirgula",0.887040264353796,0.887040264353796,1
+"Methyloceanibacter","Nitriliruptor",0.969416208485377,0.969416208485377,1
+"Methyloceanibacter","Ohtaekwangia",0.946754025968541,0.946754025968541,1
+"Methyloceanibacter","Paenibacillus",0.966945596125657,0.966945596125657,1
+"Methyloceanibacter","Pajaroellobacter",0.924010871100692,0.924010871100692,1
+"Methyloceanibacter","Phaselicystis",0.917936121191562,0.917936121191562,1
+"Methyloceanibacter","Reyranella",0.918289526466492,0.918289526466492,1
+"Methylocella","Rufibacter",0.946952094476628,0.946952094476628,1
+"Methylorosula","Methylovirgula",0.994002795889695,0.994002795889695,1
+"Methylorosula","Nitriliruptor",0.916071233726234,0.916071233726234,1
+"Methylorosula","Nordella",0.945405721829982,0.945405721829982,1
+"Methylorosula","Ottowia",0.961433051643607,0.961433051643607,1
+"Methylorosula","Paenibacillus",0.951377753616348,0.951377753616348,1
+"Methylorosula","Polymorphobacter",0.999664460278618,0.999664460278618,1
+"Methylorosula","Prosthecobacter",0.982803881721518,0.982803881721518,1
+"Methylorosula","Proteiniclasticum",0.948202087275063,0.948202087275063,1
+"Methylorosula","Pseudorhodobacter",0.997799608966565,0.997799608966565,1
+"Methylorosula","Reyranella",0.936692011465917,0.936692011465917,1
+"Methylorosula","Rhizobacter",0.979486350451829,0.979486350451829,1
+"Methylorosula","Rhizorhapis",0.92135759609145,0.92135759609145,1
+"Methylorosula","Rhodoferax",0.974839697075176,0.974839697075176,1
+"Methylorosula","Sphaerotilus",0.974249338050713,0.974249338050713,1
+"Methylorosula","Sphingorhabdus",0.908584009837581,0.908584009837581,1
+"Methylorosula","Tabrizicola",0.994711885374429,0.994711885374429,1
+"Methylorosula","Tetrasphaera",0.976936272775147,0.976936272775147,1
+"Methylorosula","Thiothrix",0.984758827858938,0.984758827858938,1
+"Methylorosula","Trichococcus",0.905835036387055,0.905835036387055,1
+"Methylorosula","Woeseia",0.943084481201772,0.943084481201772,1
+"Methyloversatilis","Microbacterium",0.925278080753399,0.925278080753399,1
+"Methyloversatilis","Microcoleus Es-Yyy1400",0.913782087172375,0.913782087172375,1
+"Methyloversatilis","Rhodovarius",0.910835691230987,0.910835691230987,1
+"Methyloversatilis","Rhodovastum",0.911985022634414,0.911985022634414,1
+"Methyloversatilis","Stenotrophomonas",0.894573277189139,0.894573277189139,1
+"Methyloversatilis","Sulfuriferula",0.95967628535362,0.95967628535362,1
+"Methyloversatilis","Tychonema CCAP 1459-11B",0.943732497844265,0.943732497844265,1
+"Methyloversatilis","Vibrio",0.992870755833489,0.992870755833489,1
+"Methyloversatilis","Vogesella",0.906440459873454,0.906440459873454,1
+"Methylovirgula","Nitriliruptor",0.934179295099274,0.934179295099274,1
+"Methylovirgula","Nordella",0.96134038011599,0.96134038011599,1
+"Methylovirgula","Ottowia",0.925590337842946,0.925590337842946,1
+"Methylovirgula","Paenibacillus",0.968223820151687,0.968223820151687,1
+"Methylovirgula","Polymorphobacter",0.996501885292406,0.996501885292406,1
+"Methylovirgula","Prosthecobacter",0.994994833354594,0.994994833354594,1
+"Methylovirgula","Proteiniclasticum",0.96281598237384,0.96281598237384,1
+"Methylovirgula","Pseudorhodobacter",0.984565180605676,0.984565180605676,1
+"Methylovirgula","Reyranella",0.954517359582876,0.954517359582876,1
+"Methylovirgula","Rhizobacter",0.992083846474403,0.992083846474403,1
+"Methylovirgula","Rhodoferax",0.987881368977383,0.987881368977383,1
+"Methylovirgula","Sphaerotilus",0.943750005316168,0.943750005316168,1
+"Methylovirgula","Tabrizicola",0.977515152410974,0.977515152410974,1
+"Methylovirgula","Tetrasphaera",0.949274813687073,0.949274813687073,1
+"Methylovirgula","Thiothrix",0.959833473161585,0.959833473161585,1
+"Methylovirgula","Trichococcus",0.887207650873429,0.887207650873429,1
+"Methylovirgula","Woeseia",0.957913223739469,0.957913223739469,1
+"Microbacterium","Rhodococcus",0.928553870984338,0.928553870984338,1
+"Microbacterium","Rhodovarius",0.95376579149268,0.95376579149268,1
+"Microbacterium","Sulfuriferula",0.885233742929024,0.885233742929024,1
+"Microbacterium","Vibrio",0.939194967336547,0.939194967336547,1
+"Microcoleus Es-Yyy1400","Phormidesmis ANT.L52.6",0.93424152880112,0.93424152880112,1
+"Microcoleus Es-Yyy1400","Pseudogulbenkiania",0.929235195395005,0.929235195395005,1
+"Microcoleus Es-Yyy1400","Pseudomonas",0.898770780639806,0.898770780639806,1
+"Microcoleus Es-Yyy1400","Ralstonia",0.949690889351863,0.949690889351863,1
+"Microcoleus Es-Yyy1400","Rhodovastum",0.942642685427028,0.942642685427028,1
+"Microcoleus Es-Yyy1400","Roseomonas",0.893795164570034,0.893795164570034,1
+"Microcoleus Es-Yyy1400","Scytonema UTEX 2349",0.889351074624932,0.889351074624932,1
+"Microcoleus Es-Yyy1400","Stenotrophobacter",0.888391634719189,0.888391634719189,1
+"Microcoleus Es-Yyy1400","Stenotrophomonas",0.983301230855501,0.983301230855501,1
+"Microcoleus Es-Yyy1400","Sulfuriferula",0.93504369383913,0.93504369383913,1
+"Microcoleus Es-Yyy1400","Sutterella",0.925686098465591,0.925686098465591,1
+"Microcoleus Es-Yyy1400","SWB02",0.913435442083919,0.913435442083919,1
+"Microcoleus Es-Yyy1400","Thiobacillus",0.930086630981492,0.930086630981492,1
+"Microcoleus Es-Yyy1400","Tychonema CCAP 1459-11B",0.908675746349254,0.908675746349254,1
+"Microcoleus Es-Yyy1400","Vogesella",0.981591189254847,0.981591189254847,1
+"Microcoleus PCC-7113","Microcoleus SAG 1449-1a",0.916846158619528,0.916846158619528,1
+"Microcoleus PCC-7113","Nostoc PCC-73102",0.995468661579875,0.995468661579875,1
+"Microcoleus PCC-7113","Prevotellaceae UCG-001",0.969389310193226,0.969389310193226,1
+"Microcoleus PCC-7113","Pseudoxanthomonas",0.901101862498309,0.901101862498309,1
+"Microcoleus PCC-7113","Shimazuella",0.957418770618401,0.957418770618401,1
+"Microcoleus PCC-7113","Trichocoleus SAG 26.92",0.957418985114874,0.957418985114874,1
+"Microcoleus SAG 1449-1a","Nostoc PCC-73102",0.949980458525469,0.949980458525469,1
+"Microcoleus SAG 1449-1a","Phascolarctobacterium",0.914734937020887,0.914734937020887,1
+"Microcoleus SAG 1449-1a","Prevotellaceae UCG-001",0.967248148414472,0.967248148414472,1
+"Microcoleus SAG 1449-1a","Pseudogulbenkiania",0.905728538293575,0.905728538293575,1
+"Microcoleus SAG 1449-1a","Pseudomonas",0.950759507614542,0.950759507614542,1
+"Microcoleus SAG 1449-1a","Pseudoxanthomonas",0.973099408155045,0.973099408155045,1
+"Microcoleus SAG 1449-1a","Ralstonia",0.896746957838933,0.896746957838933,1
+"Microcoleus SAG 1449-1a","Raoultella",0.972213857505763,0.972213857505763,1
+"Microcoleus SAG 1449-1a","Salipaludibacillus",0.914798520667633,0.914798520667633,1
+"Microcoleus SAG 1449-1a","Scytonema UTEX 2349",0.969150305162172,0.969150305162172,1
+"Microcoleus SAG 1449-1a","Sutterella",0.925096310968491,0.925096310968491,1
+"Microcoleus SAG 1449-1a","SWB02",0.906753364870816,0.906753364870816,1
+"Microcoleus SAG 1449-1a","Symplocastrum CPER-KK1",0.978709920470505,0.978709920470505,1
+"Microcoleus SAG 1449-1a","Tyzzerella",0.894606227379778,0.894606227379778,1
+"Microvirga","Mycetocola",0.944261006130104,0.944261006130104,1
+"Microvirga","Psychroglaciecola",0.946264702405532,0.946264702405532,1
+"Microvirga","Roseisolibacter",0.905528804355562,0.905528804355562,1
+"MN 122.2a","Neo-b11",0.894312229607347,0.894312229607347,1
+"MN 122.2a","Nitrosomonas",0.928524666526766,0.928524666526766,1
+"MN 122.2a","Rubritepida",0.933083165743713,0.933083165743713,1
+"MND1","Nitrospira",0.942842440105216,0.942842440105216,1
+"MND1","OM27 clade",0.981608982517043,0.981608982517043,1
+"MND1","Phytohabitans",0.936864217100423,0.936864217100423,1
+"MND1","Pirellula",0.919979966958173,0.919979966958173,1
+"MND1","Puia",0.945207119949728,0.945207119949728,1
+"MND1","RB41",0.931564214430088,0.931564214430088,1
+"MND1","Rhodoplanes",0.903210677608085,0.903210677608085,1
+"MND1","Subgroup 10",0.945696993776795,0.945696993776795,1
+"MND1","Tenggerimyces",0.904360065102381,0.904360065102381,1
+"Modestobacter","Nitrosomonas",0.889203778981909,0.889203778981909,1
+"Modestobacter","Roseisolibacter",0.898202065463448,0.898202065463448,1
+"Modestobacter","YC-ZSS-LKJ147",0.935023932389078,0.935023932389078,1
+"Monoglobus","Prevotellaceae NK3B31 group",0.964381623319274,0.964381623319274,1
+"Monoglobus","Sporocytophaga",0.962556208623407,0.962556208623407,1
+"Monoglobus","Truepera",0.919698463946759,0.919698463946759,1
+"Monoglobus","UCG-005",0.903994326223007,0.903994326223007,1
+"Mycetocola","PMMR1",0.888650422964446,0.888650422964446,1
+"Mycetocola","Psychroglaciecola",0.970712856443217,0.970712856443217,1
+"Mycetocola","Roseisolibacter",0.903693839608811,0.903693839608811,1
+"Mycetocola","Rubellimicrobium",0.885447472388679,0.885447472388679,1
+"Mycobacterium","Ochrobactrum",0.944626952799653,0.944626952799653,1
+"Mycobacterium","Paenarthrobacter",0.986875941610299,0.986875941610299,1
+"Mycobacterium","Pirellula",0.945597650986934,0.945597650986934,1
+"Mycobacterium","Roseimicrobium",0.965810711730555,0.965810711730555,1
+"Mycobacterium","Rothia",0.9186861997519,0.9186861997519,1
+"Mycobacterium","Vicinamibacter",0.985543311387797,0.985543311387797,1
+"Mycobacterium","wb1-P19",0.929599658193982,0.929599658193982,1
+"Mycobacterium","Weissella",0.942396694851505,0.942396694851505,1
+"Nakamurella","OM27 clade",0.900545900329566,0.900545900329566,1
+"Neo-b11","Nitrosomonas",0.923916237315662,0.923916237315662,1
+"Neo-b11","Rubritepida",0.90528725333319,0.90528725333319,1
+"Nesterenkonia","NK4A214 group",0.968897935251595,0.968897935251595,1
+"Nesterenkonia","Oscillospira",0.944615560043038,0.944615560043038,1
+"Nesterenkonia","Oxalobacter",0.994798051563383,0.994798051563383,1
+"Nesterenkonia","Papillibacter",0.970349326102009,0.970349326102009,1
+"Nesterenkonia","Ruminococcus",0.921188966710149,0.921188966710149,1
+"Nesterenkonia","Sarcina",0.955475545974709,0.955475545974709,1
+"Nesterenkonia","UCG-009",0.88992930567925,0.88992930567925,1
+"Nevskia","Promicromonospora",0.923342826722115,0.923342826722115,1
+"Niastella","Solirubrobacter",0.935829113405916,0.935829113405916,1
+"Niastella","Sphingoaurantiacus",0.888319937508825,0.888319937508825,1
+"Niastella","Sulfurifustis",0.899234681641409,0.899234681641409,1
+"Niastella","Virgisporangium",0.888504934090066,0.888504934090066,1
+"Nitriliruptor","Nordella",0.895375826912129,0.895375826912129,1
+"Nitriliruptor","Paenibacillus",0.987511396293083,0.987511396293083,1
+"Nitriliruptor","Polymorphobacter",0.92135448491737,0.92135448491737,1
+"Nitriliruptor","Prosthecobacter",0.929184357471558,0.929184357471558,1
+"Nitriliruptor","Proteiniclasticum",0.887257943657642,0.887257943657642,1
+"Nitriliruptor","Pseudorhodobacter",0.899745636175296,0.899745636175296,1
+"Nitriliruptor","Reyranella",0.932423212089838,0.932423212089838,1
+"Nitriliruptor","Rhizobacter",0.947941299285179,0.947941299285179,1
+"Nitriliruptor","Rhodoferax",0.918587776400841,0.918587776400841,1
+"Nitriliruptor","Tabrizicola",0.889060261875099,0.889060261875099,1
+"Nitrosomonas","Rubritepida",0.956970260422265,0.956970260422265,1
+"Nitrospira","Nordella",0.921227669819338,0.921227669819338,1
+"Nitrospira","OM27 clade",0.902276657832459,0.902276657832459,1
+"Nitrospira","Pedomicrobium",0.957514111772327,0.957514111772327,1
+"Nitrospira","Phytohabitans",0.890257345615711,0.890257345615711,1
+"Nitrospira","Puia",0.941333079050009,0.941333079050009,1
+"Nitrospira","RB41",0.961348670618515,0.961348670618515,1
+"Nitrospira","Rhodoplanes",0.961850718604746,0.961850718604746,1
+"Nitrospira","Subgroup 10",0.956860415534887,0.956860415534887,1
+"NK4A214 group","Oxalobacter",0.972493859702728,0.972493859702728,1
+"NK4A214 group","Papillibacter",0.974712288858743,0.974712288858743,1
+"NK4A214 group","Ruminococcus",0.951317478065706,0.951317478065706,1
+"NK4A214 group","Sarcina",0.95483901057141,0.95483901057141,1
+"NK4A214 group","UCG-009",0.939040529556325,0.939040529556325,1
+"Nocardia","Saccharothrix",0.888771582169607,0.888771582169607,1
+"Nocardia","Sphaerisporangium",0.942524367565327,0.942524367565327,1
+"Nocardia","Staphylococcus",0.907568951999729,0.907568951999729,1
+"Nocardia","SZB85",0.935076962044946,0.935076962044946,1
+"Nocardioides","Sphingobacterium",0.922116578859642,0.922116578859642,1
+"Nordella","Paenibacillus",0.931205242300247,0.931205242300247,1
+"Nordella","Pedomicrobium",0.965136553859543,0.965136553859543,1
+"Nordella","Polymorphobacter",0.950205984018452,0.950205984018452,1
+"Nordella","Prosthecobacter",0.957134224414016,0.957134224414016,1
+"Nordella","Proteiniclasticum",0.91840053663193,0.91840053663193,1
+"Nordella","Pseudaminobacter",0.888395425067149,0.888395425067149,1
+"Nordella","Pseudorhodobacter",0.930226650825184,0.930226650825184,1
+"Nordella","Reyranella",0.919877832238876,0.919877832238876,1
+"Nordella","Rhizobacter",0.953112908572955,0.953112908572955,1
+"Nordella","Rhodoferax",0.947701636595439,0.947701636595439,1
+"Nordella","Rhodoplanes",0.929151238471623,0.929151238471623,1
+"Nordella","Subgroup 10",0.929616194593493,0.929616194593493,1
+"Nordella","Tabrizicola",0.920115636340299,0.920115636340299,1
+"Nordella","Thiothrix",0.896635379971186,0.896635379971186,1
+"Nordella","Woeseia",0.912925191984286,0.912925191984286,1
+"Nostoc PCC-73102","Prevotellaceae UCG-001",0.985941578135609,0.985941578135609,1
+"Nostoc PCC-73102","Pseudoxanthomonas",0.927482399267441,0.927482399267441,1
+"Nostoc PCC-73102","Raoultella",0.911035419900145,0.911035419900145,1
+"Nostoc PCC-73102","Shimazuella",0.938956532406832,0.938956532406832,1
+"Nostoc PCC-73102","Symplocastrum CPER-KK1",0.893964367157692,0.893964367157692,1
+"Nostoc PCC-73102","Trichocoleus SAG 26.92",0.938956739865113,0.938956739865113,1
+"Novosphingobium","Skermanella",0.941163558016669,0.941163558016669,1
+"Novosphingobium","Sphaerotilus",0.885490887617597,0.885490887617597,1
+"Novosphingobium","Tabrizicola",0.886289246480518,0.886289246480518,1
+"Novosphingobium","Thiothrix",0.887507133168086,0.887507133168086,1
+"Ochrobactrum","Paenarthrobacter",0.966583808538261,0.966583808538261,1
+"Ochrobactrum","Roseimicrobium",0.992753019460693,0.992753019460693,1
+"Ochrobactrum","Rothia",0.980016594572343,0.980016594572343,1
+"Ochrobactrum","Streptococcus",0.935933455023951,0.935933455023951,1
+"Ochrobactrum","Vicinamibacter",0.975141437835153,0.975141437835153,1
+"Ochrobactrum","wb1-P19",0.92372145394874,0.92372145394874,1
+"Ochrobactrum","Weissella",0.991793282302989,0.991793282302989,1
+"Ohtaekwangia","Pajaroellobacter",0.887194964262645,0.887194964262645,1
+"Ohtaekwangia","Phaselicystis",0.904041833305417,0.904041833305417,1
+"Ohtaekwangia","Phytohabitans",0.914152710975585,0.914152710975585,1
+"OLB12","Ottowia",0.963967328390732,0.963967328390732,1
+"OLB12","Phreatobacter",0.977620354879361,0.977620354879361,1
+"OLB12","Pseudorhodobacter",0.886281643154808,0.886281643154808,1
+"OLB12","Rhizorhapis",0.988971140506545,0.988971140506545,1
+"OLB12","Sphaerotilus",0.949089341300717,0.949089341300717,1
+"OLB12","Sphingorhabdus",0.993165861028909,0.993165861028909,1
+"OLB12","Tabrizicola",0.902607763572507,0.902607763572507,1
+"OLB12","Tetrasphaera",0.937788555902901,0.937788555902901,1
+"OLB12","Thermomonas",0.941492286357427,0.941492286357427,1
+"OLB12","Thiothrix",0.931209710506047,0.931209710506047,1
+"OLB17","SWB02",0.890221131986429,0.890221131986429,1
+"OLB17","Tyzzerella",0.900086138253699,0.900086138253699,1
+"OLB17","UCG-003",0.922094422156343,0.922094422156343,1
+"OLB8","Rhodobacter",0.924901790673565,0.924901790673565,1
+"OM27 clade","Pirellula",0.900403471758989,0.900403471758989,1
+"OM27 clade","Puia",0.906116025512453,0.906116025512453,1
+"OM27 clade","RB41",0.892109493200911,0.892109493200911,1
+"Opitutus","Saccharothrix",0.92345549446281,0.92345549446281,1
+"Opitutus","Sumerlaea",0.944827451027865,0.944827451027865,1
+"Oscillibacter","Parabacteroides",0.928159659483398,0.928159659483398,1
+"Oscillospira","Oxalobacter",0.948899655983728,0.948899655983728,1
+"Oscillospira","Papillibacter",0.911121364361156,0.911121364361156,1
+"Oscillospira","Phytomonospora",0.890000946352827,0.890000946352827,1
+"Ottowia","Phreatobacter",0.943952425966823,0.943952425966823,1
+"Ottowia","Polymorphobacter",0.953986108086469,0.953986108086469,1
+"Ottowia","Prosthecobacter",0.899414291911534,0.899414291911534,1
+"Ottowia","Pseudorhodobacter",0.977553132239638,0.977553132239638,1
+"Ottowia","Rhizobacter",0.895252244018007,0.895252244018007,1
+"Ottowia","Rhizorhapis",0.992735748615633,0.992735748615633,1
+"Ottowia","Rhodoferax",0.889737734829903,0.889737734829903,1
+"Ottowia","Sphaerotilus",0.998689490888425,0.998689490888425,1
+"Ottowia","Sphingorhabdus",0.988427109590956,0.988427109590956,1
+"Ottowia","Tabrizicola",0.984596701086365,0.984596701086365,1
+"Ottowia","Tetrasphaera",0.994094703937632,0.994094703937632,1
+"Ottowia","Thermomonas",0.938743002088422,0.938743002088422,1
+"Ottowia","Thiothrix",0.994615969268706,0.994615969268706,1
+"Ottowia","Trichococcus",0.904086395973893,0.904086395973893,1
+"Oxalobacter","Papillibacter",0.98844807055001,0.98844807055001,1
+"Oxalobacter","Ruminococcus",0.917369187915357,0.917369187915357,1
+"Oxalobacter","Sarcina",0.942697230146841,0.942697230146841,1
+"Paenarthrobacter","Pirellula",0.905627878145225,0.905627878145225,1
+"Paenarthrobacter","Roseimicrobium",0.980812175907581,0.980812175907581,1
+"Paenarthrobacter","Rothia",0.941249604659904,0.941249604659904,1
+"Paenarthrobacter","Streptococcus",0.890397831471285,0.890397831471285,1
+"Paenarthrobacter","Vicinamibacter",0.97671442345451,0.97671442345451,1
+"Paenarthrobacter","wb1-P19",0.912040178747557,0.912040178747557,1
+"Paenarthrobacter","Weissella",0.963590387439064,0.963590387439064,1
+"Paenibacillus","Polymorphobacter",0.95640038248041,0.95640038248041,1
+"Paenibacillus","Prosthecobacter",0.963711722719867,0.963711722719867,1
+"Paenibacillus","Proteiniclasticum",0.933319840286545,0.933319840286545,1
+"Paenibacillus","Pseudorhodobacter",0.935611238688345,0.935611238688345,1
+"Paenibacillus","Reyranella",0.970497853576908,0.970497853576908,1
+"Paenibacillus","Rhizobacter",0.968385576106424,0.968385576106424,1
+"Paenibacillus","Rhodoferax",0.953776869354324,0.953776869354324,1
+"Paenibacillus","Tabrizicola",0.925166464759172,0.925166464759172,1
+"Paenibacillus","Thiothrix",0.901009859085417,0.901009859085417,1
+"Paenibacillus","Woeseia",0.917756654251864,0.917756654251864,1
+"Pajaroellobacter","Phaselicystis",0.951639797858877,0.951639797858877,1
+"Papillibacter","Ruminococcus",0.926267113202735,0.926267113202735,1
+"Papillibacter","Sarcina",0.918392753853135,0.918392753853135,1
+"Parasutterella","Roseburia",0.924821209770469,0.924821209770469,1
+"Parasutterella","Subdoligranulum",0.899785407319382,0.899785407319382,1
+"Parasutterella","Terrisporobacter",0.901463259621627,0.901463259621627,1
+"Parviterribacter","TM7a",0.901070168485612,-0.901070168485612,-1
+"Pediococcus","Rothia",0.89209192571742,0.89209192571742,1
+"Pediococcus","wb1-P19",0.886088933384509,0.886088933384509,1
+"Pedobacter","Truepera",0.890873943310371,0.890873943310371,1
+"Pedomicrobium","Puia",0.893589535157073,0.893589535157073,1
+"Pedomicrobium","RB41",0.920046735554586,0.920046735554586,1
+"Pedomicrobium","Rhodoplanes",0.942507137566916,0.942507137566916,1
+"Pedomicrobium","Subgroup 10",0.944958420463389,0.944958420463389,1
+"Phascolarctobacterium","Pseudoxanthomonas",0.923605833283589,0.923605833283589,1
+"Phascolarctobacterium","Salipaludibacillus",0.90096707509921,0.90096707509921,1
+"Phascolarctobacterium","Scytonema UTEX 2349",0.915301043014743,0.915301043014743,1
+"Phascolarctobacterium","Sutterella",0.891188776895592,0.891188776895592,1
+"Phascolarctobacterium","Symplocastrum CPER-KK1",0.918162402007111,0.918162402007111,1
+"Phascolarctobacterium","Tyzzerella",0.891034723847751,0.891034723847751,1
+"Phormidesmis ANT.L52.6","Phormidium SAG 37.90",0.953560251350196,0.953560251350196,1
+"Phormidesmis ANT.L52.6","Pseudogulbenkiania",0.937117074366258,0.937117074366258,1
+"Phormidesmis ANT.L52.6","Pseudomonas",0.93492877269885,0.93492877269885,1
+"Phormidesmis ANT.L52.6","Ralstonia",0.952371989289208,0.952371989289208,1
+"Phormidesmis ANT.L52.6","Rhodovastum",0.891999135781733,0.891999135781733,1
+"Phormidesmis ANT.L52.6","Scytonema UTEX 2349",0.954708745176721,0.954708745176721,1
+"Phormidesmis ANT.L52.6","Stenotrophomonas",0.941057890055131,0.941057890055131,1
+"Phormidesmis ANT.L52.6","Sutterella",0.967445782731498,0.967445782731498,1
+"Phormidesmis ANT.L52.6","SWB02",0.935789467694831,0.935789467694831,1
+"Phormidesmis ANT.L52.6","Symplocastrum CPER-KK1",0.922442457989156,0.922442457989156,1
+"Phormidesmis ANT.L52.6","Thiobacillus",0.911573042085006,0.911573042085006,1
+"Phormidesmis ANT.L52.6","Vogesella",0.955132447877105,0.955132447877105,1
+"Phormidium SAG 37.90","Salipaludibacillus",0.889106167648275,0.889106167648275,1
+"Phormidium SAG 37.90","Scytonema UTEX 2349",0.933521317267122,0.933521317267122,1
+"Phormidium SAG 37.90","Sutterella",0.939551940305896,0.939551940305896,1
+"Phormidium SAG 37.90","SWB02",0.925600628853978,0.925600628853978,1
+"Phormidium SAG 37.90","Symplocastrum CPER-KK1",0.922627999026544,0.922627999026544,1
+"Phormidium SAG 37.90","Tyzzerella",0.894741145398789,0.894741145398789,1
+"Phreatobacter","Rhizorhapis",0.967705933435549,0.967705933435549,1
+"Phreatobacter","Sphaerotilus",0.929694364192263,0.929694364192263,1
+"Phreatobacter","Sphingorhabdus",0.971622855368328,0.971622855368328,1
+"Phreatobacter","Tetrasphaera",0.934863055054381,0.934863055054381,1
+"Phreatobacter","Thermomonas",0.97668878586589,0.97668878586589,1
+"Phreatobacter","Thiothrix",0.91250470757215,0.91250470757215,1
+"Phreatobacter","Trichococcus",0.904940495751265,0.904940495751265,1
+"Phytohabitans","Puia",0.895720095282372,0.895720095282372,1
+"Phytohabitans","Rhodoplanes",0.893376578335894,0.893376578335894,1
+"Phytohabitans","Subgroup 10",0.978399464918619,0.978399464918619,1
+"Phytohabitans","Tenggerimyces",0.937536458067977,0.937536458067977,1
+"Phytomonospora","Segetibacter",0.913679519220499,0.913679519220499,1
+"Phytomonospora","Sporichthya",0.895855706877049,0.895855706877049,1
+"Pirellula","Puia",0.980241456695497,0.980241456695497,1
+"Pirellula","RB41",0.96355437803574,0.96355437803574,1
+"Pirellula","Vicinamibacter",0.888516653797507,0.888516653797507,1
+"PMMR1","Rubellimicrobium",0.886543791161396,0.886543791161396,1
+"Polymorphobacter","Prosthecobacter",0.986757943693381,0.986757943693381,1
+"Polymorphobacter","Proteiniclasticum",0.952692532134507,0.952692532134507,1
+"Polymorphobacter","Pseudorhodobacter",0.995747387908414,0.995747387908414,1
+"Polymorphobacter","Reyranella",0.941930670007822,0.941930670007822,1
+"Polymorphobacter","Rhizobacter",0.983533111682078,0.983533111682078,1
+"Polymorphobacter","Rhizorhapis",0.910979520901273,0.910979520901273,1
+"Polymorphobacter","Rhodoferax",0.978986629264847,0.978986629264847,1
+"Polymorphobacter","Sphaerotilus",0.96808199646137,0.96808199646137,1
+"Polymorphobacter","Sphingorhabdus",0.897459393015246,0.897459393015246,1
+"Polymorphobacter","Tabrizicola",0.991717756090776,0.991717756090776,1
+"Polymorphobacter","Tetrasphaera",0.971444058634847,0.971444058634847,1
+"Polymorphobacter","Thiothrix",0.979923207201698,0.979923207201698,1
+"Polymorphobacter","Trichococcus",0.902405592048532,0.902405592048532,1
+"Polymorphobacter","Woeseia",0.947620264598417,0.947620264598417,1
+"Prevotella","TM7a",0.951179294541224,0.951179294541224,1
+"Prevotellaceae NK3B31 group","Sporocytophaga",0.961492159264913,0.961492159264913,1
+"Prevotellaceae NK3B31 group","UCG-005",0.937618622660114,0.937618622660114,1
+"Prevotellaceae NK3B31 group","UCG-009",0.915702574592289,0.915702574592289,1
+"Prevotellaceae UCG-001","Pseudomonas",0.893083078270035,0.893083078270035,1
+"Prevotellaceae UCG-001","Pseudoxanthomonas",0.912385219890307,0.912385219890307,1
+"Prevotellaceae UCG-001","Raoultella",0.962916124671672,0.962916124671672,1
+"Prevotellaceae UCG-001","Symplocastrum CPER-KK1",0.903244308875646,0.903244308875646,1
+"Prosthecobacter","Proteiniclasticum",0.959068740695397,0.959068740695397,1
+"Prosthecobacter","Pseudorhodobacter",0.969676350917138,0.969676350917138,1
+"Prosthecobacter","Pseudorhodoplanes",0.900534098367568,0.900534098367568,1
+"Prosthecobacter","Reyranella",0.949647861275253,0.949647861275253,1
+"Prosthecobacter","Rhizobacter",0.989073935093133,0.989073935093133,1
+"Prosthecobacter","Rhodoferax",0.998214284390831,0.998214284390831,1
+"Prosthecobacter","Sphaerotilus",0.920207346290054,0.920207346290054,1
+"Prosthecobacter","Tabrizicola",0.960621434848879,0.960621434848879,1
+"Prosthecobacter","Tetrasphaera",0.933443740773722,0.933443740773722,1
+"Prosthecobacter","Thiothrix",0.939061087155102,0.939061087155102,1
+"Prosthecobacter","Trichococcus",0.903656802538315,0.903656802538315,1
+"Prosthecobacter","Woeseia",0.954084994903422,0.954084994903422,1
+"Proteiniclasticum","Pseudorhodobacter",0.933807475891205,0.933807475891205,1
+"Proteiniclasticum","Reyranella",0.907914819674526,0.907914819674526,1
+"Proteiniclasticum","Rhizobacter",0.955387291122509,0.955387291122509,1
+"Proteiniclasticum","Rhodoferax",0.950355142215472,0.950355142215472,1
+"Proteiniclasticum","Tabrizicola",0.924121910622172,0.924121910622172,1
+"Proteiniclasticum","Tetrasphaera",0.886036598333681,0.886036598333681,1
+"Proteiniclasticum","Thiothrix",0.901463088301587,0.901463088301587,1
+"Proteiniclasticum","Woeseia",0.917203677131808,0.917203677131808,1
+"Pseudaminobacter","Reyranella",0.922191162631317,0.922191162631317,1
+"Pseudogulbenkiania","Pseudomonas",0.992269417979221,0.992269417979221,1
+"Pseudogulbenkiania","Ralstonia",0.997177403944992,0.997177403944992,1
+"Pseudogulbenkiania","Raoultella",0.951547094730416,0.951547094730416,1
+"Pseudogulbenkiania","Rhodovastum",0.96968766139847,0.96968766139847,1
+"Pseudogulbenkiania","Scytonema UTEX 2349",0.947057226795755,0.947057226795755,1
+"Pseudogulbenkiania","Stenotrophomonas",0.887712535264184,0.887712535264184,1
+"Pseudogulbenkiania","Sulfuriferula",0.921778877982859,0.921778877982859,1
+"Pseudogulbenkiania","Sutterella",0.938953475767926,0.938953475767926,1
+"Pseudogulbenkiania","SWB02",0.904240190969189,0.904240190969189,1
+"Pseudogulbenkiania","Symplocastrum CPER-KK1",0.892745870595456,0.892745870595456,1
+"Pseudogulbenkiania","Thiobacillus",0.992631761019365,0.992631761019365,1
+"Pseudogulbenkiania","Tychonema CCAP 1459-11B",0.888599757328725,0.888599757328725,1
+"Pseudogulbenkiania","Vogesella",0.966027208603022,0.966027208603022,1
+"Pseudomonas","Ralstonia",0.98674178132363,0.98674178132363,1
+"Pseudomonas","Raoultella",0.978152782988858,0.978152782988858,1
+"Pseudomonas","Rhodovastum",0.932073842365862,0.932073842365862,1
+"Pseudomonas","Scytonema UTEX 2349",0.969913431530138,0.969913431530138,1
+"Pseudomonas","Sutterella",0.950144990289496,0.950144990289496,1
+"Pseudomonas","SWB02",0.919675850748664,0.919675850748664,1
+"Pseudomonas","Symplocastrum CPER-KK1",0.933348906485632,0.933348906485632,1
+"Pseudomonas","Thiobacillus",0.971291515918134,0.971291515918134,1
+"Pseudomonas","Vogesella",0.941263392689624,0.941263392689624,1
+"Pseudonocardia","Sphingomonas",0.899472372371777,0.899472372371777,1
+"Pseudonocardia","Streptomyces",0.895739507797597,0.895739507797597,1
+"Pseudorhodobacter","Reyranella",0.920417470106514,0.920417470106514,1
+"Pseudorhodobacter","Rhizobacter",0.966131693985466,0.966131693985466,1
+"Pseudorhodobacter","Rhizorhapis",0.945102858165483,0.945102858165483,1
+"Pseudorhodobacter","Rhodoferax",0.961242856347399,0.961242856347399,1
+"Pseudorhodobacter","Sphaerotilus",0.987054916705857,0.987054916705857,1
+"Pseudorhodobacter","Sphingorhabdus",0.934279211745638,0.934279211745638,1
+"Pseudorhodobacter","Tabrizicola",0.999332648901297,0.999332648901297,1
+"Pseudorhodobacter","Tetrasphaera",0.988005562249196,0.988005562249196,1
+"Pseudorhodobacter","Thermomonas",0.888703903456608,0.888703903456608,1
+"Pseudorhodobacter","Thiothrix",0.994123556926652,0.994123556926652,1
+"Pseudorhodobacter","Trichococcus",0.911841936743472,0.911841936743472,1
+"Pseudorhodobacter","Woeseia",0.92858947643756,0.92858947643756,1
+"Pseudorhodoplanes","Rhizobacter",0.90754666672528,0.90754666672528,1
+"Pseudorhodoplanes","Rhodoferax",0.905681671529292,0.905681671529292,1
+"Pseudorhodoplanes","Sulfuritalea",0.91357518023029,0.91357518023029,1
+"Pseudorhodoplanes","Woeseia",0.923810862752073,0.923810862752073,1
+"Pseudoxanthomonas","Raoultella",0.893218867990925,0.893218867990925,1
+"Pseudoxanthomonas","Salipaludibacillus",0.979877991917209,0.979877991917209,1
+"Pseudoxanthomonas","Scytonema UTEX 2349",0.95393970334281,0.95393970334281,1
+"Pseudoxanthomonas","Shimazuella",0.887485431550223,0.887485431550223,1
+"Pseudoxanthomonas","Sutterella",0.920772737350489,0.920772737350489,1
+"Pseudoxanthomonas","SWB02",0.915767093253346,0.915767093253346,1
+"Pseudoxanthomonas","Symplocastrum CPER-KK1",0.984405379172802,0.984405379172802,1
+"Pseudoxanthomonas","Trichocoleus SAG 26.92",0.887485350821424,0.887485350821424,1
+"Pseudoxanthomonas","Tyzzerella",0.965689157091609,0.965689157091609,1
+"Psychroglaciecola","Roseisolibacter",0.95323769953211,0.95323769953211,1
+"Puia","RB41",0.994067385798226,0.994067385798226,1
+"Puia","Rhodoplanes",0.90410856493182,0.90410856493182,1
+"Puia","Subgroup 10",0.934276841581447,0.934276841581447,1
+"Ralstonia","Raoultella",0.932912680827401,0.932912680827401,1
+"Ralstonia","Rhodovastum",0.971178529967651,0.971178529967651,1
+"Ralstonia","Scytonema UTEX 2349",0.953937889765097,0.953937889765097,1
+"Ralstonia","Stenotrophomonas",0.915268314127445,0.915268314127445,1
+"Ralstonia","Sulfuriferula",0.929267719242803,0.929267719242803,1
+"Ralstonia","Sutterella",0.955295873613777,0.955295873613777,1
+"Ralstonia","SWB02",0.923074938716043,0.923074938716043,1
+"Ralstonia","Symplocastrum CPER-KK1",0.897696550865682,0.897696550865682,1
+"Ralstonia","Thiobacillus",0.988727088244894,0.988727088244894,1
+"Ralstonia","Tychonema CCAP 1459-11B",0.901816317297591,0.901816317297591,1
+"Ralstonia","Vogesella",0.981975157994179,0.981975157994179,1
+"Raoultella","Scytonema UTEX 2349",0.939647890062959,0.939647890062959,1
+"Raoultella","Sutterella",0.891428962502481,0.891428962502481,1
+"Raoultella","Symplocastrum CPER-KK1",0.924624574646639,0.924624574646639,1
+"Raoultella","Thiobacillus",0.920921522597334,0.920921522597334,1
+"RB41","Rhodoplanes",0.921063130359234,0.921063130359234,1
+"RB41","Subgroup 10",0.931367069606357,0.931367069606357,1
+"Reyranella","Rhizobacter",0.945139641953324,0.945139641953324,1
+"Reyranella","Rhodoferax",0.939189678364168,0.939189678364168,1
+"Reyranella","Tabrizicola",0.909721369137469,0.909721369137469,1
+"Reyranella","Thiothrix",0.885130504067245,0.885130504067245,1
+"Reyranella","Woeseia",0.913417297343177,0.913417297343177,1
+"Rhizobacter","Rhodoferax",0.98143709379156,0.98143709379156,1
+"Rhizobacter","Sphaerotilus",0.91617803094943,0.91617803094943,1
+"Rhizobacter","Tabrizicola",0.956958310880691,0.956958310880691,1
+"Rhizobacter","Tetrasphaera",0.92181812383481,0.92181812383481,1
+"Rhizobacter","Thiothrix",0.935179165754459,0.935179165754459,1
+"Rhizobacter","Woeseia",0.950347882983995,0.950347882983995,1
+"Rhizorhapis","Sphaerotilus",0.985277138080143,0.985277138080143,1
+"Rhizorhapis","Sphingorhabdus",0.999498320840142,0.999498320840142,1
+"Rhizorhapis","Tabrizicola",0.956408336819307,0.956408336819307,1
+"Rhizorhapis","Tetrasphaera",0.977607876832761,0.977607876832761,1
+"Rhizorhapis","Thermomonas",0.948465649861036,0.948465649861036,1
+"Rhizorhapis","Thiothrix",0.974922630582561,0.974922630582561,1
+"Rhodobacter","Sulfuritalea",0.919209526600431,0.919209526600431,1
+"Rhodobacter","Terrimonas",0.935738841610466,0.935738841610466,1
+"Rhodococcus","Rhodovarius",0.994174224570261,0.994174224570261,1
+"Rhodoferax","Sphaerotilus",0.91079266371078,0.91079266371078,1
+"Rhodoferax","Tabrizicola",0.951945236550703,0.951945236550703,1
+"Rhodoferax","Tetrasphaera",0.928692591863347,0.928692591863347,1
+"Rhodoferax","Thiothrix",0.929941205502174,0.929941205502174,1
+"Rhodoferax","Trichococcus",0.919422705751205,0.919422705751205,1
+"Rhodoferax","Woeseia",0.945258049479313,0.945258049479313,1
+"Rhodoplanes","Subgroup 10",0.957924898332921,0.957924898332921,1
+"Rhodovarius","Vibrio",0.922984394881039,0.922984394881039,1
+"Rhodovastum","Stenotrophomonas",0.896592609951709,0.896592609951709,1
+"Rhodovastum","Sulfuriferula",0.987877053620968,0.987877053620968,1
+"Rhodovastum","Thiobacillus",0.990312851024489,0.990312851024489,1
+"Rhodovastum","Tychonema CCAP 1459-11B",0.951448899498158,0.951448899498158,1
+"Rhodovastum","Vogesella",0.96739197708274,0.96739197708274,1
+"Roseburia","Subdoligranulum",0.98772072429317,0.98772072429317,1
+"Roseburia","Terrisporobacter",0.966468164190375,0.966468164190375,1
+"Roseimicrobium","Rothia",0.974152176762046,0.974152176762046,1
+"Roseimicrobium","Streptococcus",0.941744884582278,0.941744884582278,1
+"Roseimicrobium","Vicinamibacter",0.985992582601584,0.985992582601584,1
+"Roseimicrobium","wb1-P19",0.915171981953319,0.915171981953319,1
+"Roseimicrobium","Weissella",0.995684131779026,0.995684131779026,1
+"Rothia","Streptococcus",0.929376404961335,0.929376404961335,1
+"Rothia","Vicinamibacter",0.950295708389463,0.950295708389463,1
+"Rothia","wb1-P19",0.93086500639255,0.93086500639255,1
+"Rothia","Weissella",0.973814828332104,0.973814828332104,1
+"Rubrivivax","UTCFX1",0.886826615886792,0.886826615886792,1
+"Rubrobacter","Solirubrobacter",0.954028343474375,0.954028343474375,1
+"Rubrobacter","Sphingoaurantiacus",0.933136491550836,0.933136491550836,1
+"Rubrobacter","Sulfurifustis",0.935149305803195,0.935149305803195,1
+"Rubrobacter","SZB85",0.923691337055689,0.923691337055689,1
+"Rubrobacter","Virgisporangium",0.914207650529843,0.914207650529843,1
+"Rufibacter","Sphingobacterium",0.950294724341362,0.950294724341362,1
+"Ruminococcus","Sarcina",0.921884723401841,0.921884723401841,1
+"Ruminococcus","UCG-009",0.962383971157272,0.962383971157272,1
+"Saccharothrix","Staphylococcus",0.926778831984872,0.926778831984872,1
+"Saccharothrix","Streptomyces",0.887515650458471,0.887515650458471,1
+"Saccharothrix","Sumerlaea",0.930762894517376,0.930762894517376,1
+"Salipaludibacillus","Scytonema UTEX 2349",0.93057909436984,0.93057909436984,1
+"Salipaludibacillus","Sutterella",0.920142012238101,0.920142012238101,1
+"Salipaludibacillus","SWB02",0.924431064901798,0.924431064901798,1
+"Salipaludibacillus","Symplocastrum CPER-KK1",0.962116245806313,0.962116245806313,1
+"Salipaludibacillus","Tyzzerella",0.997524199863007,0.997524199863007,1
+"Salipaludibacillus","UCG-002",0.898628728942659,0.898628728942659,1
+"Salipaludibacillus","UCG-003",0.911052206625112,0.911052206625112,1
+"Sarcina","UCG-009",0.930489891928054,0.930489891928054,1
+"Scytonema UTEX 2349","Stenotrophobacter",0.918570755483978,0.918570755483978,1
+"Scytonema UTEX 2349","Sutterella",0.989959577622724,0.989959577622724,1
+"Scytonema UTEX 2349","SWB02",0.972377638413226,0.972377638413226,1
+"Scytonema UTEX 2349","Symplocastrum CPER-KK1",0.985031766856042,0.985031766856042,1
+"Scytonema UTEX 2349","Thiobacillus",0.902756638270352,0.902756638270352,1
+"Scytonema UTEX 2349","Tyzzerella",0.927332533304731,0.927332533304731,1
+"Scytonema UTEX 2349","Vogesella",0.925928291121417,0.925928291121417,1
+"Segetibacter","UTBCD1",0.930348709651818,0.930348709651818,1
+"Shimazuella","Trichocoleus SAG 26.92",0.999999999999598,0.999999999999598,1
+"Solirubrobacter","Sphingoaurantiacus",0.981691971599242,0.981691971599242,1
+"Solirubrobacter","Sulfurifustis",0.988095144377432,0.988095144377432,1
+"Solirubrobacter","Virgisporangium",0.886894587436156,0.886894587436156,1
+"Sphaerisporangium","Steroidobacter",0.889075736741376,0.889075736741376,1
+"Sphaerotilus","Sphingorhabdus",0.979368072227594,0.979368072227594,1
+"Sphaerotilus","Tabrizicola",0.992254578317965,0.992254578317965,1
+"Sphaerotilus","Tetrasphaera",0.996733238425567,0.996733238425567,1
+"Sphaerotilus","Thermomonas",0.930476247549264,0.930476247549264,1
+"Sphaerotilus","Thiothrix",0.998616181140593,0.998616181140593,1
+"Sphaerotilus","Trichococcus",0.909715157813857,0.909715157813857,1
+"Sphingoaurantiacus","Sulfurifustis",0.985203339367875,0.985203339367875,1
+"Sphingoaurantiacus","SZB85",0.901430867238176,0.901430867238176,1
+"Sphingorhabdus","Tabrizicola",0.946679308508567,0.946679308508567,1
+"Sphingorhabdus","Tetrasphaera",0.970907996826748,0.970907996826748,1
+"Sphingorhabdus","Thermomonas",0.948735521172981,0.948735521172981,1
+"Sphingorhabdus","Thiothrix",0.967385147770425,0.967385147770425,1
+"Sporocytophaga","Truepera",0.904612027879675,0.904612027879675,1
+"Staphylococcus","SZB85",0.939354233486642,0.939354233486642,1
+"Staphylococcus","Vulgatibacter",0.907226165689503,0.907226165689503,1
+"Stenotrophobacter","Sutterella",0.924964255726379,0.924964255726379,1
+"Stenotrophobacter","SWB02",0.970459948858231,0.970459948858231,1
+"Stenotrophobacter","Symplocastrum CPER-KK1",0.890338509053464,0.890338509053464,1
+"Stenotrophomonas","Sulfuriferula",0.892398389863211,0.892398389863211,1
+"Stenotrophomonas","Sutterella",0.920078747346959,0.920078747346959,1
+"Stenotrophomonas","SWB02",0.89323016859912,0.89323016859912,1
+"Stenotrophomonas","Vogesella",0.961320152477408,0.961320152477408,1
+"Steroidobacter","Virgisporangium",0.920113753730816,0.920113753730816,1
+"Streptococcus","Vicinamibacter",0.903177624243,0.903177624243,1
+"Streptococcus","Weissella",0.954695612796757,0.954695612796757,1
+"Subdoligranulum","Terrisporobacter",0.935589636345663,0.935589636345663,1
+"Sulfuriferula","Thiobacillus",0.956751870510079,0.956751870510079,1
+"Sulfuriferula","Tychonema CCAP 1459-11B",0.96625869339281,0.96625869339281,1
+"Sulfuriferula","Vibrio",0.92631119392304,0.92631119392304,1
+"Sulfuriferula","Vogesella",0.949350494758057,0.949350494758057,1
+"Sulfurifustis","SZB85",0.886403342451524,0.886403342451524,1
+"Sulfuritalea","Terrimonas",0.944115413655012,0.944115413655012,1
+"Sutterella","SWB02",0.984076730709851,0.984076730709851,1
+"Sutterella","Symplocastrum CPER-KK1",0.964268675767918,0.964268675767918,1
+"Sutterella","Thiobacillus",0.900353424883059,0.900353424883059,1
+"Sutterella","Tyzzerella",0.926759603829017,0.926759603829017,1
+"Sutterella","UCG-002",0.893694753541023,0.893694753541023,1
+"Sutterella","UCG-003",0.919456444922799,0.919456444922799,1
+"Sutterella","Vogesella",0.953686617413666,0.953686617413666,1
+"SWB02","Symplocastrum CPER-KK1",0.946557174513611,0.946557174513611,1
+"SWB02","Tyzzerella",0.932238095579682,0.932238095579682,1
+"SWB02","UCG-003",0.925528408306511,0.925528408306511,1
+"SWB02","Vogesella",0.925755406269656,0.925755406269656,1
+"Symplocastrum CPER-KK1","Tyzzerella",0.953297711096593,0.953297711096593,1
+"Symplocastrum CPER-KK1","UCG-002",0.910002875048915,0.910002875048915,1
+"Tabrizicola","Tetrasphaera",0.992246868946832,0.992246868946832,1
+"Tabrizicola","Thermomonas",0.900244703132453,0.900244703132453,1
+"Tabrizicola","Thiothrix",0.997414276362416,0.997414276362416,1
+"Tabrizicola","Trichococcus",0.913437395641668,0.913437395641668,1
+"Tabrizicola","Woeseia",0.91885840955368,0.91885840955368,1
+"Terrisporobacter","UBA1819",0.893191184835389,0.893191184835389,1
+"Tetrasphaera","Thermomonas",0.942817909345547,0.942817909345547,1
+"Tetrasphaera","Thiothrix",0.996722979049341,0.996722979049341,1
+"Tetrasphaera","Trichococcus",0.940046584428994,0.940046584428994,1
+"Thermomonas","Thiothrix",0.91944094670542,0.91944094670542,1
+"Thermomonas","Trichococcus",0.937726988485809,0.937726988485809,1
+"Thiobacillus","Tychonema CCAP 1459-11B",0.918668337210052,0.918668337210052,1
+"Thiobacillus","Vogesella",0.963668170858114,0.963668170858114,1
+"Thiothrix","Trichococcus",0.913015167240433,0.913015167240433,1
+"Thiothrix","Woeseia",0.896130585587072,0.896130585587072,1
+"Truepera","UCG-005",0.906242006894883,0.906242006894883,1
+"Tychonema CCAP 1459-11B","Vibrio",0.913001986229296,0.913001986229296,1
+"Tychonema CCAP 1459-11B","Vogesella",0.932159911660214,0.932159911660214,1
+"Tyzzerella","UCG-002",0.906533014732468,0.906533014732468,1
+"Tyzzerella","UCG-003",0.937223638116716,0.937223638116716,1
+"UCG-002","UCG-003",0.886129881468486,0.886129881468486,1
+"UTBCD1","YC-ZSS-LKJ147",0.932256942684627,0.932256942684627,1
+"Vicinamibacter","wb1-P19",0.944478095773448,0.944478095773448,1
+"Vicinamibacter","Weissella",0.974785745830321,0.974785745830321,1
+"wb1-P19","Weissella",0.901394577621224,0.901394577621224,1

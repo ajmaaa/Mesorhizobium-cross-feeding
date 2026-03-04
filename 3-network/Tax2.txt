@@ -1,0 +1,940 @@
+ID	Phylum
+[Agitococcus] lubricus group	Proteobacteria
+[Anaerorhabdus] furcosa group	Firmicutes
+[Caedibacter] taeniospiralis group	Proteobacteria
+[Clostridium] innocuum group	Firmicutes
+[Desulfobacterium] catecholicum group	Desulfobacterota
+[Eubacterium] brachy group	Firmicutes
+[Eubacterium] eligens group	Firmicutes
+[Eubacterium] fissicatena group	Firmicutes
+[Eubacterium] hallii group	Firmicutes
+[Eubacterium] nodatum group	Firmicutes
+[Eubacterium] oxidoreducens group	Firmicutes
+[Eubacterium] ruminantium group	Firmicutes
+[Eubacterium] siraeum group	Firmicutes
+[Eubacterium] ventriosum group	Firmicutes
+[Eubacterium] xylanophilum group	Firmicutes
+[Ruminococcus] gauvreauii group	Firmicutes
+[Ruminococcus] gnavus group	Firmicutes
+[Ruminococcus] torques group	Firmicutes
+966-1	Proteobacteria
+A2	Firmicutes
+A815	Bacteroidota
+AAP99	Proteobacteria
+Abditibacterium	Abditibacteriota
+Acetatifactor	Firmicutes
+Acetobacter	Proteobacteria
+Acetobacterium	Firmicutes
+Acetobacteroides	Bacteroidota
+Acholeplasma	Firmicutes
+Achromobacter	Proteobacteria
+Acidaminobacter	Firmicutes
+Acidaminococcus	Firmicutes
+Acidibacter	Proteobacteria
+Acidothermus	Actinobacteriota
+Acidovorax	Proteobacteria
+Acinetobacter	Proteobacteria
+Acrocarpospora	Actinobacteriota
+Actibacter	Bacteroidota
+Actimicrobium	Proteobacteria
+Actinobacillus	Proteobacteria
+Actinocorallia	Actinobacteriota
+Actinomadura	Actinobacteriota
+Actinomyces	Actinobacteriota
+Actinomycetospora	Actinobacteriota
+Actinophytocola	Actinobacteriota
+Actinoplanes	Actinobacteriota
+Actinorectispora	Actinobacteriota
+Actinotalea	Actinobacteriota
+Adhaeribacter	Bacteroidota
+Adlercreutzia	Actinobacteriota
+ADurb.Bin063-1	Verrucomicrobiota
+ADurb.Bin118	Verrucomicrobiota
+ADurb.Bin120	Chloroflexi
+Aerococcus	Firmicutes
+Aeromicrobium	Actinobacteriota
+Aeromonas	Proteobacteria
+Aerosphaera	Firmicutes
+Aestuariimicrobium	Actinobacteriota
+Afipia	Proteobacteria
+Agathobacter	Firmicutes
+Aggregatibacter	Proteobacteria
+Agrococcus	Actinobacteriota
+Agromyces	Actinobacteriota
+Ahniella	Proteobacteria
+Ahrensia	Proteobacteria
+Akkermansia	Verrucomicrobiota
+AKYG587	Planctomycetota
+Alcaligenes	Proteobacteria
+Algiphilus	Proteobacteria
+Algoriphagus	Bacteroidota
+Alicycliphilus	Proteobacteria
+Aliidiomarina	Proteobacteria
+Aliivibrio	Proteobacteria
+Alistipes	Bacteroidota
+Aliterella	Cyanobacteria
+Alkalibacterium	Firmicutes
+Alkalicoccus	Firmicutes
+Alloactinosynnema	Actinobacteriota
+Allobaculum	Firmicutes
+Allocatelliglobosispora	Actinobacteriota
+Alloiococcus	Firmicutes
+Alloprevotella	Bacteroidota
+Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	Proteobacteria
+alphaI cluster	Proteobacteria
+Alsobacter	Proteobacteria
+Altererythrobacter	Proteobacteria
+Alterococcus	Verrucomicrobiota
+Alysiella	Proteobacteria
+Amaricoccus	Proteobacteria
+Aminobacter	Proteobacteria
+Amycolatopsis	Actinobacteriota
+Anaerocolumna	Firmicutes
+Anaerofilum	Firmicutes
+Anaerofustis	Firmicutes
+Anaerolinea	Chloroflexi
+Anaerolineaceae UCG-001	Chloroflexi
+Anaeromyxobacter	Myxococcota
+Anaeroplasma	Firmicutes
+Anaerosporobacter	Firmicutes
+Anaerostipes	Firmicutes
+Anaerotruncus	Firmicutes
+Anaerovibrio	Firmicutes
+Anaerovorax	Firmicutes
+Anderseniella	Proteobacteria
+Aneurinibacillus	Firmicutes
+Anoxybacillus	Firmicutes
+Antricoccus	Actinobacteriota
+Aquabacterium	Proteobacteria
+Aquamicrobium	Proteobacteria
+Aquicella	Proteobacteria
+Aquiflexum	Bacteroidota
+Aquimixticola	Proteobacteria
+Aquipuribacter	Actinobacteriota
+Archangium	Myxococcota
+Arcticibacter	Bacteroidota
+Arenimonas	Proteobacteria
+Aridibacter	Acidobacteriota
+Arsenicitalea	Proteobacteria
+Arthrobacter	Actinobacteriota
+Asanoa	Actinobacteriota
+ASF356	Firmicutes
+Atopobium	Actinobacteriota
+Atopostipes	Firmicutes
+Aurantisolimonas	Bacteroidota
+Aureimonas	Proteobacteria
+Azoarcus	Proteobacteria
+Azohydromonas	Proteobacteria
+Azospira	Proteobacteria
+Azospirillum	Proteobacteria
+Bacillus	Firmicutes
+Bacteroides	Bacteroidota
+Barnesiella	Bacteroidota
+Bartonella	Proteobacteria
+Bauldia	Proteobacteria
+BD1-7 clade	Proteobacteria
+Bdellovibrio	Bdellovibrionota
+Bellilinea	Chloroflexi
+Belnapia	Proteobacteria
+Bergeyella	Bacteroidota
+Bifidobacterium	Actinobacteriota
+Bilophila	Desulfobacterota
+BIyi10	Proteobacteria
+Blastocatella	Acidobacteriota
+Blastococcus	Actinobacteriota
+Blastomonas	Proteobacteria
+Blautia	Firmicutes
+Blvii28 wastewater-sludge group	Bacteroidota
+Bosea	Proteobacteria
+Boseongicola	Proteobacteria
+Brachybacterium	Actinobacteriota
+Brachyspira	Spirochaetota
+Bradyrhizobium	Proteobacteria
+Brevibacillus	Firmicutes
+Brevibacterium	Actinobacteriota
+Brevundimonas	Proteobacteria
+Brooklawnia	Actinobacteriota
+Brucella	Proteobacteria
+Bryobacter	Acidobacteriota
+BSV13	Bacteroidota
+Burkholderia-Caballeronia-Paraburkholderia	Proteobacteria
+Butyricicoccus	Firmicutes
+Butyricimonas	Bacteroidota
+C1-B045	Proteobacteria
+Caedibacter	Proteobacteria
+Caenimonas	Proteobacteria
+CAG-352	Firmicutes
+CAG-56	Firmicutes
+Caldisericum	Caldisericota
+Caldithrix	Calditrichota
+Candidatus Accumulibacter	Proteobacteria
+Candidatus Alysiosphaera	Proteobacteria
+Candidatus Amoebophilus	Bacteroidota
+Candidatus Arthromitus	Firmicutes
+Candidatus Berkiella	Proteobacteria
+Candidatus Captivus	Proteobacteria
+Candidatus Chlorothrix	Chloroflexi
+Candidatus Competibacter	Proteobacteria
+Candidatus Contendobacter	Proteobacteria
+Candidatus Cryptoprodotis	Proteobacteria
+Candidatus Entotheonella	Entotheonellaeota
+Candidatus Finniella	Proteobacteria
+Candidatus Glomeribacter	Proteobacteria
+Candidatus Koribacter	Acidobacteriota
+Candidatus Megaira	Proteobacteria
+Candidatus Microthrix	Actinobacteriota
+Candidatus Nitrotoga	Proteobacteria
+Candidatus Omnitrophus	Verrucomicrobiota
+Candidatus Ovatusbacter	Proteobacteria
+Candidatus Paracaedibacter	Proteobacteria
+Candidatus Saccharimonas	Patescibacteria
+Candidatus Soleaferrea	Firmicutes
+Candidatus Solibacter	Acidobacteriota
+Candidatus Stoquefichus	Firmicutes
+Candidatus Udaeobacter	Verrucomicrobiota
+Candidatus Vestibaculum	Bacteroidota
+Candidatus Xenohaliotis	Proteobacteria
+Candidatus Xiphinematobacter	Verrucomicrobiota
+Carnimonas	Proteobacteria
+Carnobacterium	Firmicutes
+Catellatospora	Actinobacteriota
+Catelliglobosispora	Actinobacteriota
+Catenibacterium	Firmicutes
+Catenisphaera	Firmicutes
+Catenococcus	Proteobacteria
+Caulobacter	Proteobacteria
+Cecembia	Bacteroidota
+Celeribacter	Proteobacteria
+Cellulomonas	Actinobacteriota
+Cellvibrio	Proteobacteria
+CENA359	Cyanobacteria
+Centipeda	Firmicutes
+Cephaloticoccus	Verrucomicrobiota
+Cerasicoccus	Verrucomicrobiota
+Cetobacterium	Fusobacteriota
+Chelatococcus	Proteobacteria
+Chitinophaga	Bacteroidota
+CHKCI001	Firmicutes
+CHKCI002	Actinobacteriota
+Christensenellaceae R-7 group	Firmicutes
+Chroococcidiopsis SAG 2023	Cyanobacteria
+Chryseobacterium	Bacteroidota
+Chryseoglobus	Actinobacteriota
+Chryseolinea	Bacteroidota
+Chryseomicrobium	Firmicutes
+Chthoniobacter	Verrucomicrobiota
+Chthonobacter	Proteobacteria
+Chthonomonas	Armatimonadota
+Chujaibacter	Proteobacteria
+Chungangia	Firmicutes
+Citricoccus	Actinobacteriota
+Citrobacter	Proteobacteria
+CL500-29 marine group	Actinobacteriota
+CL500-3	Planctomycetota
+Clostridioides	Firmicutes
+Clostridium sensu stricto 1	Firmicutes
+Clostridium sensu stricto 10	Firmicutes
+Clostridium sensu stricto 11	Firmicutes
+Clostridium sensu stricto 12	Firmicutes
+Clostridium sensu stricto 13	Firmicutes
+Cnuella	Bacteroidota
+Cnuibacter	Actinobacteriota
+Cohnella	Firmicutes
+Colidextribacter	Firmicutes
+Collinsella	Actinobacteriota
+Colwellia	Proteobacteria
+Comamonas	Proteobacteria
+Conexibacter	Actinobacteriota
+Conservatibacter	Proteobacteria
+Constrictibacter	Proteobacteria
+Coprobacter	Bacteroidota
+Coprococcus	Firmicutes
+Coriobacteriaceae UCG-002	Actinobacteriota
+Corticibacterium	Proteobacteria
+Corynebacterium	Actinobacteriota
+Couchioplanes	Actinobacteriota
+Coxiella	Proteobacteria
+Craurococcus-Caldovatus	Proteobacteria
+Crenothrix	Proteobacteria
+Crocinitomix	Bacteroidota
+Crossiella	Actinobacteriota
+Cupriavidus	Proteobacteria
+Curvibacter	Proteobacteria
+Cutibacterium	Actinobacteriota
+Cyanobium PCC-6307	Cyanobacteria
+Cyanothece PCC 7425	Cyanobacteria
+Cystobacter	Myxococcota
+Cytophaga	Bacteroidota
+Dactylosporangium	Actinobacteriota
+Dechlorobacter	Proteobacteria
+Dechloromonas	Proteobacteria
+Deefgea	Proteobacteria
+Defluviicoccus	Proteobacteria
+Defluviimonas	Proteobacteria
+Defluviitaleaceae UCG-011	Firmicutes
+Deinobacterium	Deinococcota
+Deinococcus	Deinococcota
+Delftia	Proteobacteria
+Denitratisoma	Proteobacteria
+Desemzia	Firmicutes
+Desulfatiglans	Desulfobacterota
+Desulfatitalea	Desulfobacterota
+Desulfobulbus	Desulfobacterota
+Desulfomicrobium	Desulfobacterota
+Desulfonatronovibrio	Desulfobacterota
+Desulforhopalus	Desulfobacterota
+Desulfosarcina	Desulfobacterota
+Desulfotignum	Desulfobacterota
+Desulfovibrio	Desulfobacterota
+Desulfuribacillus	Firmicutes
+Desulfurivibrio	Desulfobacterota
+Dethiobacter	Firmicutes
+Dethiosulfovibrio	Synergistota
+DEV008	Verrucomicrobiota
+Devosia	Proteobacteria
+dgA-11 gut group	Bacteroidota
+Dialister	Firmicutes
+Diaphorobacter	Proteobacteria
+Dietzia	Actinobacteriota
+Dinghuibacter	Bacteroidota
+Dinoroseobacter	Proteobacteria
+Diplorickettsia	Proteobacteria
+Dokdonella	Proteobacteria
+Dongia	Proteobacteria
+Dorea	Firmicutes
+DTU089	Firmicutes
+Dubosiella	Firmicutes
+Duganella	Proteobacteria
+Dyadobacter	Bacteroidota
+Dysgonomonas	Bacteroidota
+E1B-B3-114	Actinobacteriota
+Edaphobaculum	Bacteroidota
+Edwardsiella	Proteobacteria
+Eggerthella	Actinobacteriota
+Eisenbergiella	Firmicutes
+Ellin516	Verrucomicrobiota
+Ellin517	Verrucomicrobiota
+Ellin6055	Proteobacteria
+Ellin6067	Proteobacteria
+Elusimicrobium	Elusimicrobiota
+Enhydrobacter	Proteobacteria
+Enorma	Actinobacteriota
+Ensifer	Proteobacteria
+Enterobacter	Proteobacteria
+Enterococcus	Firmicutes
+Enterorhabdus	Actinobacteriota
+Eoetvoesia	Proteobacteria
+Epulopiscium	Firmicutes
+Ereboglobus	Verrucomicrobiota
+Erysipelatoclostridium	Firmicutes
+Erysipelothrix	Firmicutes
+Erysipelotrichaceae UCG-003	Firmicutes
+Escherichia-Shigella	Proteobacteria
+Eubacterium	Firmicutes
+Euzebya	Actinobacteriota
+Exiguobacterium	Firmicutes
+Facklamia	Firmicutes
+Faecalibacterium	Firmicutes
+Faecalibaculum	Firmicutes
+Falsarthrobacter	Actinobacteriota
+Falsirhodobacter	Proteobacteria
+Family XIII AD3011 group	Firmicutes
+Family XIII UCG-001	Firmicutes
+Ferribacterium	Proteobacteria
+Ferrovibrio	Proteobacteria
+Ferruginibacter	Bacteroidota
+FFCH5858	Proteobacteria
+FFCH7168	Chloroflexi
+Fictibacillus	Firmicutes
+Filomicrobium	Proteobacteria
+Fimbriiglobus	Planctomycetota
+Fimbriimonas	Armatimonadota
+Flaviaesturariibacter	Bacteroidota
+Flavihumibacter	Bacteroidota
+Flavisolibacter	Bacteroidota
+Flavitalea	Bacteroidota
+Flavobacterium	Bacteroidota
+Flavonifractor	Firmicutes
+Flindersiella	Actinobacteriota
+Fluviicola	Bacteroidota
+Fodinicola	Actinobacteriota
+Fournierella	Firmicutes
+Frankia	Actinobacteriota
+Friedmanniella	Actinobacteriota
+Frisingicoccus	Firmicutes
+Fusibacter	Firmicutes
+Fusicatenibacter	Firmicutes
+Fusobacterium	Fusobacteriota
+Gaiella	Actinobacteriota
+Galbitalea	Actinobacteriota
+GCA-900066575	Firmicutes
+Gemella	Firmicutes
+Geminicoccus	Proteobacteria
+Gemmata	Planctomycetota
+Gemmatimonas	Gemmatimonadota
+Gemmobacter	Proteobacteria
+Geodermatophilus	Actinobacteriota
+Georgenia	Actinobacteriota
+Geothermomicrobium	Firmicutes
+Geothrix	Acidobacteriota
+Giesbergeria	Proteobacteria
+Globicatella	Firmicutes
+Glutamicibacter	Actinobacteriota
+Glycomyces	Actinobacteriota
+Gordonia	Actinobacteriota
+Gordonibacter	Actinobacteriota
+Granulicatella	Firmicutes
+Granulosicoccus	Proteobacteria
+GTL1	Patescibacteria
+GWD2-49-16	Chloroflexi
+Haemophilus	Proteobacteria
+Hafnia-Obesumbacterium	Proteobacteria
+Haliangium	Myxococcota
+Haliea	Proteobacteria
+Halioglobus	Proteobacteria
+Haloactinopolyspora	Actinobacteriota
+Halodesulfovibrio	Desulfobacterota
+Halomonas	Proteobacteria
+Hansschlegelia	Proteobacteria
+Harryflintia	Firmicutes
+Helicobacter	Campilobacterota
+Hephaestia	Proteobacteria
+Herbaspirillum	Proteobacteria
+Herbihabitans	Actinobacteriota
+Herpetosiphon	Chloroflexi
+hgcI clade	Actinobacteriota
+Hirschia	Proteobacteria
+Holdemanella	Firmicutes
+Holdemania	Firmicutes
+Hungatella	Firmicutes
+Hydrogenophaga	Proteobacteria
+Hydrogenophilus	Proteobacteria
+Hymenobacter	Bacteroidota
+Hyphobacterium	Proteobacteria
+Hyphomicrobium	Proteobacteria
+I-8	Planctomycetota
+Iamia	Actinobacteriota
+Ideonella	Proteobacteria
+Ignavibacterium	Bacteroidota
+Ignavigranum	Firmicutes
+Ileibacterium	Firmicutes
+Ilumatobacter	Actinobacteriota
+IMCC26207	Actinobacteriota
+Incertae Sedis	Firmicutes
+Inhella	Proteobacteria
+Inquilinus	Proteobacteria
+Intestinibacter	Firmicutes
+Intestinimonas	Firmicutes
+Iodobacter	Proteobacteria
+IS-44	Proteobacteria
+Isoptericola	Actinobacteriota
+21551	Chloroflexi
+Jatrophihabitans	Actinobacteriota
+JCM 18997	Actinobacteriota
+Jeotgalibaca	Firmicutes
+Jeotgalibacillus	Firmicutes
+Jeotgalicoccus	Firmicutes
+JGI 0001001-H03	Acidobacteriota
+Jiangella	Actinobacteriota
+JTB255 marine benthic group	Proteobacteria
+KD3-10	Myxococcota
+Kibdelosporangium	Actinobacteriota
+Kineosporia	Actinobacteriota
+Kitasatospora	Actinobacteriota
+Klebsiella	Proteobacteria
+Kluyvera	Proteobacteria
+Knoellia	Actinobacteriota
+Kocuria	Actinobacteriota
+Kordiimonas	Proteobacteria
+Krasilnikovia	Actinobacteriota
+Kribbella	Actinobacteriota
+Kurthia	Firmicutes
+Kushneria	Proteobacteria
+Labilithrix	Myxococcota
+Labrys	Proteobacteria
+Lachnoclostridium	Firmicutes
+Lachnospira	Firmicutes
+Lachnospiraceae AC2044 group	Firmicutes
+Lachnospiraceae FCS020 group	Firmicutes
+Lachnospiraceae NC2004 group	Firmicutes
+Lachnospiraceae ND3007 group	Firmicutes
+Lachnospiraceae NK4A136 group	Firmicutes
+Lachnospiraceae NK4B4 group	Firmicutes
+Lachnospiraceae UCG-001	Firmicutes
+Lachnospiraceae UCG-003	Firmicutes
+Lachnospiraceae UCG-004	Firmicutes
+Lachnospiraceae UCG-006	Firmicutes
+Lachnospiraceae UCG-008	Firmicutes
+Lachnospiraceae UCG-010	Firmicutes
+Lacibacter	Bacteroidota
+Lacibacterium	Proteobacteria
+Lacihabitans	Bacteroidota
+Lactobacillus	Firmicutes
+Lactococcus	Firmicutes
+Lacunisphaera	Verrucomicrobiota
+Lampropedia	Proteobacteria
+Lautropia	Proteobacteria
+Leadbetterella	Bacteroidota
+Lechevalieria	Actinobacteriota
+Legionella	Proteobacteria
+Lelliottia	Proteobacteria
+Lentilitoribacter	Proteobacteria
+Lentimicrobium	Bacteroidota
+Leptolinea	Chloroflexi
+Leptolyngbya ANT.L52.2	Cyanobacteria
+Leptolyngbya EcFYyyy-00	Cyanobacteria
+Leptolyngbya Es-Yyy1000	Cyanobacteria
+Leptolyngbya VRUC 135	Cyanobacteria
+Leptonema	Spirochaetota
+Leptothrix	Proteobacteria
+Leptotrichia	Fusobacteriota
+Leucobacter	Actinobacteriota
+Levilinea	Chloroflexi
+Limibaculum	Proteobacteria
+Limnobacter	Proteobacteria
+Limnohabitans	Proteobacteria
+Limnothrix	Cyanobacteria
+Litorilinea	Chloroflexi
+Longilinea	Chloroflexi
+Longispora	Actinobacteriota
+Longivirga	Actinobacteriota
+Loriellopsis LF-B5	Cyanobacteria
+Luedemannella	Actinobacteriota
+Luteibacter	Proteobacteria
+Luteimonas	Proteobacteria
+Luteitalea	Acidobacteriota
+Luteolibacter	Verrucomicrobiota
+Lutimonas	Bacteroidota
+Lysinibacillus	Firmicutes
+Lysobacter	Proteobacteria
+Macellibacteroides	Bacteroidota
+Macrococcus	Firmicutes
+Maricaulis	Proteobacteria
+Marimicrobium	Proteobacteria
+Marinicaulis	Proteobacteria
+Marinobacter	Proteobacteria
+Marinobacterium	Proteobacteria
+Marinomonas	Proteobacteria
+Marisediminicola	Actinobacteriota
+Marmoricola	Actinobacteriota
+Marvinbryantia	Firmicutes
+Massilia	Proteobacteria
+Mastigocladopsis PCC-10914	Cyanobacteria
+Megamonas	Firmicutes
+Megasphaera	Firmicutes
+Meiothermus	Deinococcota
+Melittangium	Myxococcota
+Membranicola	Bacteroidota
+Merdibacter	Firmicutes
+Mesorhizobium	Proteobacteria
+Methylibium	Proteobacteria
+Methylobacter	Proteobacteria
+Methylobacterium-Methylorubrum	Proteobacteria
+Methyloceanibacter	Proteobacteria
+Methylocella	Proteobacteria
+Methylocystis	Proteobacteria
+Methyloparacoccus	Proteobacteria
+Methylopila	Proteobacteria
+Methylorosula	Proteobacteria
+Methylosarcina	Proteobacteria
+Methylosinus	Proteobacteria
+Methylotenera	Proteobacteria
+Methyloversatilis	Proteobacteria
+Methylovirgula	Proteobacteria
+Methylovulum	Proteobacteria
+Microbacterium	Actinobacteriota
+Micrococcus	Actinobacteriota
+Microcoleus CENA344	Cyanobacteria
+Microcoleus Es-Yyy1400	Cyanobacteria
+Microcoleus PCC-7113	Cyanobacteria
+Microcoleus SAG 1449-1a	Cyanobacteria
+Microlunatus	Actinobacteriota
+Micromonospora	Actinobacteriota
+Microvirga	Proteobacteria
+Millisia	Actinobacteriota
+Mitsuokella	Firmicutes
+MIZ17	Methylomirabilota
+ML602J-51	Actinobacteriota
+mle1-7	Proteobacteria
+MM2	Proteobacteria
+MN 122.2a	Proteobacteria
+MND1	Proteobacteria
+Modestobacter	Actinobacteriota
+Moheibacter	Bacteroidota
+Monoglobus	Firmicutes
+Morganella	Proteobacteria
+Moritella	Proteobacteria
+Moryella	Firmicutes
+Mucilaginibacter	Bacteroidota
+Mucispirillum	Deferribacterota
+Muribaculum	Bacteroidota
+Mycetocola	Actinobacteriota
+Mycobacterium	Actinobacteriota
+Nakamurella	Actinobacteriota
+Nannocystis	Myxococcota
+Natranaerovirga	Firmicutes
+Negativibacillus	Firmicutes
+Neisseria	Proteobacteria
+Neo-b11	Proteobacteria
+Neochlamydia	Verrucomicrobiota
+Neptuniibacter	Proteobacteria
+Nesterenkonia	Actinobacteriota
+Nevskia	Proteobacteria
+Niastella	Bacteroidota
+Nibribacter	Bacteroidota
+Nitriliruptor	Actinobacteriota
+Nitrobacter	Proteobacteria
+Nitrolancea	Chloroflexi
+Nitrosomonas	Proteobacteria
+Nitrosospira	Proteobacteria
+Nitrospira	Nitrospirota
+NK4A214 group	Firmicutes
+Nocardia	Actinobacteriota
+Nocardioides	Actinobacteriota
+Nodosilinea PCC-7104	Cyanobacteria
+Nonomuraea	Actinobacteriota
+Nordella	Proteobacteria
+Nostoc PCC-73102	Cyanobacteria
+Noviherbaspirillum	Proteobacteria
+Novosphingobium	Proteobacteria
+oc32	Proteobacteria
+Oceanicella	Proteobacteria
+Oceanobacillus	Firmicutes
+Oceanobacter	Proteobacteria
+Ochrobactrum	Proteobacteria
+Odoribacter	Bacteroidota
+Ohtaekwangia	Bacteroidota
+Oikopleura	Verrucomicrobiota
+OLB12	Bacteroidota
+OLB13	Chloroflexi
+OLB17	Acidobacteriota
+OLB8	Bacteroidota
+Olivibacter	Bacteroidota
+Olsenella	Actinobacteriota
+OM27 clade	Bdellovibrionota
+OM60(NOR5) clade	Proteobacteria
+Opitutus	Verrucomicrobiota
+Oribacterium	Firmicutes
+Ornithinimicrobium	Actinobacteriota
+Ornithobacterium	Bacteroidota
+Oscillibacter	Firmicutes
+Oscillospira	Firmicutes
+Ottowia	Proteobacteria
+Oxalobacter	Proteobacteria
+P3OB-42	Myxococcota
+Paenarthrobacter	Actinobacteriota
+Paenibacillus	Firmicutes
+Paeniclostridium	Firmicutes
+Paenisporosarcina	Firmicutes
+Pajaroellobacter	Myxococcota
+Paludibacter	Bacteroidota
+Paludicola	Firmicutes
+Pantoea	Proteobacteria
+Papillibacter	Firmicutes
+Parabacteroides	Bacteroidota
+Parablastomonas	Proteobacteria
+Paraclostridium	Firmicutes
+Paracoccus	Proteobacteria
+Paraherbaspirillum	Proteobacteria
+Paramaledivibacter	Firmicutes
+Paraprevotella	Bacteroidota
+Parasegetibacter	Bacteroidota
+Parasphingopyxis	Proteobacteria
+Parasutterella	Proteobacteria
+Parvibacter	Actinobacteriota
+Parviterribacter	Actinobacteriota
+Patulibacter	Actinobacteriota
+Pediococcus	Firmicutes
+Pedobacter	Bacteroidota
+Pedomicrobium	Proteobacteria
+Pelagibacterium	Proteobacteria
+Pelolinea	Chloroflexi
+Pelomonas	Proteobacteria
+Pelosinus	Firmicutes
+Peptoclostridium	Firmicutes
+Peptococcus	Firmicutes
+Peptostreptococcus	Firmicutes
+Peredibacter	Bdellovibrionota
+Phaeobacter	Proteobacteria
+Phaeodactylibacter	Bacteroidota
+Phascolarctobacterium	Firmicutes
+Phaselicystis	Myxococcota
+Phenylobacterium	Proteobacteria
+Phocea	Firmicutes
+Phormidesmis ANT.L52.6	Cyanobacteria
+Phormidium SAG 37.90	Cyanobacteria
+Photobacterium	Proteobacteria
+Phreatobacter	Proteobacteria
+Phycicoccus	Actinobacteriota
+Phyllobacterium	Proteobacteria
+Phytohabitans	Actinobacteriota
+Phytomonospora	Actinobacteriota
+Pir4 lineage	Planctomycetota
+Pirellula	Planctomycetota
+Piscinibacter	Proteobacteria
+Planctomicrobium	Planctomycetota
+Planctopirus	Planctomycetota
+Planifilum	Firmicutes
+Planococcus	Firmicutes
+Planomonospora	Actinobacteriota
+Planosporangium	Actinobacteriota
+Plot4-2H12	Proteobacteria
+PMMR1	Proteobacteria
+Polaromonas	Proteobacteria
+Polycyclovorans	Proteobacteria
+Polymorphobacter	Proteobacteria
+Pontibacter	Bacteroidota
+Porphyrobacter	Proteobacteria
+Porphyromonas	Bacteroidota
+possible genus 04	Fibrobacterota
+Prevotella	Bacteroidota
+Prevotellaceae Ga6A1 group	Bacteroidota
+Prevotellaceae NK3B31 group	Bacteroidota
+Prevotellaceae UCG-001	Bacteroidota
+Prevotellaceae UCG-003	Bacteroidota
+Procabacter	Proteobacteria
+Promicromonospora	Actinobacteriota
+Propioniciclava	Actinobacteriota
+Prosthecobacter	Verrucomicrobiota
+Prosthecomicrobium	Proteobacteria
+Proteiniclasticum	Firmicutes
+Proteocatella	Firmicutes
+Proteus	Proteobacteria
+Providencia	Proteobacteria
+Pseudacidovorax	Proteobacteria
+Pseudahrensia	Proteobacteria
+Pseudaminobacter	Proteobacteria
+Pseudarcobacter	Campilobacterota
+Pseudarthrobacter	Actinobacteriota
+Pseudenhygromyxa	Myxococcota
+Pseudoalteromonas	Proteobacteria
+Pseudoclavibacter	Actinobacteriota
+Pseudoduganella	Proteobacteria
+Pseudoflavitalea	Bacteroidota
+Pseudoflavonifractor	Firmicutes
+Pseudofulvimonas	Proteobacteria
+Pseudogracilibacillus	Firmicutes
+Pseudogulbenkiania	Proteobacteria
+Pseudolabrys	Proteobacteria
+Pseudomonas	Proteobacteria
+Pseudonocardia	Actinobacteriota
+Pseudorhizobium	Proteobacteria
+Pseudorhodobacter	Proteobacteria
+Pseudorhodoferax	Proteobacteria
+Pseudorhodoplanes	Proteobacteria
+Pseudosphingobacterium	Bacteroidota
+Pseudoxanthomonas	Proteobacteria
+Psychrobacter	Proteobacteria
+Psychroglaciecola	Proteobacteria
+Puia	Bacteroidota
+Pygmaiobacter	Firmicutes
+Pyramidobacter	Synergistota
+Qipengyuania	Proteobacteria
+Quadrisphaera	Actinobacteriota
+Quatrionicoccus	Proteobacteria
+Quinella	Firmicutes
+Ralstonia	Proteobacteria
+Ramlibacter	Proteobacteria
+Raoultella	Proteobacteria
+RB41	Acidobacteriota
+Reyranella	Proteobacteria
+Rhizobacter	Proteobacteria
+Rhizocola	Actinobacteriota
+Rhizorhapis	Proteobacteria
+Rhodobacter	Proteobacteria
+Rhodobaculum	Proteobacteria
+Rhodococcus	Actinobacteriota
+Rhodocytophaga	Bacteroidota
+Rhodoferax	Proteobacteria
+Rhodoligotrophos	Proteobacteria
+Rhodomicrobium	Proteobacteria
+Rhodopila	Proteobacteria
+Rhodopirellula	Planctomycetota
+Rhodoplanes	Proteobacteria
+Rhodopseudomonas	Proteobacteria
+Rhodovarius	Proteobacteria
+Rhodovastum	Proteobacteria
+Rickettsiella	Proteobacteria
+Rikenella	Bacteroidota
+Rikenellaceae RC9 gut group	Bacteroidota
+Robiginitomaculum	Proteobacteria
+Robinsoniella	Firmicutes
+Rodentibacter	Proteobacteria
+Romboutsia	Firmicutes
+Roseateles	Proteobacteria
+Roseburia	Firmicutes
+Roseimicrobium	Verrucomicrobiota
+Roseisolibacter	Gemmatimonadota
+Roseobacter	Proteobacteria
+Roseobacter clade NAC11-7 lineage	Proteobacteria
+Roseomonas	Proteobacteria
+Roseovarius	Proteobacteria
+Rothia	Actinobacteriota
+Rubellimicrobium	Proteobacteria
+Rubritepida	Proteobacteria
+Rubrivivax	Proteobacteria
+Rubrobacter	Actinobacteriota
+Rufibacter	Bacteroidota
+Ruminobacter	Proteobacteria
+Ruminococcus	Firmicutes
+Runella	Bacteroidota
+Saccharopolyspora	Actinobacteriota
+Saccharothrix	Actinobacteriota
+Salinibacterium	Actinobacteriota
+Salinispora	Actinobacteriota
+Salipaludibacillus	Firmicutes
+Salmonella	Proteobacteria
+Sandaracinus	Myxococcota
+Sarcina	Firmicutes
+SCGC-AB-539-J10	Chloroflexi
+Schlegelella	Proteobacteria
+Schlesneria	Planctomycetota
+Scytonema UTEX 2349	Cyanobacteria
+Sediminibacterium	Bacteroidota
+SEEP-SRB1	Desulfobacterota
+Segetibacter	Bacteroidota
+Sellimonas	Firmicutes
+Seohaeicola	Proteobacteria
+Serinicoccus	Actinobacteriota
+Serratia	Proteobacteria
+SH-PL14	Planctomycetota
+SH3-11	Verrucomicrobiota
+Sh765B-TzT-35	Methylomirabilota
+Shewanella	Proteobacteria
+Shimazuella	Firmicutes
+Shinella	Proteobacteria
+Shuttleworthia	Firmicutes
+Siccibacter	Proteobacteria
+Silicimonas	Proteobacteria
+Simplicispira	Proteobacteria
+Singulisphaera	Planctomycetota
+Skermanella	Proteobacteria
+Slackia	Actinobacteriota
+SM1A02	Planctomycetota
+Smithella	Desulfobacterota
+Solibacillus	Firmicutes
+Solirubrobacter	Actinobacteriota
+Soonwooa	Bacteroidota
+Sorangium	Myxococcota
+Sphaerisporangium	Actinobacteriota
+Sphaerotilus	Proteobacteria
+Sphingoaurantiacus	Proteobacteria
+Sphingobacterium	Bacteroidota
+Sphingobium	Proteobacteria
+Sphingomonas	Proteobacteria
+Sphingopyxis	Proteobacteria
+Sphingorhabdus	Proteobacteria
+Spirillospora	Actinobacteriota
+Spirosoma	Bacteroidota
+Sporacetigenium	Firmicutes
+Sporichthya	Actinobacteriota
+Sporocytophaga	Bacteroidota
+Sporosarcina	Firmicutes
+Stackebrandtia	Actinobacteriota
+Staphylococcus	Firmicutes
+Stappia	Proteobacteria
+Starkeya	Proteobacteria
+Stenotrophobacter	Acidobacteriota
+Stenotrophomonas	Proteobacteria
+Steroidobacter	Proteobacteria
+Streptococcus	Firmicutes
+Streptomyces	Actinobacteriota
+Subdoligranulum	Firmicutes
+Subgroup 10	Acidobacteriota
+Succinivibrio	Proteobacteria
+Sulfitobacter	Proteobacteria
+Sulfuriferula	Proteobacteria
+Sulfurifustis	Proteobacteria
+Sulfuritalea	Proteobacteria
+Sulfurovum	Campilobacterota
+Sumerlaea	Sumerlaeota
+Sutterella	Proteobacteria
+Suttonella	Proteobacteria
+Sva0081 sediment group	Desulfobacterota
+Sva0996 marine group	Actinobacteriota
+SWB02	Proteobacteria
+Symplocastrum CPER-KK1	Cyanobacteria
+Synergistes	Synergistota
+Syntrophobacter	Desulfobacterota
+Syntrophorhabdus	Desulfobacterota
+Syntrophus	Desulfobacterota
+SZB85	Proteobacteria
+Tabrizicola	Proteobacteria
+Tagaea	Proteobacteria
+Tahibacter	Proteobacteria
+Taibaiella	Bacteroidota
+Tateyamaria	Proteobacteria
+Tenggerimyces	Actinobacteriota
+Tepidimonas	Proteobacteria
+Tepidisphaera	Planctomycetota
+Terrabacter	Actinobacteriota
+Terrimicrobium	Verrucomicrobiota
+Terrimonas	Bacteroidota
+Terrisporobacter	Firmicutes
+Tessaracoccus	Actinobacteriota
+Tetrasphaera	Actinobacteriota
+Thalassospira	Proteobacteria
+Thauera	Proteobacteria
+Thermoleophilum	Actinobacteriota
+Thermomonas	Proteobacteria
+Thermomonospora	Actinobacteriota
+Thioalkalivibrio	Proteobacteria
+Thiobacillus	Proteobacteria
+Thiothrix	Proteobacteria
+TM7a	Patescibacteria
+TPD-58	Acidobacteriota
+Treponema	Spirochaetota
+Trichococcus	Firmicutes
+Trichocoleus SAG 26.92	Cyanobacteria
+Truepera	Deinococcota
+Tsukamurella	Actinobacteriota
+Tumebacillus	Firmicutes
+Tunicatimonas	Bacteroidota
+Turicibacter	Firmicutes
+Tuzzerella	Firmicutes
+TX1A-55	Proteobacteria
+Tychonema CCAP 1459-11B	Cyanobacteria
+Tyzzerella	Firmicutes
+UBA1819	Firmicutes
+UC5-1-2E3	Firmicutes
+UCG-002	Firmicutes
+UCG-003	Firmicutes
+UCG-005	Firmicutes
+UCG-007	Firmicutes
+UCG-008	Firmicutes
+UCG-009	Firmicutes
+UKL13-1	Proteobacteria
+Umezawaea	Actinobacteriota
+Undibacterium	Proteobacteria
+Ursidibacter	Proteobacteria
+UTBCD1	Bacteroidota
+UTCFX1	Chloroflexi
+V9D2013 group	Firmicutes
+Vagococcus	Firmicutes
+Vallitalea	Firmicutes
+Vampirovibrio	Cyanobacteria
+Variovorax	Proteobacteria
+Veillonella	Firmicutes
+Verruc-01	Verrucomicrobiota
+Verrucomicrobium	Verrucomicrobiota
+Vibrio	Proteobacteria
+Vicinamibacter	Acidobacteriota
+Virgisporangium	Actinobacteriota
+Vogesella	Proteobacteria
+Vulgatibacter	Myxococcota
+wb1-P19	Proteobacteria
+WCHB1-32	Bacteroidota
+Weissella	Firmicutes
+Williamwhitmania	Bacteroidota
+Woeseia	Proteobacteria
+Wohlfahrtiimonas	Proteobacteria
+Wolbachia	Proteobacteria
+XBB1006	Firmicutes
+Xylophilus	Proteobacteria
+YC-ZSS-LKJ147	Gemmatimonadota
+Yersinia	Proteobacteria
+Yimella	Actinobacteriota
+Yoonia-Loktanella	Proteobacteria
+Zavarzinella	Planctomycetota
+Zoogloea	Proteobacteria
+ZOR0006	Firmicutes
